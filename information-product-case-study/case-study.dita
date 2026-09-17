@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+  <topic id="case-study-introduction" xml:lang="en-GB">
+    <title>Technical Writing Case Study: Reworking an Audio Annotation Information Product</title>
+    <shortdesc>A before-and-after case study of an audio-visual annotation information product.</shortdesc>
+    <body>
+      <p>Technical Writing Case Study</p>
+      <p>Reworking an Audio Annotation Information Product</p>
+      <p>Information architecture · Metadata · Technical editing · Quality assurance</p>
+      <fig id="workflow-overview">
+        <title>Initial information product, analysis, and reworked information product</title>
+        <image href="images/workflow-overview.png"><alt>Workflow showing the initial three broad tracks, analysis, and the reworked eleven-track information product.</alt></image>
+      </fig>
+      <p>A before-and-after case study demonstrating the restructuring of an audio-visual annotation information product following evaluation feedback.</p>
+      <p>Technical Writing Portfolio · Scott Harmer · 2026</p>
+    </body>
+  </topic>
+  <topic id="case-study-at-a-glance" xml:lang="en-GB">
+    <title>Case Study at a Glance</title>
+    <body>
+      <p>This case study documents my review and rework of an audio-visual annotation information product within an AI data workflow. As the Information Product Reviewer, I assessed the product against established methodology guidelines and determined where targeted editing was sufficient and where structural rework was required.</p>
+      <simpletable keycol="1">
+        <sthead>
+          <stentry>At a Glance</stentry>
+          <stentry>Details</stentry>
+        </sthead>
+        <strow>
+          <stentry>Role</stentry>
+          <stentry>Information Product Reviewer</stentry>
+        </strow>
+        <strow>
+          <stentry>Scope</stentry>
+          <stentry>Audio-visual annotation information product</stentry>
+        </strow>
+        <strow>
+          <stentry>Transformation</stentry>
+          <stentry>3 tracks / 31 entries → 11 tracks / 35 entries</stentry>
+        </strow>
+        <strow>
+          <stentry>Quality Record</stentry>
+          <stentry>Management audit: 4.6/5; Team average: 4.3/5</stentry>
+        </strow>
+      </simpletable>
+      <p><xref href="case-study.dita#my-approach">Explore My Approach →</xref></p>
+      <p>The reworked product progressed from 3 broad tracks and 31 data entries to 11 specific tracks and 35 data entries. It subsequently passed to randomised quality control with only one edge-case terminology adjustment and no further structural rebuild required.</p>
+      <p><xref href="case-study.dita#results-impact">See Results / Impact →</xref></p>
+      <p>For a detailed before-and-after view of the product structure and supporting data.</p>
+      <p><xref href="case-study.dita#product-exemplar">View the Product Exemplar →</xref></p>
+      <p>For a simplified reference view of the information product as received and after rework.</p>
+      <section id="demonstrates">
+        <title>What This Case Study Demonstrates</title>
+        <p>Requirements and feedback analysis · editorial judgement · information architecture · taxonomy design · metadata writing · classification design · quality assurance · complex-content restructuring</p>
+      </section>
+    </body>
+  </topic>
+  <topic id="project-overview" xml:lang="en-GB">
+    <title>Project Overview</title>
+    <body>
+      <p>As an Information Product Reviewer, I assessed and reworked an audio annotation information product produced by a subject matter expert (SME). The product used metadata labels and corresponding metadata descriptions to define tracks, with individual sound data entries assigned to each track. Following my review and rework, the information product comprised 11 specific tracks containing 35 data entries.</p>
+      <p>The initial product used three broad tracks: Background Music, Human Sounds, and Sound Effects. My review identified significant issues with specificity, consistency, terminology, visual descriptions, data classification, and the relationship between individual entries and their assigned tracks. Using the established methodology guidelines as my reference, I refined the metadata labels and descriptions, standardised descriptive language, corrected data-entry classifications, and restructured the tracks to create a more precise and consistently organised information product.</p>
+    </body>
+  </topic>
+  <topic id="challenge" xml:lang="en-GB">
+    <title>The Challenge</title>
+    <body>
+      <p>Producing a high-quality audio annotation information product involves two distinct layers of information: the individual data entries and the metadata that organises them into tracks. Each has its own requirements, making it essential to maintain a clear separation between what describes an individual sound and what defines its broader classification.</p>
+      <p>At the data-entry level, each annotation must describe a sound accurately and consistently, using language based only on what can be identified through audio. At the metadata level, labels and descriptions must be specific enough to distinguish meaningful sound categories, while entries must be correctly grouped so that their relationship to the assigned track remains accurate and clear.</p>
+      <p>A further challenge is maintaining the boundary between audio and visual information. Visual details belong in their designated metadata field and must remain separate from metadata descriptions and data entries intended to describe sound.</p>
+      <p>The initial information product did not meet the required quality standards across these areas. Addressing the issues therefore required a methodical, guideline-based review of the metadata structure, descriptive language, data-entry classification, and the relationships between individual entries and their assigned tracks.</p>
+      <p><xref href="case-study.dita#case-study-at-a-glance">↑ Back to Case Study at a Glance</xref></p>
+    </body>
+  </topic>
+  <topic id="audience" xml:lang="en-GB">
+    <title>Audience</title>
+    <body>
+      <p>The information product supported a downstream AI/ML data workflow, where structured audio annotations could be used as training or evaluation data. This made consistency, specificity, and reliable classification especially important, as the information needed to be interpretable both by human reviewers and by the systems processing the structured data.</p>
+      <p>The immediate human audience also included subject matter experts and reviewers responsible for producing, evaluating, and maintaining the quality of the annotated information.</p>
+    </body>
+  </topic>
+  <topic id="my-role" xml:lang="en-GB">
+    <title>My Role</title>
+    <body>
+      <p>I work as an Information Product Reviewer at the third stage of the production workflow, following two subject matter expert (SME) stages. My responsibility is to assess each information product against the established methodology guidelines and determine the level of intervention required before it progresses toward client delivery.</p>
+      <p>Depending on the quality of the product, I either make targeted edits to resolve specific issues or carry out a complete rebuild when the structure, classification, or descriptive content does not meet the required standard. My review covers metadata, data-entry descriptions, taxonomy, classification, consistency, and the separation of information types.</p>
+      <p>After my review, the information product passes through one final internal stage before delivery to the client. I have maintained a personal compliance grade of 4.6/5, compared with a team average of 4.3/5.</p>
+      <p><xref href="case-study.dita#case-study-at-a-glance">↑ Back to Case Study at a Glance</xref></p>
+    </body>
+  </topic>
+  <topic id="my-approach" xml:lang="en-GB">
+    <title>My Approach</title>
+    <body>
+      <p>Rather than making isolated wording changes, I treated the evaluation findings as interconnected issues within the information structure.</p>
+    </body>
+  </topic>
+  <topic id="analysing-evaluation-feedback" xml:lang="en-GB">
+    <title>1. Analysing the evaluation feedback</title>
+    <body>
+      <p>I first separated the evaluation feedback into three distinct problem areas. This allowed me to identify recurring issues across the information product and establish a structured basis for the review.</p>
+      <simpletable keycol="1">
+        <sthead>
+          <stentry>Problem area</stentry>
+          <stentry>Review focus</stentry>
+        </sthead>
+        <strow>
+          <stentry>Metadata</stentry>
+          <stentry>Metadata labels; metadata descriptions; level of specificity; separation of information types</stentry>
+        </strow>
+        <strow>
+          <stentry>Data Entries</stentry>
+          <stentry>Descriptive language; consistency; ambiguity; language use; classification and grouping</stentry>
+        </strow>
+        <strow>
+          <stentry>Visual Descriptions</stentry>
+          <stentry>Grammar; specificity; accuracy; completeness; consistency</stentry>
+        </strow>
+      </simpletable>
+      <p>Categorising the feedback in this way helped me address recurring issues systematically rather than treating each correction as an isolated problem.</p>
+    </body>
+  </topic>
+  <topic id="granular-taxonomy" xml:lang="en-GB">
+    <title>2. Developing a more granular taxonomy</title>
+    <body>
+      <p>The original three-track structure was too broad to represent the different sound types with sufficient specificity. As part of my review, I reworked the taxonomy by separating broad categories into more precise tracks, using the guidelines to determine how distinct sound types should be classified.</p>
+      <p>The taxonomy expanded from 3 broad tracks to 11 specific tracks:</p>
+      <ul>
+        <li>Track 01: Music</li>
+        <li>Track 02: Female Speech</li>
+        <li>Track 03: Male Speech</li>
+        <li>Track 04: Deep Breathing</li>
+        <li>Track 05: Electro-mechanical Whirring</li>
+        <li>Track 06: Metallic Clicks</li>
+        <li>Track 07: Electric Crackling</li>
+        <li>Track 08: Haunting Vocalisation</li>
+        <li>Track 09: Footsteps</li>
+        <li>Track 10: Impact Thud</li>
+        <li>Track 11: Ethereal Vocalisation</li>
+      </ul>
+    </body>
+  </topic>
+  <topic id="metadata-descriptions" xml:lang="en-GB">
+    <title>3. Improving metadata descriptions</title>
+    <body>
+      <p>The metadata descriptions were revised to provide more specific, identifiable characteristics for each track. I reviewed the descriptions against the methodology guidelines and refined them to distinguish relevant qualities such as pitch, frequency, sound quality, vocal characteristics, language, and mechanical or electronic properties.</p>
+      <p>This made the metadata more informative and helped define the characteristics that distinguished one track from another.</p>
+      <simpletable keycol="1">
+        <sthead>
+          <stentry>Track</stentry>
+          <stentry>Metadata Label</stentry>
+          <stentry>Metadata Description</stentry>
+        </sthead>
+        <strow>
+          <stentry>Track 1</stentry>
+          <stentry>Music</stentry>
+          <stentry>Eerie, haunting electronic music.</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 2</stentry>
+          <stentry>Female Speech</stentry>
+          <stentry>Woman speaking English in a medium-pitched voice.</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 3</stentry>
+          <stentry>Male Speech</stentry>
+          <stentry>Man speaking in a medium-pitched voice in a non-English language.</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 4</stentry>
+          <stentry>Deep Breathing</stentry>
+          <stentry>Low-frequency breathing.</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 5</stentry>
+          <stentry>Electro-mechanical Whirring</stentry>
+          <stentry>Sharp, electro-mechanical whirring.</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 6</stentry>
+          <stentry>Metallic Clicks</stentry>
+          <stentry>Hollow, metallic clicks.</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 7</stentry>
+          <stentry>Electric Crackling</stentry>
+          <stentry>Eerie electric crackling.</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 8</stentry>
+          <stentry>Haunting Vocalisation</stentry>
+          <stentry>Digitised, haunting vocalisation.</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 9</stentry>
+          <stentry>Footsteps</stentry>
+          <stentry>Repeated dull impacts.</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 10</stentry>
+          <stentry>Impact Thud</stentry>
+          <stentry>Deep impact thud.</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 11</stentry>
+          <stentry>Ethereal Vocalisation</stentry>
+          <stentry>Eerie, ethereal vocalisation.</stentry>
+        </strow>
+      </simpletable>
+      <p>Together, these revisions created clearer distinctions between tracks and provided a more consistent metadata structure for classifying individual data entries.</p>
+    </body>
+  </topic>
+  <topic id="data-metadata-relationships" xml:lang="en-GB">
+    <title>4. Establishing clearer data-to-metadata relationships</title>
+    <body>
+      <p>Each track is defined by its metadata label and metadata description, with individual data entries assigned according to their sound characteristics. During the review, I identified issues with classification and grouping, including entries that did not align clearly with their assigned tracks.</p>
+      <p>I reviewed these relationships against the guidelines and reclassified entries where necessary, creating a clearer and more consistent connection between the individual sound descriptions and the tracks used to organise them.</p>
+      <fig id="data-metadata-example">
+        <title>Track 4 data-to-metadata relationship</title>
+        <image href="images/data-to-metadata-example.png"><alt>Track 4, Deep Breathing, linked to assigned data entries.</alt></image>
+      </fig>
+      <p>This structure creates a clear relationship between each track’s metadata and the individual data entries assigned to it, making classifications easier to interpret, review, and validate.</p>
+    </body>
+  </topic>
+  <topic id="standardising-data-entry-descriptions" xml:lang="en-GB">
+    <title>5. Standardising data-entry descriptions</title>
+    <body>
+      <p>I reviewed the individual data-entry descriptions for consistency, specificity, and adherence to the guidelines. The initial entries contained ambiguous or inconsistent language, mixed information types, and descriptions that did not always represent the sound precisely.</p>
+      <p>I standardised the descriptions using identifiable audio characteristics such as frequency, pitch, duration, repetition, intensity, sound quality, and vocal or mechanical properties. This created a more consistent descriptive pattern across the information product while preserving the characteristics of each individual sound.</p>
+      <simpletable>
+        <sthead>
+          <stentry>Before: Initial data-entry descriptions</stentry>
+          <stentry>After: Reworked data-entry descriptions</stentry>
+        </sthead>
+        <strow>
+          <stentry>#1 A creepy background music from an offscreen source featuring sustained dissonant harmonies and percussion sounds.</stentry>
+          <stentry>#1 Eerie electronic music with rhythmic percussive beats, heavy thuds, faint bells, and haunting wailing.</stentry>
+        </strow>
+        <strow>
+          <stentry>#5 A man calling a non-English name.</stentry>
+          <stentry>#5 Medium-pitched male speech in a non-English language.</stentry>
+        </strow>
+        <strow>
+          <stentry>#6 A woman breathing.</stentry>
+          <stentry>#6 Two rapid, shallow exhales of breath.</stentry>
+        </strow>
+      </simpletable>
+      <p>Standardising the descriptive language improved consistency across the data-entry layer and made individual sounds easier to interpret, classify, and review against the methodology guidelines.</p>
+    </body>
+  </topic>
+  <topic id="separating-audio-visual" xml:lang="en-GB">
+    <title>6. Separating audio and visual information</title>
+    <body>
+      <p>The review identified cases where visual information had been included in fields intended to describe audio. To maintain a clear separation between information types, I removed visual references from metadata descriptions and individual audio data entries and kept visual details within their designated field.</p>
+      <p>This ensured that each field served a distinct purpose: audio descriptions documented identifiable sound characteristics, while visual information remained separate within the metadata structure.</p>
+      <simpletable>
+        <sthead>
+          <stentry>Audio Information</stentry>
+          <stentry>Visual Information</stentry>
+        </sthead>
+        <strow>
+          <stentry>Sound characteristics</stentry>
+          <stentry>Visible people or objects</stentry>
+        </strow>
+        <strow>
+          <stentry>Pitch / frequency</stentry>
+          <stentry>Appearance</stentry>
+        </strow>
+        <strow>
+          <stentry>Duration</stentry>
+          <stentry>Movement</stentry>
+        </strow>
+        <strow>
+          <stentry>Repetition</stentry>
+          <stentry>Scene details</stentry>
+        </strow>
+        <strow>
+          <stentry>Sound quality</stentry>
+          <stentry></stentry>
+        </strow>
+      </simpletable>
+      <p>Separating information by type improved clarity, reduced ambiguity, and helped maintain a more consistent information structure across the product.</p>
+      <p><xref href="case-study.dita#case-study-at-a-glance">↑ Back to Case Study at a Glance</xref></p>
+    </body>
+  </topic>
+  <topic id="deliverables" xml:lang="en-GB">
+    <title>Deliverables</title>
+    <body>
+      <p>The review resulted in a fully reworked audio annotation information product, with changes spanning the taxonomy, metadata, data-entry descriptions, classification structure, and separation of information types.</p>
+      <simpletable keycol="1">
+        <sthead>
+          <stentry>Deliverable</stentry>
+          <stentry>Output</stentry>
+        </sthead>
+        <strow>
+          <stentry>Reworked information product</stentry>
+          <stentry>Final structure comprising 11 tracks and 35 data entries.</stentry>
+        </strow>
+        <strow>
+          <stentry>Refined taxonomy</stentry>
+          <stentry>Reworked from 3 broad tracks to 11 specific sound categories.</stentry>
+        </strow>
+        <strow>
+          <stentry>Revised metadata</stentry>
+          <stentry>More specific metadata labels and descriptions defining each track.</stentry>
+        </strow>
+        <strow>
+          <stentry>Standardised data entries</stentry>
+          <stentry>A reworked set of 35 audio descriptions using more consistent and identifiable sound characteristics.</stentry>
+        </strow>
+        <strow>
+          <stentry>Corrected classification structure</stentry>
+          <stentry>Data entries reassigned and grouped according to their appropriate tracks, supported by the final correlation legend.</stentry>
+        </strow>
+        <strow>
+          <stentry>Separated information types</stentry>
+          <stentry>Audio and visual information kept within their designated fields.</stentry>
+        </strow>
+      </simpletable>
+      <p>Following the rework, the information product met the required methodology standards to progress to the next quality-control stage. During randomised QC, only one edge-case terminology adjustment was made: “apparition” was changed to “haunting” in the Track 8 metadata description, while “apparition” was retained in the designated visual description field. This preserved the distinction between audio and visual information while aligning the metadata terminology with the applicable guideline standard.</p>
+    </body>
+  </topic>
+  <topic id="technical-complexity" xml:lang="en-GB">
+    <title>Technical Complexity</title>
+    <body>
+      <p>The technical complexity of the project came from understanding how multiple layers of structured information interacted within a guideline-driven annotation system. Effective review required more than editing individual descriptions; I needed to understand the information model, classification logic, terminology rules, and relationships between metadata, tracks, data entries, and visual information.</p>
+      <simpletable keycol="1">
+        <sthead>
+          <stentry>Key Complexity Area</stentry>
+          <stentry>Description</stentry>
+        </sthead>
+        <strow>
+          <stentry>Information Model</stentry>
+          <stentry>Metadata label + metadata description define a track, with individual data entries assigned to that track.</stentry>
+        </strow>
+        <strow>
+          <stentry>Taxonomy &amp; Classification</stentry>
+          <stentry>Distinct sound characteristics had to be identified and organised into sufficiently specific categories while maintaining accurate entry-to-track relationships.</stentry>
+        </strow>
+        <strow>
+          <stentry>Information Separation</stentry>
+          <stentry>Audio and visual information followed different requirements and needed to remain within their designated fields.</stentry>
+        </strow>
+        <strow>
+          <stentry>Methodology &amp; Compliance</stentry>
+          <stentry>Each decision had to align with established methodology guidelines, including terminology, specificity, classification, and edge-case usage.</stentry>
+        </strow>
+      </simpletable>
+      <p>Working within these constraints required me to evaluate each change at both the individual-entry level and the wider information-structure level, ensuring that local edits remained consistent with the product as a whole.</p>
+    </body>
+  </topic>
+  <topic id="results-impact" xml:lang="en-GB">
+    <title>Results / Impact</title>
+    <body>
+      <p>The rework produced a more granular, consistent, and clearly organised information product that met the required methodology standard to progress to quality control. The final structure comprised 11 specific tracks and 35 data entries, with clearer metadata definitions, more precise classification, and standardised descriptive language.</p>
+      <simpletable keycol="1">
+        <sthead>
+          <stentry>Metric</stentry>
+          <stentry>Result</stentry>
+        </sthead>
+        <strow>
+          <stentry>Tracks</stentry>
+          <stentry>3 → 11 · Broad → specific taxonomy</stentry>
+        </strow>
+        <strow>
+          <stentry>Data Entries</stentry>
+          <stentry>31 → 35 · Initial → reworked product</stentry>
+        </strow>
+        <strow>
+          <stentry>Compliance Grade</stentry>
+          <stentry>4.6/5 · Team average: 4.3/5</stentry>
+        </strow>
+      </simpletable>
+      <p>Overall, the rework improved the product’s structure, consistency, and classification accuracy while reducing the need for further intervention at the QC stage. The outcome demonstrates the value of applying technical-writing principles beyond sentence-level editing, particularly through clearer terminology, stronger classification, consistent descriptions, and more effective taxonomy, metadata, and information architecture.</p>
+      <p><xref href="case-study.dita#case-study-at-a-glance">↑ Back to Case Study at a Glance</xref></p>
+    </body>
+  </topic>
+  <topic id="what-i-learned" xml:lang="en-GB">
+    <title>What I Learned</title>
+    <body>
+      <p>This project reinforced that effective technical writing extends beyond improving individual sentences. In a structured information product, clarity depends on how taxonomy, metadata, classification, descriptive language, and information boundaries work together.</p>
+      <p>It also strengthened my judgement in deciding when targeted editing is sufficient and when a product requires a more substantial rebuild. Reviewing both individual entries and the wider information structure helped me make changes that were accurate at the local level while remaining consistent across the product.</p>
+      <p>The QC outcome also highlighted the importance of precise terminology in edge cases, particularly when a term may be appropriate in one information field but not another.</p>
+    </body>
+  </topic>
+  <topic id="tools-skills" xml:lang="en-GB">
+    <title>Tools &amp; Skills</title>
+    <body>
+      <p>This project combined structured content review, technical editing, information architecture, and quality assurance within a guideline-driven AI data workflow.</p>
+      <simpletable>
+        <sthead>
+          <stentry>Tools &amp; Methods</stentry>
+          <stentry>Technical Writing Skills</stentry>
+        </sthead>
+        <strow>
+          <stentry>Proprietary CCMS</stentry>
+          <stentry>Information architecture</stentry>
+        </strow>
+        <strow>
+          <stentry>Slack</stentry>
+          <stentry>Taxonomy development</stentry>
+        </strow>
+        <strow>
+          <stentry>AI tools</stentry>
+          <stentry>Metadata review and refinement</stentry>
+        </strow>
+        <strow>
+          <stentry>Methodology guidelines</stentry>
+          <stentry>Technical editing</stentry>
+        </strow>
+        <strow>
+          <stentry>Structured annotation data</stentry>
+          <stentry>Classification and grouping</stentry>
+        </strow>
+        <strow>
+          <stentry>Correlation legend</stentry>
+          <stentry>Content quality assurance</stentry>
+        </strow>
+        <strow>
+          <stentry>Quality-control workflow</stentry>
+          <stentry>SME content review</stentry>
+        </strow>
+        <strow>
+          <stentry>Guideline-based evaluation</stentry>
+          <stentry>Consistency and ambiguity reduction</stentry>
+        </strow>
+        <strow>
+          <stentry></stentry>
+          <stentry>Audio / visual information separation</stentry>
+        </strow>
+      </simpletable>
+      <p>Core competencies: Information architecture · Taxonomy · Metadata · Technical editing · Content review · Quality assurance · Guideline compliance</p>
+      <p><xref href="case-study.dita#case-study-at-a-glance">↑ Back to Case Study at a Glance</xref></p>
+    </body>
+  </topic>
+  <topic id="product-exemplar" xml:lang="en-GB">
+    <title>Appendix — Product Exemplar</title>
+    <body>
+      <p>The following visuals provide a simplified reference view of the information product as received and after rework, showing the change in track structure, data-entry classification, and visual-description coverage.</p>
+      <p>The initial product used three broad tracks to organise 31 data entries, with visual-description coverage distributed unevenly across the structure.</p>
+      <fig id="product-before">
+        <title>Before — product as received</title>
+        <image href="images/product-before.png"><alt>Initial product with three broad tracks and visual-description coverage.</alt></image>
+      </fig>
+      <p>The reworked product expanded the taxonomy to 11 specific tracks and 35 data entries, creating a more granular structure with clearer classification and visual-description coverage.</p>
+      <fig id="product-after">
+        <title>Final product</title>
+        <image href="images/product-after.png"><alt>Final product with eleven tracks, 35 data entries, and visual-description coverage.</alt></image>
+      </fig>
+      <p>The following reference tables provide the complete classification structure and data-entry descriptions for the information product before and after rework.</p>
+    </body>
+  </topic>
+  <topic id="initial-track-entry-mapping" xml:lang="en-GB">
+    <title>Initial Track-to-Entry Mapping</title>
+    <body>
+      <simpletable keycol="1">
+        <sthead>
+          <stentry>Track</stentry>
+          <stentry>Metadata Label</stentry>
+          <stentry>Assigned Data Entries</stentry>
+        </sthead>
+        <strow>
+          <stentry>Track 1</stentry>
+          <stentry>Background Music</stentry>
+          <stentry>#1</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 2</stentry>
+          <stentry>Human Sounds</stentry>
+          <stentry>#3, #5, #6, #8, #13, #15, #17, #19, #20, #22, #26, #30</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 3</stentry>
+          <stentry>Sound Effects</stentry>
+          <stentry>#2, #4, #7, #9, #10, #11, #12, #14, #16, #18, #21, #23, #24, #25, #27, #28, #29, #31</stentry>
+        </strow>
+      </simpletable>
+    </body>
+  </topic>
+  <topic id="initial-data-entry-register" xml:lang="en-GB">
+    <title>Initial Data-Entry Register</title>
+    <body>
+      <simpletable keycol="1">
+        <sthead>
+          <stentry>Entry</stentry>
+          <stentry>Data-Entry Description</stentry>
+        </sthead>
+        <strow>
+          <stentry>#1</stentry>
+          <stentry>A creepy background music from an offscreen source featuring sustained dissonant harmonies and percussion sounds</stentry>
+        </strow>
+        <strow>
+          <stentry>#2</stentry>
+          <stentry>Two brief high-frequency rubbing sounds as the boys materialize</stentry>
+        </strow>
+        <strow>
+          <stentry>#3</stentry>
+          <stentry>A woman calling a non-English name in a desperate voice</stentry>
+        </strow>
+        <strow>
+          <stentry>#4</stentry>
+          <stentry>A high-pitched piercing sound as the boys' images distort</stentry>
+        </strow>
+        <strow>
+          <stentry>#5</stentry>
+          <stentry>A man calling a non-English name</stentry>
+        </strow>
+        <strow>
+          <stentry>#6</stentry>
+          <stentry>A woman breathing</stentry>
+        </strow>
+        <strow>
+          <stentry>#7</stentry>
+          <stentry>Two high-frequency foot steps</stentry>
+        </strow>
+        <strow>
+          <stentry>#8</stentry>
+          <stentry>A woman gasping</stentry>
+        </strow>
+        <strow>
+          <stentry>#9</stentry>
+          <stentry>A prolonged high-frequency electric piercing sound effect as the boys' images distort</stentry>
+        </strow>
+        <strow>
+          <stentry>#10</stentry>
+          <stentry>A metallic crashing sound of the elevator doors closing shut</stentry>
+        </strow>
+        <strow>
+          <stentry>#11</stentry>
+          <stentry>A swooshing sound as the boys' heads turn around</stentry>
+        </strow>
+        <strow>
+          <stentry>#12</stentry>
+          <stentry>An electric sound effect as the middle of the screen distorts</stentry>
+        </strow>
+        <strow>
+          <stentry>#13</stentry>
+          <stentry>A man gasping</stentry>
+        </strow>
+        <strow>
+          <stentry>#14</stentry>
+          <stentry>A low-frequency, distant bang from an offscreen source echoing in the background</stentry>
+        </strow>
+        <strow>
+          <stentry>#15</stentry>
+          <stentry>A woman breathing</stentry>
+        </strow>
+        <strow>
+          <stentry>#16</stentry>
+          <stentry>A soft metallic bang from an offscreen source</stentry>
+        </strow>
+        <strow>
+          <stentry>#17</stentry>
+          <stentry>A set of the woman's breathing and non-speech voice echoing throughout the space</stentry>
+        </strow>
+        <strow>
+          <stentry>#18</stentry>
+          <stentry>Mechanical crashing sounds and hum as the elevator's light flickers and the car shakes</stentry>
+        </strow>
+        <strow>
+          <stentry>#19</stentry>
+          <stentry>A woman gasping</stentry>
+        </strow>
+        <strow>
+          <stentry>#20</stentry>
+          <stentry>Three breathing sounds from the woman. Last one is shaky.</stentry>
+        </strow>
+        <strow>
+          <stentry>#21</stentry>
+          <stentry>Two dry tapping foot steps</stentry>
+        </strow>
+        <strow>
+          <stentry>#22</stentry>
+          <stentry>A woman inhaling, exhaling loudly, before inhaling again</stentry>
+        </strow>
+        <strow>
+          <stentry>#23</stentry>
+          <stentry>A series of clicking sounds as the woman presses the elevator button</stentry>
+        </strow>
+        <strow>
+          <stentry>#24</stentry>
+          <stentry>A soft, smooth mechanical humming sound with rising frequency</stentry>
+        </strow>
+        <strow>
+          <stentry>#25</stentry>
+          <stentry>Three clicking sounds as the woman presses the elevator button</stentry>
+        </strow>
+        <strow>
+          <stentry>#26</stentry>
+          <stentry>A woman breathing</stentry>
+        </strow>
+        <strow>
+          <stentry>#27</stentry>
+          <stentry>A mechanical snapping sound as the light flickers</stentry>
+        </strow>
+        <strow>
+          <stentry>#28</stentry>
+          <stentry>Electric buzzing sound from offscreen source</stentry>
+        </strow>
+        <strow>
+          <stentry>#29</stentry>
+          <stentry>A soft, low-frequency dry mechanical click and two metallic clinks, followed by a hum with rising frequency,</stentry>
+        </strow>
+        <strow>
+          <stentry>#30</stentry>
+          <stentry>A woman breathing and gasping</stentry>
+        </strow>
+        <strow>
+          <stentry>#31</stentry>
+          <stentry>Two low-frequency, dry clicking sounds from an offscreen source</stentry>
+        </strow>
+      </simpletable>
+      <p>The initial register shows the inconsistency, ambiguity, and mixed information types present at the data-entry level before rework, providing a baseline for comparison with the final product.</p>
+    </body>
+  </topic>
+  <topic id="final-track-entry-mapping" xml:lang="en-GB">
+    <title>Final Track-to-Entry Mapping</title>
+    <body>
+      <p>The final mapping shows how the 35 reworked data entries were distributed across the 11 more specific metadata tracks.</p>
+      <simpletable keycol="1">
+        <sthead>
+          <stentry>Track</stentry>
+          <stentry>Metadata Label</stentry>
+          <stentry>Assigned Data Entries</stentry>
+        </sthead>
+        <strow>
+          <stentry>Track 1</stentry>
+          <stentry>Music</stentry>
+          <stentry>#1</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 2</stentry>
+          <stentry>Female Speech</stentry>
+          <stentry>#3, #18</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 3</stentry>
+          <stentry>Male Speech</stentry>
+          <stentry>#5, #14</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 4</stentry>
+          <stentry>Deep Breathing</stentry>
+          <stentry>#6, #9, #16, #21, #23, #25, #30, #34</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 5</stentry>
+          <stentry>Electro-mechanical Whirring</stentry>
+          <stentry>#11, #17, #19, #20, #22, #27, #28, #31, #32, #33</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 6</stentry>
+          <stentry>Metallic Clicks</stentry>
+          <stentry>#26, #29</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 7</stentry>
+          <stentry>Electric Crackling</stentry>
+          <stentry>#2, #4, #7, #10, #13</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 8</stentry>
+          <stentry>Haunting Vocalisation</stentry>
+          <stentry>#8, #35</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 9</stentry>
+          <stentry>Footsteps</stentry>
+          <stentry>#24</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 10</stentry>
+          <stentry>Impact Thud</stentry>
+          <stentry>#15</stentry>
+        </strow>
+        <strow>
+          <stentry>Track 11</stentry>
+          <stentry>Ethereal Vocalisation</stentry>
+          <stentry>#12</stentry>
+        </strow>
+      </simpletable>
+      <p>Compared with the initial three-track structure, the final mapping provides a more granular classification system and a clearer relationship between individual data entries and the metadata used to organise them.</p>
+    </body>
+  </topic>
+  <topic id="final-data-entry-register" xml:lang="en-GB">
+    <title>Final Data-Entry Register</title>
+    <body>
+      <simpletable keycol="1">
+        <sthead>
+          <stentry>Entry</stentry>
+          <stentry>Data-Entry Description</stentry>
+        </sthead>
+        <strow>
+          <stentry>#1</stentry>
+          <stentry>Eerie electronic music with rhythmic percussive beats, heavy thuds, faint bells, and haunting wailing.</stentry>
+        </strow>
+        <strow>
+          <stentry>#2</stentry>
+          <stentry>High-frequency electronic friction sound.</stentry>
+        </strow>
+        <strow>
+          <stentry>#3</stentry>
+          <stentry>High-pitched, tremulous female speech in English.</stentry>
+        </strow>
+        <strow>
+          <stentry>#4</stentry>
+          <stentry>High-frequency, warped electronic crackling.</stentry>
+        </strow>
+        <strow>
+          <stentry>#5</stentry>
+          <stentry>Medium-pitched male speech in a non-English language.</stentry>
+        </strow>
+        <strow>
+          <stentry>#6</stentry>
+          <stentry>Two rapid, shallow exhales of breath.</stentry>
+        </strow>
+        <strow>
+          <stentry>#7</stentry>
+          <stentry>Two high-frequency ticks.</stentry>
+        </strow>
+        <strow>
+          <stentry>#8</stentry>
+          <stentry>Faint, low-pitched, mumbling digitised vocalisation.</stentry>
+        </strow>
+        <strow>
+          <stentry>#9</stentry>
+          <stentry>Deep, breathy gasp.</stentry>
+        </strow>
+        <strow>
+          <stentry>#10</stentry>
+          <stentry>Prolonged high-frequency, warped electronic crackling.</stentry>
+        </strow>
+        <strow>
+          <stentry>#11</stentry>
+          <stentry>Heavy, metallic, clunking thud.</stentry>
+        </strow>
+        <strow>
+          <stentry>#12</stentry>
+          <stentry>Faint, ethereal, eerie vocalisations.</stentry>
+        </strow>
+        <strow>
+          <stentry>#13</stentry>
+          <stentry>Brief, high-frequency electronic crackling.</stentry>
+        </strow>
+        <strow>
+          <stentry>#14</stentry>
+          <stentry>Faint, medium-pitched male speech in a non-English language.</stentry>
+        </strow>
+        <strow>
+          <stentry>#15</stentry>
+          <stentry>Low-frequency, deep, ominous thud.</stentry>
+        </strow>
+        <strow>
+          <stentry>#16</stentry>
+          <stentry>Several shaky, shallow exhales of breath.</stentry>
+        </strow>
+        <strow>
+          <stentry>#17</stentry>
+          <stentry>Tinny, metallic thud.</stentry>
+        </strow>
+        <strow>
+          <stentry>#18</stentry>
+          <stentry>Three tremulous vocalisations.</stentry>
+        </strow>
+        <strow>
+          <stentry>#19</stentry>
+          <stentry>Heavy, dull mechanical thud.</stentry>
+        </strow>
+        <strow>
+          <stentry>#20</stentry>
+          <stentry>Airy, mechanical whirring sounds.</stentry>
+        </strow>
+        <strow>
+          <stentry>#21</stentry>
+          <stentry>Sudden, sharp gasp.</stentry>
+        </strow>
+        <strow>
+          <stentry>#22</stentry>
+          <stentry>Tinny, metallic clattering thud.</stentry>
+        </strow>
+        <strow>
+          <stentry>#23</stentry>
+          <stentry>Three slow, deliberate, tremulous breaths.</stentry>
+        </strow>
+        <strow>
+          <stentry>#24</stentry>
+          <stentry>Two faint, dull tapping thuds.</stentry>
+        </strow>
+        <strow>
+          <stentry>#25</stentry>
+          <stentry>Three tremulous, shallow exhales of breath.</stentry>
+        </strow>
+        <strow>
+          <stentry>#26</stentry>
+          <stentry>Repetitive hollow clicks.</stentry>
+        </strow>
+        <strow>
+          <stentry>#27</stentry>
+          <stentry>Brief mechanical clunking sounds.</stentry>
+        </strow>
+        <strow>
+          <stentry>#28</stentry>
+          <stentry>Rhythmic mechanical whirring rising in pace and intensity.</stentry>
+        </strow>
+        <strow>
+          <stentry>#29</stentry>
+          <stentry>Four rapid, hollow clicks.</stentry>
+        </strow>
+        <strow>
+          <stentry>#30</stentry>
+          <stentry>Rapid, shallow exhale of breath.</stentry>
+        </strow>
+        <strow>
+          <stentry>#31</stentry>
+          <stentry>High-frequency electric buzzing.</stentry>
+        </strow>
+        <strow>
+          <stentry>#32</stentry>
+          <stentry>Heavy, dull, metallic thuds.</stentry>
+        </strow>
+        <strow>
+          <stentry>#33</stentry>
+          <stentry>Rhythmic mechanical whirring sound rising in pace and intensity.</stentry>
+        </strow>
+        <strow>
+          <stentry>#34</stentry>
+          <stentry>Tremulous, breathy gasps.</stentry>
+        </strow>
+        <strow>
+          <stentry>#35</stentry>
+          <stentry>Faint, low-pitched, mumbling digitised vocalisation.</stentry>
+        </strow>
+      </simpletable>
+    </body>
+  </topic>
+  <topic id="qc-note" xml:lang="en-GB">
+    <title>QC note</title>
+    <body>
+      <p>Following the rework, the information product progressed to randomised quality control. Only one edge-case terminology adjustment was required: “apparition” was changed to “haunting” in the Track 8 metadata description while remaining in the visual description field. No structural rebuild was required.</p>
+      <p><xref href="case-study.dita#case-study-at-a-glance">↑ Back to Case Study at a Glance</xref></p>
+    </body>
+  </topic>
+</dita>

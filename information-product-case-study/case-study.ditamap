@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="en-GB">
+  <title>Technical Writing Case Study — Reworking an Audio Annotation Information Product</title>
+  <topicref href="case-study.dita#case-study-introduction"/>
+  <topicref href="case-study.dita#case-study-at-a-glance"/>
+  <topicref href="case-study.dita#project-overview"/>
+  <topicref href="case-study.dita#challenge"/>
+  <topicref href="case-study.dita#audience"/>
+  <topicref href="case-study.dita#my-role"/>
+  <topicref href="case-study.dita#my-approach">
+    <topicref href="case-study.dita#analysing-evaluation-feedback"/>
+    <topicref href="case-study.dita#granular-taxonomy"/>
+    <topicref href="case-study.dita#metadata-descriptions"/>
+    <topicref href="case-study.dita#data-metadata-relationships"/>
+    <topicref href="case-study.dita#standardising-data-entry-descriptions"/>
+    <topicref href="case-study.dita#separating-audio-visual"/>
+  </topicref>
+  <topicref href="case-study.dita#deliverables"/>
+  <topicref href="case-study.dita#technical-complexity"/>
+  <topicref href="case-study.dita#results-impact"/>
+  <topicref href="case-study.dita#what-i-learned"/>
+  <topicref href="case-study.dita#tools-skills"/>
+  <topicref href="case-study.dita#product-exemplar">
+    <topicref href="case-study.dita#initial-track-entry-mapping"/>
+    <topicref href="case-study.dita#initial-data-entry-register"/>
+    <topicref href="case-study.dita#final-track-entry-mapping"/>
+    <topicref href="case-study.dita#final-data-entry-register"/>
+    <topicref href="case-study.dita#qc-note"/>
+  </topicref>
+</map>
