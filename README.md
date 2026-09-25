@@ -23,6 +23,13 @@ A docs-as-code API documentation project demonstrating OpenAPI 3.1, JSON, GitHub
 - [View the API case study PDF](api-documentation/api-documentation-case-study.pdf)
 - [View the full API project repository](https://github.com/Scott-Harmer/task-management-api)
 
+## UX & UI Writing Samples
+
+Standalone UX writing and product-content examples demonstrating clear, user-focused communication for digital products.
+
+- [View UX/UI writing samples](ux-ui-writing/)
+- [View the Relay landing page](ux-ui-writing/relay-landing-page.pdf)
+
 ## Portfolio Development
 
 Additional projects will include UX writing, help content, interface copy, and other structured-content examples.
