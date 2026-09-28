@@ -19,3 +19,14 @@ A retrospective mapping of the same programme against the ADDIE framework: Analy
 A retrospective analysis of the programme using a performance-focused Action Mapping lens.
 
 [View the Action Mapping Lens PDF](action-mapping-lens.pdf)
+
+
+## Articulate Rise 360 Samples
+
+Interactive e-learning samples demonstrating instructional design, scenario-based learning, assessment design, accessibility awareness, SCORM publishing, and LMS testing.
+
+- [View Articulate Rise samples](articulate-rise/)
+- [View samples overview](articulate-rise/articulate-rise-samples-overview.pdf)
+- [Before You Paste It Into AI](articulate-rise/before-you-paste-it-into-ai.pdf)
+- [Running Effective 1:1 Meetings](articulate-rise/running-effective-1-1-meetings.pdf)
+- [Decoding DISC](articulate-rise/decoding-disc.pdf)
