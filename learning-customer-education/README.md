@@ -30,3 +30,11 @@ Interactive e-learning samples demonstrating instructional design, scenario-base
 - [Before You Paste It Into AI](articulate-rise/before-you-paste-it-into-ai.pdf)
 - [Running Effective 1:1 Meetings](articulate-rise/running-effective-1-1-meetings.pdf)
 - [Decoding DISC](articulate-rise/decoding-disc.pdf)
+
+
+## Source Evidence
+
+Selected original Cambridge DELTA programme-design material included as supporting evidence for the Learning & Customer Education portfolio.
+
+- [View source evidence](source-evidence/)
+- [View selected DELTA programme design evidence](source-evidence/selected-delta-programme-design-evidence.pdf)
