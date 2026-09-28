@@ -30,6 +30,15 @@ Standalone UX writing and product-content examples demonstrating clear, user-foc
 - [View UX/UI writing samples](ux-ui-writing/)
 - [View the Relay landing page](ux-ui-writing/relay-landing-page.pdf)
 
+## Learning & Customer Education
+
+Portfolio examples demonstrating learning design, customer education, instructional design frameworks, assessment, and learner-focused programme development.
+
+- [View Learning & Customer Education](learning-customer-education/)
+- [View Learning Programme Design](learning-customer-education/learning-programme-design.pdf)
+- [View ADDIE in Practice](learning-customer-education/addie-in-practice.pdf)
+- [View Action Mapping Lens](learning-customer-education/action-mapping-lens.pdf)
+
 ## Portfolio Development
 
 Additional projects will include UX writing, help content, interface copy, and other structured-content examples.
