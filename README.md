@@ -42,3 +42,10 @@ Portfolio examples demonstrating learning design, customer education, instructio
 ## Portfolio Development
 
 Additional projects will include UX writing, help content, interface copy, and other structured-content examples.
+
+
+## AirSense 10 CPAP Machine — SOP Project
+
+A four-page standard operating procedure for hospital technicians, accompanied by a one-page technical writing case study.
+
+[View the SOP project and case study](airsense-10-sop/README.md)
