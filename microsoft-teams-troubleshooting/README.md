@@ -4,11 +4,10 @@ An illustrated, seven-page troubleshooting guide designed to help employees reso
 
 ## Deliverables
 
-- **Troubleshooting guide:** Task-focused instructions for checking Teams controls, device selection, and operating-system permissions, supported by annotated visuals.
-- **Project case study:** A one-page account of the audience, information architecture, writing decisions, visual design, and quality review.
+- **[Troubleshooting guide (PDF)](teams-troubleshooting-guide.pdf):** Task-focused instructions for checking Teams controls, device selection, and operating-system permissions, supported by annotated visuals.
+- **[Project case study (PDF)](teams-project-case-study.pdf):** A one-page account of the audience, information architecture, writing decisions, visual design, and quality review.
 
 ## Skills demonstrated
 
 Procedural writing, troubleshooting workflows, cross-platform documentation, screenshot annotation, information design, and user-focused editing. The writing draws on principles of ASD-STE100 Simplified Technical English; no claim of formal compliance is made.
 
-*The two final PDFs will be added to this folder as separate portfolio deliverables.*
