@@ -46,6 +46,8 @@ An illustrated troubleshooting guide for Microsoft Teams microphone and camera i
 The project demonstrates procedural writing, troubleshooting workflows, visual documentation, user-focused editing, and application of ASD-STE100 Simplified Technical English principles.
 
 - [View the Microsoft Teams project](microsoft-teams-troubleshooting/)
+- [Read the troubleshooting guide (PDF)](microsoft-teams-troubleshooting/teams-troubleshooting-guide.pdf)
+- [Read the project case study (PDF)](microsoft-teams-troubleshooting/teams-project-case-study.pdf)
 
 ## Ukraine Education Industry Report (2021)
 
@@ -54,6 +56,7 @@ A 45-page strategic research report for a private client examining investment op
 The report demonstrates analytical writing, information architecture, financial data presentation, and evidence-based recommendations. Completed in October 2021, its conclusions reflect conditions and information available before Russia's full-scale invasion in February 2022.
 
 - [View the Ukraine education report project](ukraine-education-industry-report/)
+- [Read the full report (PDF)](ukraine-education-industry-report/ukraine-education-report-2021.pdf)
 
 ## Portfolio Development
 
