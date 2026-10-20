@@ -39,6 +39,22 @@ Portfolio examples demonstrating learning design, customer education, instructio
 - [View ADDIE in Practice](learning-customer-education/addie-in-practice.pdf)
 - [View Action Mapping Lens](learning-customer-education/action-mapping-lens.pdf)
 
+## Microsoft Teams Troubleshooting Guide and Case Study
+
+An illustrated troubleshooting guide for Microsoft Teams microphone and camera issues on Windows 11 and macOS, accompanied by a one-page case study describing the writing and design approach.
+
+The project demonstrates procedural writing, troubleshooting workflows, visual documentation, user-focused editing, and application of ASD-STE100 Simplified Technical English principles.
+
+- [View the Microsoft Teams project](microsoft-teams-troubleshooting/)
+
+## Ukraine Education Industry Report (2021)
+
+A 45-page strategic research report for a private client examining investment opportunities in international education in Kyiv, Ukraine. It combines market and regulatory research, competitor analysis, financial projections, risk assessment, and an exploratory parent survey.
+
+The report demonstrates analytical writing, information architecture, financial data presentation, and evidence-based recommendations. Completed in October 2021, its conclusions reflect conditions and information available before Russia's full-scale invasion in February 2022.
+
+- [View the Ukraine education report project](ukraine-education-industry-report/)
+
 ## Portfolio Development
 
 Additional projects will include UX writing, help content, interface copy, and other structured-content examples.
