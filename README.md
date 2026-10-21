@@ -1,79 +1,101 @@
-# Technical Writing Portfolio
+# Technical Writing, Content Design & Learning Portfolio
 
-A selection of technical writing projects demonstrating structured content, information architecture, API documentation, DITA/XML, docs-as-code, quality assurance, and user-focused documentation.
+I develop clear, structured and audience-focused content across technical documentation, digital products, learning and professional communication. This portfolio brings together practical documentation, structured authoring, editorial work, instructional design and research-based reporting.
 
-## Academic Editing: Doctoral Thesis
+The projects demonstrate how I analyse complex information, make content decisions, organise material for different audiences and apply quality checks to improve clarity and usability.
 
-An anonymised sample from an ongoing doctoral thesis editing collaboration, demonstrating substantive academic editing, tracked revisions, author queries and citation quality assurance.
+## Core capabilities
 
-- [View the academic editing project](academic-editing/)
-- [View the annotated editing sample (PDF)](academic-editing/academic-editing-annotated-sample.pdf)
-- [Read the editing approach and reasoning (PDF)](academic-editing/academic-editing-explainer.pdf)
-- [Download the tracked editing sample (DOCX)](academic-editing/academic-editing-tracked-changes.docx)
+- **Technical writing and documentation:** Procedures, troubleshooting guides, API references, structured content and docs-as-code workflows.
+- **Content design and information architecture:** Content organisation, taxonomy, metadata, user-focused messaging and UX writing.
+- **Learning and customer education:** Learning needs analysis, programme design, instructional frameworks, e-learning and assessment.
+- **Editing and quality assurance:** Substantive editing, consistency, citation checks, validation and constructive author feedback.
+- **Research and analytical communication:** Evidence synthesis, strategic reporting, risk communication and decision-support content.
 
-## Information Product Review Case Study
+## 1. Technical Documentation & Structured Content
 
-A real-world case study showing the review and restructuring of an audio-visual annotation information product within an AI data workflow.
+### API Documentation Case Study
 
-The project demonstrates information architecture, taxonomy design, metadata writing, classification, technical editing, and quality assurance.
+A docs-as-code demonstration using OpenAPI 3.1, JSON, GitHub and Redocly CLI. The project connects machine-readable API specifications, validation and rendered developer documentation, showing how technical accuracy and documentation workflows work together.
 
-- [View the case study folder](information-product-case-study/)
-- [View the case study PDF](information-product-case-study/information-product-case-study.pdf)
-- [View the DITA map](information-product-case-study/case-study.ditamap)
-- [View the DITA/XML source](information-product-case-study/case-study.dita)
+**Skills:** OpenAPI, docs-as-code, JSON, validation, developer documentation.
 
-The DITA/XML version was tested with DITA Open Toolkit 4.4.1 and successfully generated as HTML5.
+[Project overview](api-documentation/) · [Case study PDF](api-documentation/api-documentation-case-study.pdf) · [Full API repository](https://github.com/Scott-Harmer/task-management-api)
 
-## API Documentation Case Study
+### Information Product Review and DITA/XML
 
-A docs-as-code API documentation project demonstrating OpenAPI 3.1, JSON, GitHub, Redocly CLI, validation, and rendered developer reference documentation.
+A case study examining the review and restructuring of an audio-visual annotation information product within an AI data workflow. It brings together information architecture, taxonomy and classification decisions, metadata, editorial quality assurance and structured DITA/XML authoring. The DITA version was tested with DITA Open Toolkit 4.4.1 and generated successfully as HTML5.
 
-- [View the API documentation folder](api-documentation/)
-- [View the API case study PDF](api-documentation/api-documentation-case-study.pdf)
-- [View the full API project repository](https://github.com/Scott-Harmer/task-management-api)
+**Skills:** Information architecture, taxonomy, metadata, DITA/XML, technical editing, quality assurance.
 
-## UX & UI Writing Samples
+[Project overview](information-product-case-study/) · [Case study PDF](information-product-case-study/information-product-case-study.pdf) · [DITA map](information-product-case-study/case-study.ditamap) · [DITA/XML source](information-product-case-study/case-study.dita)
 
-Standalone UX writing and product-content examples demonstrating clear, user-focused communication for digital products.
+### Microsoft Teams Troubleshooting Guide
 
-- [View UX/UI writing samples](ux-ui-writing/)
-- [View the Relay landing page](ux-ui-writing/relay-landing-page.pdf)
+An illustrated, seven-page guide to microphone and camera problems on Windows 11 and macOS. It demonstrates the challenge of turning multiple potential causes into a clear troubleshooting sequence, supported by visual guidance and concise procedural instructions. The writing draws on ASD-STE100 principles without claiming formal compliance.
 
-## Learning & Customer Education
+**Skills:** Troubleshooting, procedural writing, cross-platform documentation, visual communication.
 
-Portfolio examples demonstrating learning design, customer education, instructional design frameworks, assessment, and learner-focused programme development.
+[Project overview](microsoft-teams-troubleshooting/) · [Troubleshooting guide](microsoft-teams-troubleshooting/teams-troubleshooting-guide.pdf) · [Case study](microsoft-teams-troubleshooting/teams-project-case-study.pdf)
 
-- [View Learning & Customer Education](learning-customer-education/)
-- [View Learning Programme Design](learning-customer-education/learning-programme-design.pdf)
-- [View ADDIE in Practice](learning-customer-education/addie-in-practice.pdf)
-- [View Action Mapping Lens](learning-customer-education/action-mapping-lens.pdf)
+### AirSense 10 CPAP Equipment SOP
 
-## Microsoft Teams Troubleshooting Guide and Case Study
+A four-page procedural document for hospital technicians handling returned CPAP equipment, accompanied by a technical writing case study. It demonstrates safety-focused procedural structure, component-routing decisions, stop-work instructions and document control.
 
-An illustrated troubleshooting guide for Microsoft Teams microphone and camera issues on Windows 11 and macOS, accompanied by a one-page case study describing the writing and design approach.
+**Skills:** SOP writing, safety communication, procedural sequencing, document control.
 
-The project demonstrates procedural writing, troubleshooting workflows, visual documentation, user-focused editing, and application of ASD-STE100 Simplified Technical English principles.
+[Project and documents](airsense-10-sop/)
 
-- [View the Microsoft Teams project](microsoft-teams-troubleshooting/)
-- [Read the troubleshooting guide (PDF)](microsoft-teams-troubleshooting/teams-troubleshooting-guide.pdf)
-- [Read the project case study (PDF)](microsoft-teams-troubleshooting/teams-project-case-study.pdf)
+*Portfolio demonstration only. Draft, not approved for clinical use.*
 
-## Ukraine Education Industry Report (2021)
+## 2. Content Design & Editorial Work
 
-A 45-page strategic research report for a private client examining investment opportunities in international education in Kyiv, Ukraine. It combines market and regulatory research, competitor analysis, financial projections, risk assessment, and an exploratory parent survey.
+### Academic Editing: Doctoral Thesis
 
-The report demonstrates analytical writing, information architecture, financial data presentation, and evidence-based recommendations. Completed in October 2021, its conclusions reflect conditions and information available before Russia's full-scale invasion in February 2022.
+An anonymised sample from an ongoing four-year collaboration on a three-paper doctoral thesis. The work involves substantive editing of academic English, argument clarity, cohesion, terminology, APA 7 citation checks and constructive queries to the researcher. It requires balancing linguistic improvement with preservation of the author's meaning and academic ownership.
 
-- [View the Ukraine education report project](ukraine-education-industry-report/)
-- [Read the full report (PDF)](ukraine-education-industry-report/ukraine-education-report-2021.pdf)
+The three-paragraph sample was developed collaboratively for portfolio demonstration, with unresolved source questions retained transparently.
 
-## Portfolio Development
+**Skills:** Substantive editing, academic English, citation quality assurance, author collaboration.
 
-Additional projects will include UX writing, help content, interface copy, and other structured-content examples.
+[Project overview](academic-editing/) · [Annotated sample PDF](academic-editing/academic-editing-annotated-sample.pdf) · [Editing explainer](academic-editing/academic-editing-explainer.pdf) · [Tracked changes DOCX](academic-editing/academic-editing-tracked-changes.docx)
 
+### UX & UI Writing Samples
 
-## AirSense 10 CPAP Machine — SOP Project
+Product-content examples focused on clear messaging, information hierarchy and user-centred communication. The Relay landing page demonstrates value-proposition writing, benefit-led feature copy, calls to action, reassurance copy and FAQs for a fictional B2B workflow platform.
 
-A four-page standard operating procedure for hospital technicians, accompanied by a one-page technical writing case study.
+**Skills:** UX writing, product messaging, microcopy, plain language, information hierarchy.
 
-[View the SOP project and case study](airsense-10-sop/README.md)
+[Project overview](ux-ui-writing/) · [Relay landing page PDF](ux-ui-writing/relay-landing-page.pdf)
+
+## 3. Learning & Customer Education
+
+### Learning Programme Design and Instructional Design
+
+A needs-led, ten-week learning programme developed from diagnostic evidence, accompanied by retrospective analyses using ADDIE and Action Mapping. These samples demonstrate how learning needs, instructional decisions, performance goals and programme structure can be examined from different perspectives.
+
+**Skills:** Needs analysis, learning programme design, ADDIE, Action Mapping, assessment planning.
+
+[Learning project overview](learning-customer-education/) · [Programme design PDF](learning-customer-education/learning-programme-design.pdf) · [ADDIE analysis](learning-customer-education/addie-in-practice.pdf) · [Action Mapping analysis](learning-customer-education/action-mapping-lens.pdf)
+
+### Articulate Rise 360 and Supporting Evidence
+
+Interactive learning samples covering AI-related judgement, effective one-to-one meetings and DISC, supported by examples of assessment design, accessibility considerations and LMS-oriented publishing. The learning portfolio also includes selected original Cambridge DELTA programme-design evidence.
+
+**Skills:** E-learning, scenario-based learning, assessment, Articulate Rise 360, learning evidence.
+
+[Rise 360 samples](learning-customer-education/articulate-rise/) · [Samples overview PDF](learning-customer-education/articulate-rise/articulate-rise-samples-overview.pdf) · [DELTA source evidence](learning-customer-education/source-evidence/)
+
+## 4. Research & Strategic Communication
+
+### Ukraine Education Industry Report (2021)
+
+A 45-page strategic report prepared for a private client evaluating investment opportunities in international education in Kyiv. The work integrates market and regulatory research, competitor comparisons, financial projections, risk analysis and an exploratory survey of 23 parents into a decision-focused report with a supporting research annex.
+
+The complexity lies in bringing together different types of evidence, communicating uncertainty and presenting findings in a format suitable for strategic decisions.
+
+**Skills:** Research synthesis, strategic reporting, financial information design, risk communication, evidence-based recommendations.
+
+[Project overview](ukraine-education-industry-report/) · [Full report PDF](ukraine-education-industry-report/ukraine-education-report-2021.pdf)
+
+*Historical research completed in October 2021. Findings reflect conditions before Russia's full-scale invasion of Ukraine in February 2022 and are not a current market assessment.*
