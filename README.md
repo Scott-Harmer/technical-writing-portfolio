@@ -2,6 +2,15 @@
 
 A selection of technical writing projects demonstrating structured content, information architecture, API documentation, DITA/XML, docs-as-code, quality assurance, and user-focused documentation.
 
+## Academic Editing: Doctoral Thesis
+
+An anonymised sample from an ongoing doctoral thesis editing collaboration, demonstrating substantive academic editing, tracked revisions, author queries and citation quality assurance.
+
+- [View the academic editing project](academic-editing/)
+- [View the annotated editing sample (PDF)](academic-editing/academic-editing-annotated-sample.pdf)
+- [Read the editing approach and reasoning (PDF)](academic-editing/academic-editing-explainer.pdf)
+- [Download the tracked editing sample (DOCX)](academic-editing/academic-editing-tracked-changes.docx)
+
 ## Information Product Review Case Study
 
 A real-world case study showing the review and restructuring of an audio-visual annotation information product within an AI data workflow.
