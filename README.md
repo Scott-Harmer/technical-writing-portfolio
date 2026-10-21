@@ -12,7 +12,7 @@ The projects demonstrate how I analyse complex information, make content decisio
 - **Editing and quality assurance:** Substantive editing, consistency, citation checks, validation and constructive author feedback.
 - **Research and analytical communication:** Evidence synthesis, strategic reporting, risk communication and decision-support content.
 
-## 1. Technical Documentation & Structured Content
+## 1. Technical Documentation & Digital Content
 
 ### API Documentation Case Study
 
@@ -48,7 +48,15 @@ A four-page procedural document for hospital technicians handling returned CPAP 
 
 *Portfolio demonstration only. Draft, not approved for clinical use.*
 
-## 2. Content Design & Editorial Work
+### UX & UI Writing Samples
+
+Product-content examples focused on clear messaging, information hierarchy and user-centred communication. The Relay landing page demonstrates value-proposition writing, benefit-led feature copy, calls to action, reassurance copy and FAQs for a fictional B2B workflow platform.
+
+**Skills:** UX writing, product messaging, microcopy, plain language, information hierarchy.
+
+[Project overview](ux-ui-writing/) · [Relay landing page PDF](ux-ui-writing/relay-landing-page.pdf)
+
+## 2. Academic & Editorial Work
 
 ### Academic Editing: Doctoral Thesis
 
@@ -59,14 +67,6 @@ The three-paragraph sample was developed collaboratively for portfolio demonstra
 **Skills:** Substantive editing, academic English, citation quality assurance, author collaboration.
 
 [Project overview](academic-editing/) · [Annotated sample PDF](academic-editing/academic-editing-annotated-sample.pdf) · [Editing explainer](academic-editing/academic-editing-explainer.pdf) · [Tracked changes DOCX](academic-editing/academic-editing-tracked-changes.docx)
-
-### UX & UI Writing Samples
-
-Product-content examples focused on clear messaging, information hierarchy and user-centred communication. The Relay landing page demonstrates value-proposition writing, benefit-led feature copy, calls to action, reassurance copy and FAQs for a fictional B2B workflow platform.
-
-**Skills:** UX writing, product messaging, microcopy, plain language, information hierarchy.
-
-[Project overview](ux-ui-writing/) · [Relay landing page PDF](ux-ui-writing/relay-landing-page.pdf)
 
 ## 3. Learning & Customer Education
 
