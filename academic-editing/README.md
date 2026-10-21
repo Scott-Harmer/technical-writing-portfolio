@@ -8,6 +8,7 @@ The three-paragraph sample was developed collaboratively for portfolio demonstra
 
 ## Project documents
 
+- [View Annotated Editing Sample (PDF)](academic-editing-annotated-sample.pdf): One-click preview of editorial revisions, author comments and outstanding source queries.
 - [Academic Editing Explainer (PDF)](academic-editing-explainer.pdf): Project context, editorial approach and reasoning behind the changes.
 - [Tracked Editing Sample (DOCX)](academic-editing-tracked-changes.docx): Anonymised excerpts with tracked insertions, deletions and editorial comments.
 
