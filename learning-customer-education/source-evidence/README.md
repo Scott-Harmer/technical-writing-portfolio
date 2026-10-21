@@ -1,9 +1,26 @@
-# Source Evidence
+# Cambridge DELTA: Learning Programme Source Evidence
 
-Selected original materials from Cambridge DELTA programme-design work, included as supporting evidence for the Learning & Customer Education portfolio artefacts.
+## Purpose
 
-## Selected DELTA Programme Design Evidence
+Selected original materials from Cambridge DELTA programme-design work, included as supporting evidence for the Learning & Customer Education portfolio.
 
-This document contains selected, reformatted evidence from the original programme-design work, including needs analysis, diagnostic findings, learning priorities, programme structure, and evaluation.
+These materials help distinguish the underlying programme-design work from the later portfolio analyses using ADDIE and Action Mapping.
 
-[View the selected DELTA evidence](selected-delta-programme-design-evidence.pdf)
+## What the evidence covers
+
+The selected, reformatted document includes material relating to:
+
+- Needs analysis and diagnostic findings
+- Identification of learning priorities
+- Programme structure and sequencing
+- Evaluation considerations
+
+## Skills demonstrated
+
+Evidence-based learning design, diagnostic analysis, prioritisation, programme planning and evaluation.
+
+## Supporting document
+
+- [View selected DELTA programme-design evidence (PDF)](selected-delta-programme-design-evidence.pdf)
+
+*The document contains selected, reformatted evidence rather than the full original programme-design submission.*
