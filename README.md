@@ -94,8 +94,10 @@ A 45-page strategic report prepared for a private client evaluating investment o
 
 The complexity lies in bringing together different types of evidence, communicating uncertainty and presenting findings in a format suitable for strategic decisions.
 
-**Skills:** Research synthesis, strategic reporting, financial information design, risk communication, evidence-based recommendations.
+The report has also been converted into structured DITA/XML and DocBook 5.0 documentation, demonstrating XML authoring, publication structure, schema validation and HTML5 publishing. The DITA documentation was built using DITA Open Toolkit 4.4.1 with validation enabled, and the DocBook XML passed formal RELAX NG schema validation using `xmllint`.
 
-[Project overview](ukraine-education-industry-report/) · [Full report PDF](ukraine-education-industry-report/ukraine-education-report-2021.pdf)
+**Skills:** Research synthesis, strategic reporting, financial information design, risk communication, evidence-based recommendations, DITA/XML, DocBook 5, structured authoring, schema validation, HTML5 publishing.
+
+[Project overview](ukraine-education-industry-report/) · [Full report PDF](ukraine-education-industry-report/ukraine-education-report-2021.pdf) · [DITA bookmap](ukraine-education-industry-report/ukraine_education_report.ditamap) · [DITA topics](ukraine-education-industry-report/ukraine_education_report_topics.dita) · [DocBook 5 XML](ukraine-education-industry-report/ukraine_education_report_docbook.xml)
 
 *Historical research completed in October 2021. Findings reflect conditions before Russia's full-scale invasion of Ukraine in February 2022 and are not a current market assessment.*
