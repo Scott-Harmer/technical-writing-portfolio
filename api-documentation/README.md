@@ -23,7 +23,7 @@ It also illustrates how documentation can be managed as version-controlled sourc
 - [Read the API documentation case study (PDF)](api-documentation-case-study.pdf)
 - [Inspect the OpenAPI 3.1 source (YAML)](openapi/openapi.yaml)
 - [Inspect the bundled OpenAPI specification (JSON)](openapi.json)
-- [View the generated API reference (HTML source)](api-reference.html)
+- [View the interactive API reference](https://scott-harmer.github.io/technical-writing-portfolio/api-documentation/api-reference.html)
 - [Inspect the Redocly configuration](redocly.yaml)
 
 The API documentation source, generated reference and validation configuration are included in this portfolio repository. The example describes a fictional Task Management API with five documented operations. The original project records Redocly CLI validation with zero errors and zero warnings.
