@@ -6,12 +6,15 @@ This project converts my original 45-page 2021 report, *Ukraine: The Education I
 
 The source files preserve the report's historical context. This is a documentation engineering demonstration, not an updated assessment of the Ukrainian education market.
 
+**[Read the published HTML5 report](https://scott-harmer.github.io/technical-writing-portfolio/ukraine-education-industry-report/ukraine-report-html5/index.html)**
+
 ## Contents
 
 - [`ukraine_education_report.ditamap`](ukraine_education_report.ditamap): DITA bookmap defining the publication structure.
 - [`ukraine_education_report_topics.dita`](ukraine_education_report_topics.dita): DITA topic content.
 - [`ukraine_education_report_docbook.xml`](ukraine_education_report_docbook.xml): DocBook 5.0 version of the report.
 - [`images/`](images/): Cover image and supporting figures referenced by the XML source.
+- [`ukraine-report-html5/`](ukraine-report-html5/): Generated HTML5 report with navigation, stylesheets and images.
 
 ## Validation and publishing
 
