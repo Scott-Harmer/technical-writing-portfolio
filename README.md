@@ -98,6 +98,6 @@ The report has also been converted into structured DITA/XML and DocBook 5.0 docu
 
 **Skills:** Research synthesis, strategic reporting, financial information design, risk communication, evidence-based recommendations, DITA/XML, DocBook 5, structured authoring, schema validation, HTML5 publishing.
 
-[Project overview](ukraine-education-industry-report/) · [Full report PDF](ukraine-education-industry-report/ukraine-education-report-2021.pdf) · [DITA bookmap](ukraine-education-industry-report/ukraine_education_report.ditamap) · [DITA topics](ukraine-education-industry-report/ukraine_education_report_topics.dita) · [DocBook 5 XML](ukraine-education-industry-report/ukraine_education_report_docbook.xml)
+[Read the HTML5 report](https://scott-harmer.github.io/technical-writing-portfolio/ukraine-education-industry-report/ukraine-report-html5/index.html) · [Project overview](ukraine-education-industry-report/) · [Full report PDF](ukraine-education-industry-report/ukraine-education-report-2021.pdf) · [DITA bookmap](ukraine-education-industry-report/ukraine_education_report.ditamap) · [DITA topics](ukraine-education-industry-report/ukraine_education_report_topics.dita) · [DocBook 5 XML](ukraine-education-industry-report/ukraine_education_report_docbook.xml)
 
 *Historical research completed in October 2021. Findings reflect conditions before Russia's full-scale invasion of Ukraine in February 2022 and are not a current market assessment.*
