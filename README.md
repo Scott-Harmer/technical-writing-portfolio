@@ -20,7 +20,7 @@ A docs-as-code demonstration using OpenAPI 3.1, JSON, GitHub and Redocly CLI. Th
 
 **Skills:** OpenAPI, docs-as-code, JSON, validation, developer documentation.
 
-[Project overview](api-documentation/) · [Case study PDF](api-documentation/api-documentation-case-study.pdf) · [Full API repository](https://github.com/Scott-Harmer/task-management-api)
+[Project overview](api-documentation/) · [Case study PDF](api-documentation/api-documentation-case-study.pdf) · [OpenAPI source](api-documentation/openapi/openapi.yaml) · [Generated API reference](api-documentation/api-reference.html)
 
 ### Information Product Review and DITA/XML
 
