@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap id="ukraine-education-report" xml:lang="en-GB">
+  <booktitle>
+    <booklibrary>Ukraine</booklibrary>
+    <mainbooktitle>The Education Industry: Strategic Analysis and Market Outlook</mainbooktitle>
+    <booktitlealt>2021 Report</booktitlealt>
+  </booktitle>
+  <bookmeta>
+    <authorinformation>
+      <personinfo>
+        <namedetails>
+          <personname>
+            <firstname>Scott</firstname>
+            <lastname>Harmer</lastname>
+          </personname>
+        </namedetails>
+        <emailaddresses>
+          <emailaddress>scottcharmer@gmail.com</emailaddress>
+        </emailaddresses>
+      </personinfo>
+    </authorinformation>
+    <critdates>
+      <created date="2021-10"/>
+    </critdates>
+    <data name="prepared-for" value="Private Client"/>
+    <data name="running-footer" value="Ukraine: The Education Industry"/>
+    <data name="page-size" value="A4"/>
+    <data name="total-pages" value="45"/>
+  </bookmeta>
+  <frontmatter>
+    <topicref href="ukraine_education_report_topics.dita#cover" toc="no">
+      <topicmeta>
+        <navtitle>Cover</navtitle>
+        <data name="pdf-page" value="1"/>
+      </topicmeta>
+    </topicref>
+    <booklists>
+      <toc/>
+    </booklists>
+    <preface href="ukraine_education_report_topics.dita#executive-summary">
+      <topicmeta>
+        <navtitle>Executive Summary</navtitle>
+        <data name="pdf-page" value="4"/>
+      </topicmeta>
+    </preface>
+  </frontmatter>
+  <part href="ukraine_education_report_topics.dita#part-1">
+    <topicmeta>
+      <navtitle>Part 1: Client Decision Report</navtitle>
+      <data name="pdf-page" value="5"/>
+    </topicmeta>
+      <chapter href="ukraine_education_report_topics.dita#sec-1">
+        <topicmeta>
+          <navtitle>1 Recommendation</navtitle>
+          <data name="pdf-page" value="5"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#sec-1-1">
+          <topicmeta>
+            <navtitle>1.1 Should the Client Invest?</navtitle>
+            <data name="pdf-page" value="5"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-1-2">
+          <topicmeta>
+            <navtitle>1.2 Recommended Model</navtitle>
+            <data name="pdf-page" value="5"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-1-3">
+          <topicmeta>
+            <navtitle>1.3 Headline Figures</navtitle>
+            <data name="pdf-page" value="6"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-1-4">
+          <topicmeta>
+            <navtitle>1.4 Conditions for Proceeding</navtitle>
+            <data name="pdf-page" value="6"/>
+          </topicmeta>
+        </topicref>
+      </chapter>
+      <chapter href="ukraine_education_report_topics.dita#sec-2">
+        <topicmeta>
+          <navtitle>2 Is There Demand?</navtitle>
+          <data name="pdf-page" value="7"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#sec-2-1">
+          <topicmeta>
+            <navtitle>2.1 Growth of Private Education in Kyiv</navtitle>
+            <data name="pdf-page" value="7"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-2-2">
+          <topicmeta>
+            <navtitle>2.2 Enrolment at Existing International Schools</navtitle>
+            <data name="pdf-page" value="7"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-2-3">
+          <topicmeta>
+            <navtitle>2.3 Families Paying US$20,000 or More</navtitle>
+            <data name="pdf-page" value="7"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-2-4">
+          <topicmeta>
+            <navtitle>2.4 What Parents Want: Survey Findings</navtitle>
+            <data name="pdf-page" value="8"/>
+          </topicmeta>
+        </topicref>
+      </chapter>
+      <chapter href="ukraine_education_report_topics.dita#sec-3">
+        <topicmeta>
+          <navtitle>3 Who Are the Competitors?</navtitle>
+          <data name="pdf-page" value="9"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#sec-3-1">
+          <topicmeta>
+            <navtitle>3.1 The Three Major International Schools</navtitle>
+            <data name="pdf-page" value="9"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-3-2">
+          <topicmeta>
+            <navtitle>3.2 Other Schools Using the Term “International”</navtitle>
+            <data name="pdf-page" value="9"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-3-3">
+          <topicmeta>
+            <navtitle>3.3 Leading Private Schools</navtitle>
+            <data name="pdf-page" value="10"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-3-4">
+          <topicmeta>
+            <navtitle>3.4 Fee Comparison and Gaps in the Market</navtitle>
+            <data name="pdf-page" value="10"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-3-5">
+          <topicmeta>
+            <navtitle>3.5 Competitor Locations and Underserved Districts</navtitle>
+            <data name="pdf-page" value="10"/>
+          </topicmeta>
+        </topicref>
+      </chapter>
+      <chapter href="ukraine_education_report_topics.dita#sec-4">
+        <topicmeta>
+          <navtitle>4 Is It Permitted?</navtitle>
+          <data name="pdf-page" value="12"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#sec-4-1">
+          <topicmeta>
+            <navtitle>4.1 Ukrainian Licensing Requirements</navtitle>
+            <data name="pdf-page" value="12"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-4-2">
+          <topicmeta>
+            <navtitle>4.2 Building and Sanitary Standards</navtitle>
+            <data name="pdf-page" value="12"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-4-3">
+          <topicmeta>
+            <navtitle>4.3 International Accreditation Routes</navtitle>
+            <data name="pdf-page" value="12"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-4-4">
+          <topicmeta>
+            <navtitle>4.4 Recommended Accreditation Pathway</navtitle>
+            <data name="pdf-page" value="13"/>
+          </topicmeta>
+        </topicref>
+      </chapter>
+      <chapter href="ukraine_education_report_topics.dita#sec-5">
+        <topicmeta>
+          <navtitle>5 What Should Be Built?</navtitle>
+          <data name="pdf-page" value="14"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#sec-5-1">
+          <topicmeta>
+            <navtitle>5.1 Entry, Mid and High Models Compared</navtitle>
+            <data name="pdf-page" value="14"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-5-2">
+          <topicmeta>
+            <navtitle>5.2 Curriculum and Qualifications</navtitle>
+            <data name="pdf-page" value="14"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-5-3">
+          <topicmeta>
+            <navtitle>5.3 Class Sizes and Staffing</navtitle>
+            <data name="pdf-page" value="15"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-5-4">
+          <topicmeta>
+            <navtitle>5.4 Campus Requirements</navtitle>
+            <data name="pdf-page" value="16"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-5-5">
+          <topicmeta>
+            <navtitle>5.5 Recommended Model</navtitle>
+            <data name="pdf-page" value="16"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-5-6">
+          <topicmeta>
+            <navtitle>5.6 University Guidance and International Programmes Office</navtitle>
+            <data name="pdf-page" value="16"/>
+          </topicmeta>
+        </topicref>
+      </chapter>
+      <chapter href="ukraine_education_report_topics.dita#sec-6">
+        <topicmeta>
+          <navtitle>6 What Will It Cost and Earn?</navtitle>
+          <data name="pdf-page" value="18"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#sec-6-1">
+          <topicmeta>
+            <navtitle>6.1 Set-up Costs: Land, Construction and Fit-out</navtitle>
+            <data name="pdf-page" value="18"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-6-2">
+          <topicmeta>
+            <navtitle>6.2 Operating Costs: Staff, Premises and Operations</navtitle>
+            <data name="pdf-page" value="18"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-6-3">
+          <topicmeta>
+            <navtitle>6.3 Fee Income and Enrolment Growth</navtitle>
+            <data name="pdf-page" value="19"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-6-4">
+          <topicmeta>
+            <navtitle>6.4 Profit and Loss, Years 1 to 7</navtitle>
+            <data name="pdf-page" value="19"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-6-5">
+          <topicmeta>
+            <navtitle>6.5 Break-even and Payback</navtitle>
+            <data name="pdf-page" value="20"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-6-6">
+          <topicmeta>
+            <navtitle>6.6 Sensitivity Analysis</navtitle>
+            <data name="pdf-page" value="20"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-6-7">
+          <topicmeta>
+            <navtitle>6.7 Legal Structure and Tax Planning</navtitle>
+            <data name="pdf-page" value="21"/>
+          </topicmeta>
+        </topicref>
+      </chapter>
+      <chapter href="ukraine_education_report_topics.dita#sec-7">
+        <topicmeta>
+          <navtitle>7 What Could Go Wrong?</navtitle>
+          <data name="pdf-page" value="22"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#sec-7-1">
+          <topicmeta>
+            <navtitle>7.1 Risk Assessment</navtitle>
+            <data name="pdf-page" value="22"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-7-2">
+          <topicmeta>
+            <navtitle>7.2 Risk Mitigation</navtitle>
+            <data name="pdf-page" value="22"/>
+          </topicmeta>
+        </topicref>
+      </chapter>
+      <chapter href="ukraine_education_report_topics.dita#sec-8">
+        <topicmeta>
+          <navtitle>8 What Happens Next?</navtitle>
+          <data name="pdf-page" value="24"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#sec-8-1">
+          <topicmeta>
+            <navtitle>8.1 Roadmap from Decision to Opening</navtitle>
+            <data name="pdf-page" value="24"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-8-2">
+          <topicmeta>
+            <navtitle>8.2 Decision Points</navtitle>
+            <data name="pdf-page" value="24"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#sec-8-3">
+          <topicmeta>
+            <navtitle>8.3 Immediate Next Steps</navtitle>
+            <data name="pdf-page" value="25"/>
+          </topicmeta>
+        </topicref>
+      </chapter>
+  </part>
+  <appendices href="ukraine_education_report_topics.dita#part-2">
+    <topicmeta>
+      <navtitle>Part 2: Research Annex</navtitle>
+      <data name="pdf-page" value="26"/>
+    </topicmeta>
+      <appendix href="ukraine_education_report_topics.dita#annex-a">
+        <topicmeta>
+          <navtitle>Annex A Ukraine’s Economy</navtitle>
+          <data name="pdf-page" value="26"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#annex-a-1">
+          <topicmeta>
+            <navtitle>A.1 Economic Overview</navtitle>
+            <data name="pdf-page" value="26"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-a-2">
+          <topicmeta>
+            <navtitle>A.2 Key Industries: Metallurgy, Agriculture, IT and Green Energy</navtitle>
+            <data name="pdf-page" value="27"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-a-3">
+          <topicmeta>
+            <navtitle>A.3 Remittances and Emigration</navtitle>
+            <data name="pdf-page" value="27"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-a-4">
+          <topicmeta>
+            <navtitle>A.4 Demographic Trends</navtitle>
+            <data name="pdf-page" value="28"/>
+          </topicmeta>
+        </topicref>
+      </appendix>
+      <appendix href="ukraine_education_report_topics.dita#annex-b">
+        <topicmeta>
+          <navtitle>Annex B The Ukrainian Education System</navtitle>
+          <data name="pdf-page" value="30"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#annex-b-1">
+          <topicmeta>
+            <navtitle>B.1 Structure: the Transition from 11 to 12 Years</navtitle>
+            <data name="pdf-page" value="30"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-b-2">
+          <topicmeta>
+            <navtitle>B.2 Government Funding</navtitle>
+            <data name="pdf-page" value="30"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-b-3">
+          <topicmeta>
+            <navtitle>B.3 The New Ukrainian School Reform</navtitle>
+            <data name="pdf-page" value="31"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-b-4">
+          <topicmeta>
+            <navtitle>B.4 PISA Results and English Proficiency</navtitle>
+            <data name="pdf-page" value="31"/>
+          </topicmeta>
+        </topicref>
+      </appendix>
+      <appendix href="ukraine_education_report_topics.dita#annex-c">
+        <topicmeta>
+          <navtitle>Annex C The Private Education Market</navtitle>
+          <data name="pdf-page" value="33"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#annex-c-1">
+          <topicmeta>
+            <navtitle>C.1 Private Schools: Numbers and Enrolment</navtitle>
+            <data name="pdf-page" value="33"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-c-2">
+          <topicmeta>
+            <navtitle>C.2 International Schools</navtitle>
+            <data name="pdf-page" value="33"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-c-3">
+          <topicmeta>
+            <navtitle>C.3 English Language Schools</navtitle>
+            <data name="pdf-page" value="34"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-c-4">
+          <topicmeta>
+            <navtitle>C.4 Fees in Ukraine and Abroad</navtitle>
+            <data name="pdf-page" value="34"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-c-5">
+          <topicmeta>
+            <navtitle>C.5 Ukrainian Students Studying Abroad</navtitle>
+            <data name="pdf-page" value="35"/>
+          </topicmeta>
+        </topicref>
+      </appendix>
+      <appendix href="ukraine_education_report_topics.dita#annex-d">
+        <topicmeta>
+          <navtitle>Annex D Parent Survey</navtitle>
+          <data name="pdf-page" value="36"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#annex-d-1">
+          <topicmeta>
+            <navtitle>D.1 Method and Sample</navtitle>
+            <data name="pdf-page" value="36"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-d-2">
+          <topicmeta>
+            <navtitle>D.2 Questionnaire</navtitle>
+            <data name="pdf-page" value="36"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-d-3">
+          <topicmeta>
+            <navtitle>D.3 Full Results</navtitle>
+            <data name="pdf-page" value="36"/>
+          </topicmeta>
+        </topicref>
+      </appendix>
+      <appendix href="ukraine_education_report_topics.dita#annex-e">
+        <topicmeta>
+          <navtitle>Annex E Accreditation Bodies</navtitle>
+          <data name="pdf-page" value="38"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#annex-e-1">
+          <topicmeta>
+            <navtitle>E.1 Cambridge Assessment International Education and Cambridge English</navtitle>
+            <data name="pdf-page" value="38"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-e-2">
+          <topicmeta>
+            <navtitle>E.2 International Baccalaureate</navtitle>
+            <data name="pdf-page" value="38"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-e-3">
+          <topicmeta>
+            <navtitle>E.3 Council of International Schools and European Associations</navtitle>
+            <data name="pdf-page" value="39"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-e-4">
+          <topicmeta>
+            <navtitle>E.4 US and Canadian Accreditation</navtitle>
+            <data name="pdf-page" value="39"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-e-5">
+          <topicmeta>
+            <navtitle>E.5 ISO 21001</navtitle>
+            <data name="pdf-page" value="39"/>
+          </topicmeta>
+        </topicref>
+      </appendix>
+      <appendix href="ukraine_education_report_topics.dita#annex-f">
+        <topicmeta>
+          <navtitle>Annex F Staffing, Visa and Property Data</navtitle>
+          <data name="pdf-page" value="41"/>
+        </topicmeta>
+        <topicref href="ukraine_education_report_topics.dita#annex-f-1">
+          <topicmeta>
+            <navtitle>F.1 Teacher and Leadership Salaries</navtitle>
+            <data name="pdf-page" value="41"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-f-2">
+          <topicmeta>
+            <navtitle>F.2 Visa, Work Permit and Relocation Costs</navtitle>
+            <data name="pdf-page" value="41"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-f-3">
+          <topicmeta>
+            <navtitle>F.3 Teacher Housing</navtitle>
+            <data name="pdf-page" value="42"/>
+          </topicmeta>
+        </topicref>
+        <topicref href="ukraine_education_report_topics.dita#annex-f-4">
+          <topicmeta>
+            <navtitle>F.4 Commercial Lease Rates and Construction Costs</navtitle>
+            <data name="pdf-page" value="42"/>
+          </topicmeta>
+        </topicref>
+      </appendix>
+      <appendix href="ukraine_education_report_topics.dita#annex-g">
+        <topicmeta>
+          <navtitle>Annex G Sources</navtitle>
+          <data name="pdf-page" value="43"/>
+        </topicmeta>
+      </appendix>
+  </appendices>
+  <backmatter>
+    <notices href="ukraine_education_report_topics.dita#contact">
+      <topicmeta>
+        <navtitle>Contact</navtitle>
+        <data name="pdf-page" value="45"/>
+      </topicmeta>
+    </notices>
+  </backmatter>
+</bookmap>

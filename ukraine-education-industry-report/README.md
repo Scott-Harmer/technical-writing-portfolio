@@ -1,32 +1,40 @@
-# Ukraine Education Industry: Strategic Analysis and Market Outlook (2021)
+# Structured documentation: DITA and DocBook 5
 
 ## Project overview
 
-A 45-page strategic research report prepared for a private client considering investment in international education in Kyiv, Ukraine.
+This project converts my original 45-page 2021 report, *Ukraine: The Education Industry: Strategic Analysis and Market Outlook*, into two structured documentation formats: DITA/XML and DocBook 5.0. The original report remains available in the [parent project folder](../).
 
-The report combines a decision-focused client document with a detailed research annex. It examines demand, competition, regulation and accreditation, school operating models, financial feasibility, implementation risks and a proposed investment roadmap.
+The source files preserve the report's historical context. This is a documentation engineering demonstration, not an updated assessment of the Ukrainian education market.
 
-## The research and communication challenge
+## Contents
 
-The client needed to consider several interconnected questions: whether market demand justified further exploration, how the competitive and regulatory environment could affect a proposed school, what the financial assumptions implied and which risks required attention.
+- [`ukraine_education_report.ditamap`](ukraine_education_report.ditamap): DITA bookmap defining the publication structure.
+- [`ukraine_education_report_topics.dita`](ukraine_education_report_topics.dita): DITA topic content.
+- [`ukraine_education_report_docbook.xml`](ukraine_education_report_docbook.xml): DocBook 5.0 version of the report.
+- [`images/`](images/): Cover image and 15 figures referenced by the XML source.
 
-The challenge was to bring different forms of evidence together without obscuring uncertainty or presenting exploratory findings as definitive.
+## Validation and publishing
 
-## My approach and skills demonstrated
+- The DITA bookmap contains 80 verified references.
+- HTML5 output was successfully built with DITA Open Toolkit 4.4.1 using validation enabled. The resulting table-of-contents navigation was tested in Chrome.
+- The DocBook 5.0 XML passed RELAX NG schema validation with `xmllint` and the official DocBook 5.0 schema.
 
-- **Market and competitor research:** Organising evidence about demand, providers and the operating environment.
-- **Regulatory analysis:** Presenting accreditation and other relevant requirements as part of the decision context.
-- **Financial information design:** Communicating projections and assumptions in a readable form.
-- **Risk communication:** Identifying and structuring implementation risks.
-- **Primary research:** Incorporating an exploratory survey of 23 Kyiv parents, while acknowledging methodological limitations.
-- **Strategic reporting:** Combining executive-level findings, supporting analysis and recommendations in a navigable report.
+### Reproduce the DITA HTML5 build
 
-## Deliverable
+With DITA Open Toolkit 4.4.1 installed, run from this directory:
 
-- [Read the full strategic report (PDF)](ukraine-education-report-2021.pdf): The 45-page report and supporting research material.
+```bash
+dita --input ukraine_education_report.ditamap --format html5 --output html5 --validate true
+```
 
-## Historical context and limitations
+### Reproduce DocBook 5.0 validation
 
-The report was completed in October 2021, before Russia's full-scale invasion of Ukraine in February 2022. Its findings, assumptions and projections reflect information available at that time and **must not be interpreted as a current assessment** of the Ukrainian education market.
+Download the official schema from `https://cdn.docbook.org/schema/5.0/rng/docbook.rng`, then run:
 
-The report did consider Russia-related escalation among its risks. The parent survey was exploratory and should not be treated as statistically representative of the wider market.
+```bash
+xmllint --noout --relaxng docbook.rng ukraine_education_report_docbook.xml
+```
+
+## Authorship and context
+
+Original report and structured-documentation conversion by Scott Harmer. The report was written in 2021, before Russia's full-scale invasion of Ukraine in February 2022. Its research and projections should not be treated as current.

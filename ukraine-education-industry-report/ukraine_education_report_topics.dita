@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!-- Ukraine: The Education Industry. Strategic Analysis and Market Outlook (October 2021). All topics referenced by ukraine_education_report.ditamap. -->
+<dita xml:lang="en-GB">
+  <topic id="cover" outputclass="cover">
+    <title>Ukraine: The Education Industry: Strategic Analysis and Market Outlook</title>
+    <body>
+      <p outputclass="cover-country">Ukraine</p>
+      <p outputclass="cover-title">The Education Industry: Strategic Analysis and Market Outlook</p>
+      <p outputclass="cover-edition"><i>2021 Report</i></p>
+      <fig outputclass="cover-image">
+        <image href="images/cover.jpg" placement="break" align="center" width="595pt">
+          <alt>Interior of a modern school building with a curved green staircase, tall windows and suspended cylindrical lights.</alt>
+        </image>
+      </fig>
+      <p outputclass="cover-credit">Prepared for: Private Client</p>
+      <p outputclass="cover-credit">Prepared by: Scott Harmer</p>
+      <p outputclass="cover-credit">October 2021</p>
+    </body>
+  </topic>
+  <topic id="executive-summary">
+    <title>Executive Summary</title>
+    <shortdesc>This report recommends that the client establish a premium international school in Kyiv. The school should offer a British curriculum, teach 750 pupils aged 3 to 18, and operate from a purpose-built campus.</shortdesc>
+    <body>
+      <section>
+        <title>The Market</title>
+        <p>Demand for premium international education in Kyiv is strong and growing. The three leading international schools, Kyiv International School, Pechersk School International and the British International School Ukraine, each teach more than 500 pupils. Their annual fees are mostly between US$20,000 and US$30,000.</p>
+        <p>Private education is also expanding quickly. The number of pupils in Ukrainian private schools rose by about 175% between 2014/15 and 2020/21, with the largest concentration in Kyiv. Rising incomes in the IT sector and money sent home by Ukrainians working abroad are increasing the number of families who can pay premium fees.</p>
+      </section>
+      <section>
+        <title>The Proposal</title>
+        <p>The recommended school would compete directly with the market leaders. It would offer Cambridge qualifications (IGCSE and A Level) and could add the International Baccalaureate Diploma at a later stage. Annual fees would range from US$14,000 in the early years to US$27,000 in the final two years, in line with existing schools. Two lower-priced models were also assessed (Section 5). They earn a higher percentage return, but on a much smaller investment and in a more crowded market. Only the premium model can use the client’s capital at scale, generate the largest profit and create a valuable property asset.</p>
+        <table frame="topbot" colsep="0" rowsep="1">
+          <tgroup cols="2">
+            <colspec colname="c1" colwidth="285*"/>
+            <colspec colname="c2" colwidth="166*"/>
+            <thead>
+              <row><entry namest="c1" nameend="c2">Headline Figures</entry></row>
+            </thead>
+            <tbody>
+              <row><entry><b>Total investment</b></entry><entry><b>US$23.1 million</b></entry></row>
+              <row><entry outputclass="indent">Land</entry><entry>US$6.0 million</entry></row>
+              <row><entry outputclass="indent">Construction, sports facilities, furniture, fees and contingency</entry><entry>US$15.6 million</entry></row>
+              <row><entry outputclass="indent">Pre-opening costs (recruitment, accreditation, marketing)</entry><entry>US$1.5 million</entry></row>
+              <row><entry><b>Proposed opening date</b></entry><entry><b>September 2024</b></entry></row>
+              <row><entry><b>Annual revenue at full operation (675 pupils, from year 6)</b></entry><entry><b>US$13.7 million</b></entry></row>
+              <row><entry><b>Annual operating profit (EBITDA*) at full operation</b></entry><entry><b>US$5.3 million (38% of revenue)</b></entry></row>
+              <row><entry><b>Operating break-even</b></entry><entry><b>about 230 pupils</b></entry></row>
+              <row><entry><b>Payback period from opening</b></entry><entry><b>about 8 years (after tax)</b></entry></row>
+              <row><entry><b>Annual return over 20 years (IRR**)</b></entry><entry><b>about 14%, after tax</b></entry></row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p outputclass="note">* EBITDA: earnings before interest, tax, depreciation and amortisation. ** IRR: internal rate of return, including the value of the land and buildings after 20 years. Based on a single for-profit company; alternative legal structures are assessed in Section 6.7.</p>
+      </section>
+      <section>
+        <title>Conditions for Proceeding</title>
+        <ol>
+          <li>Secure a site of 2.5 to 3 hectares with clear legal title and the necessary permits.</li>
+          <li>Set fees in US dollars to protect income against devaluation of the hryvnia.</li>
+          <li>Obtain Cambridge registration and a Ministry of Education and Science licence before opening.</li>
+          <li>Appoint an experienced head of school at least 18 months before opening.</li>
+          <li>Accept a payback period of about eight years.</li>
+          <li>Obtain advice from a Ukrainian tax specialist on the legal structure before buying land.</li>
+        </ol>
+      </section>
+      <section>
+        <title>Main Risks</title>
+        <p>The main risk is political. The conflict with Russia in eastern Ukraine has continued since 2014, and the build-up of Russian troops in spring 2021 showed that it could escalate. Escalation would reduce enrolment, especially among international families. Other risks are slower enrolment, currency devaluation and the recruitment of international teachers. If enrolment grows more slowly than planned, payback could take about eleven years (Section 7).</p>
+      </section>
+    </body>
+  </topic>
+  <topic id="part-1" outputclass="part">
+    <title>Part 1: Client Decision Report</title>
+  </topic>
+  <topic id="sec-1">
+    <title>1 Recommendation</title>
+    <shortdesc>This report recommends that the client invest in a premium international school in Kyiv. The opportunity is attractive for an investor with substantial capital, a long-term horizon and a tolerance for country risk.</shortdesc>
+  </topic>
+  <topic id="sec-1-1">
+    <title>1.1 Should the Client Invest?</title>
+    <body>
+      <p>Yes, provided that the conditions in Section 1.4 are met. Four findings support this recommendation.</p>
+      <ol>
+        <li><b>Demand is proven.</b> The three leading international schools in Kyiv each teach more than 500 pupils, and most of their fees exceed US$20,000 a year. Families in Kyiv are already paying premium fees in large numbers.</li>
+        <li><b>The market is growing.</b> The number of pupils in Ukrainian private schools rose by about 175% between 2014/15 and 2020/21. Kyiv has the highest concentration of private schools and the highest household incomes in Ukraine.</li>
+        <li><b>Accredited supply is limited.</b> Seven schools in Ukraine describe themselves as international, but only three offer International Baccalaureate programmes, and all three are in Kyiv. A new, fully accredited school with modern facilities would compete with only a small number of established providers.</li>
+        <li><b>The financial case is strong.</b> At full operation, the school would generate an operating profit of about US$5.3 million a year. It would repay the initial investment in about eight years and return about 14% a year over 20 years, after tax.</li>
+      </ol>
+      <p>The investment also carries significant risks. The most serious is the conflict with Russia, which has continued in eastern Ukraine since 2014. A major escalation could cause international families to leave and could damage the value of the investment. The client should proceed only if it can accept this risk (Section 7).</p>
+    </body>
+  </topic>
+  <topic id="sec-1-2">
+    <title>1.2 Recommended Model</title>
+    <body>
+      <p>Three models were assessed: Entry, Mid and High (Section 5). This report recommends the High model, a premium international school, because it makes the best use of the capital available to the client and produces the largest profit. The lower-priced models earn a higher percentage return, but on a much smaller investment (Section 5.1).</p>
+      <table id="tbl-1" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 1: The recommended school</title>
+        <tgroup cols="2">
+          <colspec colname="c1" colwidth="120*"/>
+          <colspec colname="c2" colwidth="331*"/>
+          <thead>
+            <row><entry>Feature</entry><entry>Recommended model</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Type of school</b></entry><entry>Premium international day school, ages 3 to 18</entry></row>
+            <row><entry><b>Curriculum</b></entry><entry>British curriculum with Cambridge qualifications: Cambridge Primary, Lower Secondary, IGCSE and A Level</entry></row>
+            <row><entry><b>Later options</b></entry><entry>International Baccalaureate Diploma; Ukrainian state programme for families who need Ukrainian certificates</entry></row>
+            <row><entry><b>Language of instruction</b></entry><entry>English, with Ukrainian as a taught subject</entry></row>
+            <row><entry><b>Capacity</b></entry><entry>750 pupils, with an expected long-term enrolment of 675 (90%)</entry></row>
+            <row><entry><b>Campus</b></entry><entry>Purpose-built, about 10,000 square metres on a site of 2.5 to 3 hectares on the edge of Kyiv</entry></row>
+            <row><entry><b>Annual tuition</b></entry><entry>US$14,000 (early years) to US$27,000 (final two years)</entry></row>
+            <row><entry><b>Teaching staff</b></entry><entry>About 89 teachers at full operation, about 80% of them international</entry></row>
+            <row><entry><b>University guidance</b></entry><entry>A dedicated office and staff to support university applications abroad and approved international summer programmes (Section 5.6)</entry></row>
+            <row><entry><b>Proposed opening</b></entry><entry>September 2024</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>A British curriculum offers three advantages. First, Cambridge registration takes months rather than years, so the school can open with recognised qualifications. Second, Cambridge provides a complete pathway from age 5 to 18. Third, A Levels are accepted by universities in the United Kingdom, across Europe and in North America, which are the main destinations for Ukrainian students who study abroad.</p>
+      <p>The new school would also differ from its competitors in one important way: it would have the newest purpose-built campus in Kyiv. In the parent survey for this report, buildings and facilities were the most common complaint about existing schools (Section 2.4).</p>
+    </body>
+  </topic>
+  <topic id="sec-1-3">
+    <title>1.3 Headline Figures</title>
+    <body>
+      <p>The school would reach its long-term enrolment of 675 pupils in its sixth year. It would cover its operating costs from the first year and repay the full investment during the eighth year after opening. Figure 1 shows the investor’s cumulative cash position over 20 years.</p>
+      <fig id="fig-1">
+        <title>Figure 1: Cumulative cash position, single for-profit company (US$ million, after tax)</title>
+        <desc>Source: author’s financial model (Section 6). Excludes the value of the land and buildings, estimated at about US$11.8 million after 20 years. Section 6.7 compares this structure with a non-profit school, which pays less tax but limits the cash the investor can receive.</desc>
+        <image href="images/fig1_cumcash.png" placement="break" align="center" width="361pt">
+          <alt>Bar chart of the investor’s cumulative cash position from the build year to year 20, after tax. The position falls to minus US$23.1 million at the build stage, turns positive during year 8 and reaches US$56.5 million by year 20, excluding the value of the land and buildings.</alt>
+        </image>
+      </fig>
+    </body>
+  </topic>
+  <topic id="sec-1-4">
+    <title>1.4 Conditions for Proceeding</title>
+    <body>
+      <p>The recommendation depends on six conditions. If any of them cannot be met, the client should review the decision before committing further capital.</p>
+      <table id="tbl-2" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 2: Conditions for proceeding</title>
+        <tgroup cols="3">
+          <colspec colname="c1" colwidth="165*"/>
+          <colspec colname="c2" colwidth="191*"/>
+          <colspec colname="c3" colwidth="95*"/>
+          <thead>
+            <row><entry>Condition</entry><entry>Why it matters</entry><entry>When</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>1. Secure a site of 2.5 to 3 hectares with clear legal title and the necessary permits</entry><entry>Land disputes and permit delays are common in Kyiv and could delay opening by a year or more</entry><entry>Before purchase</entry></row>
+            <row><entry>2. Set fees in US dollars</entry><entry>Protects income against devaluation of the hryvnia; most costs are linked to the dollar</entry><entry>Before admissions open</entry></row>
+            <row><entry>3. Obtain Cambridge registration and a Ministry of Education and Science licence</entry><entry>The school cannot open or issue recognised qualifications without them</entry><entry>Before opening</entry></row>
+            <row><entry>4. Appoint an experienced head of school</entry><entry>Parents choose schools on reputation; an experienced head attracts both families and teachers</entry><entry>At least 18 months before opening</entry></row>
+            <row><entry>5. Accept a payback period of about eight years</entry><entry>Schools take five to six years to fill; returns come late</entry><entry>At the decision stage</entry></row>
+            <row><entry>6. Obtain advice from a Ukrainian tax specialist on the legal structure</entry><entry>The choice between a for-profit and a non-profit structure affects tax and investor returns</entry><entry>Before buying land</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+    </body>
+  </topic>
+  <topic id="sec-2">
+    <title>2 Is There Demand?</title>
+    <shortdesc>Yes. Demand for premium international education in Kyiv is proven, it is growing, and it is supported by rising incomes among the families who pay for it.</shortdesc>
+    <body>
+      <simpletable outputclass="key-figures" relcolwidth="1* 1* 1* 1*">
+        <strow><stentry>+175%</stentry><stentry>1 in 5</stentry><stentry>1,500+</stentry><stentry>$20,000+</stentry></strow>
+        <strow><stentry>growth in private-school pupils in Ukraine, 2014/15 to 2020/21</stentry><stentry>schools in Kyiv is private, compared with 1 in 50 nationally</stentry><stentry>pupils at the three leading international schools</stentry><stentry>typical annual fee (US dollars) at those schools</stentry></strow>
+      </simpletable>
+    </body>
+  </topic>
+  <topic id="sec-2-1">
+    <title>2.1 Growth of Private Education in Kyiv</title>
+    <body>
+      <p>Private education in Ukraine is still small, but it is growing quickly. In October 2021, Ukraine had 320 licensed private schools, about 2% of all schools in the country. Between 2014/15 and 2020/21, the number of pupils in private schools rose by about 175%.</p>
+      <p>This growth is concentrated in the capital. Of these, 108 are in Kyiv, which means that about one in five schools in the capital is private, compared with about one in fifty nationally. By 2018, Kyiv city and region already had 134 registered private schools. Kyiv also has the highest household incomes in Ukraine and the largest international community.</p>
+      <p>Two factors explain this growth. First, many parents are dissatisfied with state schools, especially with large classes and old buildings. Second, more families can now afford private fees, because of rising incomes in the IT sector and money sent home by Ukrainians working abroad (Annex A).</p>
+    </body>
+  </topic>
+  <topic id="sec-2-2">
+    <title>2.2 Enrolment at Existing International Schools</title>
+    <body>
+      <p>The three leading international schools are well established, and each teaches more than 500 pupils.</p>
+      <table id="tbl-3" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 3: The three leading international schools in Kyiv</title>
+        <desc>Sources: school websites and author’s research, 2021. Annual tuition at these schools ranges from about US$11,000 in the early years to over US$30,000 in the final years (Section 3.4).</desc>
+        <tgroup cols="4">
+          <colspec colname="c1" colwidth="120*"/>
+          <colspec colname="c2" colwidth="55*"/>
+          <colspec colname="c3" colwidth="170*"/>
+          <colspec colname="c4" colwidth="106*"/>
+          <thead>
+            <row><entry>School</entry><entry>Founded</entry><entry>Curriculum</entry><entry>Pupils (2021)</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Kyiv International School</b></entry><entry>1992</entry><entry>American, with Advanced Placement and IB Diploma</entry><entry>More than 500</entry></row>
+            <row><entry><b>Pechersk School International</b></entry><entry>1995</entry><entry>International Baccalaureate (Primary, Middle Years and Diploma)</entry><entry>More than 500</entry></row>
+            <row><entry><b>British International School Ukraine</b></entry><entry>1997</entry><entry>British, with Cambridge and Edexcel examinations and A Levels</entry><entry>More than 500, across campuses in Kyiv and Dnipro</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>All three are non-profit schools that were founded in the 1990s to serve diplomatic and business families. Over time, Ukrainian families have become an important part of their intake, which shows that demand no longer depends on the international community alone.</p>
+    </body>
+  </topic>
+  <topic id="sec-2-3">
+    <title>2.3 Families Paying US$20,000 or More</title>
+    <body>
+      <p>More than 1,500 pupils already attend schools charging around US$20,000 or more a year. This represents annual spending of more than US$30 million on premium international education in Kyiv. Several private schools with Ukrainian or blended programmes also have more than 300 pupils, and some of their families are likely to move to an international school as their incomes rise.</p>
+      <p>Many Ukrainian families also spend more than this to educate their children abroad. Fees at boarding schools in the United Kingdom and Switzerland usually exceed US$45,000 a year, before travel and living costs. According to CEDOS, about 77,400 Ukrainians were studying at foreign universities in 2016/17, and at least 83,000 in 2017/18. Almost half of them studied in Poland. A high-quality school in Kyiv that prepares pupils for these universities offers families a lower-cost alternative to sending children abroad at an early age.</p>
+      <p>To reach its long-term enrolment of 675 pupils, the new school would need a substantial share of this market. It would therefore draw on three sources: growth in the market, families who would otherwise choose a school abroad, and families who move from private or international schools to a newer campus.</p>
+    </body>
+  </topic>
+  <topic id="sec-2-4">
+    <title>2.4 What Parents Want: Survey Findings</title>
+    <body>
+      <p>An exploratory survey of 23 Kyiv parents was carried out for this report. Because the sample is small, the results show priorities and patterns rather than market shares. The full method and results are in Annex D.</p>
+      <ol>
+        <li><b>Families already pay premium fees.</b> About 30% of respondents paid between US$10,000 and US$20,000 a year per child, and 4% paid US$30,000 or more. These families wanted stronger English, international examinations and access to universities abroad. The proposed school would meet this need through a dedicated office that supports pupils with university applications and approved international summer programmes (Section 5.6).</li>
+        <li><b>Location and reputation decide the choice of school.</b> 52% of parents chose their school because it was close to home, and 48% because of its reputation. Site selection and early reputation-building will therefore be critical.</li>
+        <li><b>Facilities are the main weakness of existing schools.</b> 48% of parents disliked their school’s buildings and classrooms, more than any other factor (Figure 2). A new purpose-built campus would address this directly.</li>
+      </ol>
+      <fig id="fig-2">
+        <title>Figure 2: What parents like and dislike about their current school (% of respondents)</title>
+        <desc>Source: author’s survey of 23 Kyiv parents, 2021. Respondents could choose more than one answer.</desc>
+        <image href="images/fig2_likes.png" placement="break" align="center" width="415pt">
+          <alt>Diverging bar chart of what 23 Kyiv parents like and dislike about their current school. Buildings and classroom facilities are disliked by 48% and liked by 30%; quality of teaching is liked by 52% and disliked by 30%.</alt>
+        </image>
+      </fig>
+      <p>Teaching quality was the factor that parents liked most (52%). A new school must therefore recruit excellent teachers to compete with the established schools, as well as offer better facilities.</p>
+    </body>
+  </topic>
+  <topic id="sec-3">
+    <title>3 Who Are the Competitors?</title>
+    <shortdesc>The premium market in Kyiv is led by three established international schools. The new school would compete with them directly, but it can differ through its curriculum, its facilities and its location.</shortdesc>
+  </topic>
+  <topic id="sec-3-1">
+    <title>3.1 The Three Major International Schools</title>
+    <body>
+      <p>Kyiv International School, Pechersk School International and the British International School Ukraine are the main competitors. Each has more than 20 years of experience, a strong reputation and a large enrolment (Table 3, Section 2.2). Table 4 summarises how the proposed school would differ from each of them.</p>
+      <table id="tbl-4" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 4: The proposed school compared with the three leading schools</title>
+        <desc>Sources: school websites and published school information, 2021.</desc>
+        <tgroup cols="4">
+          <colspec colname="c1" colwidth="95*"/>
+          <colspec colname="c2" colwidth="85*"/>
+          <colspec colname="c3" colwidth="135*"/>
+          <colspec colname="c4" colwidth="136*"/>
+          <thead>
+            <row><entry>School</entry><entry>Location</entry><entry>Main strengths</entry><entry>How the proposed school would differ</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Kyiv International School</b></entry><entry>Sviatoshynskyi district (west)</entry><entry>Long track record since 1992; Advanced Placement and IB Diploma</entry><entry>British curriculum, which suits families aiming for universities in the United Kingdom and Europe; newer campus</entry></row>
+            <row><entry><b>Pechersk School International</b></entry><entry>Holosiivskyi district (south)</entry><entry>Full IB programme from primary to Diploma level; strong academic reputation</entry><entry>Cambridge qualifications as an alternative to the IB, suited to families aiming for universities in the United Kingdom</entry></row>
+            <row><entry><b>British International School Ukraine</b></entry><entry>Nyvky and Pechersk (Kyiv); Dnipro</entry><entry>First British school in Ukraine; A Levels; member of the Council of British International Schools</entry><entry>A single, purpose-built campus with modern facilities, in a part of the city that has no leading international school</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The British International School is the most direct competitor, because it offers the same curriculum. The new school would therefore need to compete on facilities, location and the quality of its teachers rather than on curriculum alone.</p>
+    </body>
+  </topic>
+  <topic id="sec-3-2">
+    <title>3.2 Other Schools Using the Term “International”</title>
+    <body>
+      <p>In 2021, seven schools in Ukraine described themselves as international. Only the three schools above offered International Baccalaureate programmes, and all three are in Kyiv. The other schools fall into three groups:</p>
+      <ol>
+        <li><b>National schools for expatriate communities,</b> such as the French school in Kyiv, which follow the curriculum of another country and mainly serve its citizens.</li>
+        <li><b>Faith-based and community schools,</b> including American-curriculum schools with a religious character and schools founded by particular national communities. Other well-known private schools, such as Meridian International School, also use the term.</li>
+        <li><b>Private schools that use “international” in their name</b> but do not hold recognised international accreditation. Their accreditation is often difficult to verify.</li>
+      </ol>
+      <p>These schools are not direct competitors at the premium level. However, they show that the word “international” alone does not guarantee quality. The new school should therefore promote its recognised accreditation clearly from the start (Section 4).</p>
+    </body>
+  </topic>
+  <topic id="sec-3-3">
+    <title>3.3 Leading Private Schools</title>
+    <body>
+      <p>Kyiv had 108 licensed private schools in 2021. Most follow the Ukrainian curriculum with additional hours of English or German, and several of the leading schools have more than 300 pupils. Average fees are about US$4,200 a year, between US$3,300 and US$8,000. Additional charges for clubs, registration and external examinations can add up to US$2,000 a year.</p>
+      <p>These schools serve a different market from the proposed school. However, some of their families will want an international education as their incomes rise. For these families, the new school would be a natural next step, especially if it offers a Ukrainian programme as an option (Section 5.2).</p>
+    </body>
+  </topic>
+  <topic id="sec-3-4">
+    <title>3.4 Fee Comparison and Gaps in the Market</title>
+    <body>
+      <p>The proposed fees of US$14,000 to US$27,000 a year place the new school within the range of the established international schools and well below the cost of schools abroad (Figure 3).</p>
+      <fig id="fig-3">
+        <title>Figure 3: Annual tuition fees in Kyiv and abroad (US dollars)</title>
+        <desc>Sources: author’s fee enquiries and school websites, 2021. Bars show the lowest to the highest fee; dots show the average where available. Fees abroad are for international pupils and exclude travel and living costs.</desc>
+        <image href="images/fig3_fees.png" placement="break" align="center" width="451pt">
+          <alt>Range chart of annual tuition fees: Kyiv private schools US$3,300 to US$8,000; Kyiv international schools US$11,000 to US$30,000; proposed school US$14,000 to US$27,000; schools abroad in the United States, United Kingdom and Switzerland from US$26,000 to US$74,000. A gap is marked between US$8,000 and US$11,000.</alt>
+        </image>
+      </fig>
+      <p>Two points stand out. First, there is a clear gap between US$8,000 and US$11,000 a year, between the most expensive private schools and the least expensive international schools. This gap could be served by the lower-priced Mid model (Section 5.1). Second, families who send a child to school abroad pay at least US$26,000 a year in tuition alone, plus travel and living costs. The proposed school offers these families a similar standard of education at a much lower total cost, while the child remains at home.</p>
+    </body>
+  </topic>
+  <topic id="sec-3-5">
+    <title>3.5 Competitor Locations and Underserved Districts</title>
+    <body>
+      <p>All three leading international schools are on the right bank of the Dnipro, in the west, centre and south of the city (Figure 4). The left bank, where about one third of Kyiv’s population lives, has no leading international school. The northern district of Obolon is also some distance from the existing campuses.</p>
+      <fig id="fig-4">
+        <title>Figure 4: Locations of the leading international schools and suggested search zones (schematic map, not to scale)</title>
+        <desc>Sources: school websites, 2021; author’s analysis.</desc>
+        <image href="images/fig4_map.png" placement="break" align="center" width="415pt">
+          <alt>Schematic map of Kyiv showing the three leading international schools on the right bank of the Dnipro in the west, centre and south, and two suggested search zones: the south-east of the left bank and the north around Obolon.</alt>
+        </image>
+      </fig>
+      <p>In the parent survey, 52% of parents chose their school mainly because it was close to home (Section 2.4). A campus in an underserved area would therefore have a clear advantage. This report suggests two search zones: the south-east of the left bank, which also has good road access to Boryspil International Airport, and the north of the city around Obolon. Both zones have newer residential developments and more land available for a campus of 2.5 to 3 hectares. The final choice should be based on land availability, travel times and the location of target families, and should be confirmed with property agents.</p>
+    </body>
+  </topic>
+  <topic id="sec-4">
+    <title>4 Is It Permitted?</title>
+    <shortdesc>Yes. Ukrainian law allows private schools, including schools founded by foreign investors, and there is no separate legal barrier to an international school. The process is bureaucratic and slow, but its costs are low.</shortdesc>
+  </topic>
+  <topic id="sec-4-1">
+    <title>4.1 Ukrainian Licensing Requirements</title>
+    <body>
+      <p>Private schools in Ukraine operate under the Law on Education (2017) and the Law on Complete General Secondary Education (2020). Every fee-paying school needs a licence for educational activity. The licence is issued under the Licensing Conditions for Educational Activity, approved by Resolution No. 1187 of the Cabinet of Ministers of 30 December 2015. For schools in Kyiv, applications are handled by the Kyiv City State Administration.</p>
+      <p>The main steps are:</p>
+      <ol>
+        <li><b>Register the legal entity.</b> A private school can be a for-profit or a non-profit institution, and its founders may be foreign companies or individuals. The choice of structure affects tax (Section 6.7).</li>
+        <li><b>Prepare compliant premises.</b> The building must meet sanitary, building and fire-safety standards before the licence is issued (Section 4.2).</li>
+        <li><b>Apply for the licence.</b> The application covers premises, staffing, curriculum and equipment. Separate licences are needed for pre-school and school education.</li>
+        <li><b>Recruit qualified staff.</b> Ukrainian teachers need recognised teaching qualifications. International teachers need work permits and temporary residence permits (Annex F).</li>
+      </ol>
+      <p>Registration and licence fees are low and are paid in hryvnia. The main cost is time: the full process usually takes 8 to 12 months. The client should appoint a Ukrainian education lawyer at an early stage to manage it.</p>
+      <p>Ukrainian citizens of school age must obtain complete general secondary education under Ukrainian law. To issue Ukrainian state certificates, a school must teach the State Standard. Many Ukrainian families at international schools therefore follow the Ukrainian programme in parallel with the international curriculum. The proposed school should offer this option (Section 5.2).</p>
+    </body>
+  </topic>
+  <topic id="sec-4-2">
+    <title>4.2 Building and Sanitary Standards</title>
+    <body>
+      <p>School buildings must meet three sets of rules:</p>
+      <ol>
+        <li><b>Sanitary regulations</b> of the Ministry of Health for general secondary schools, revised in 2020 and in force from January 2021. These set requirements for classroom size, lighting, ventilation, catering and medical facilities.</li>
+        <li><b>State building codes</b> for educational buildings, which cover design, access and structural safety.</li>
+        <li><b>Fire-safety rules,</b> which cover evacuation routes, materials and alarm systems.</li>
+      </ol>
+      <p>These rules are detailed and time-consuming, but they are clearly written. Converting an older building to meet them is often expensive, especially for buildings built before independence or designed for housing. A purpose-built campus avoids most of these problems, because the standards can be included in the design from the start.</p>
+      <p>New construction also needs planning conditions, design approval and construction permits from the city and state construction authorities. The client should allow about 12 months for design and permits and 18 to 24 months for construction.</p>
+    </body>
+  </topic>
+  <topic id="sec-4-3">
+    <title>4.3 International Accreditation Routes</title>
+    <body>
+      <p>There is no Ukrainian licence for an “international school”. International status comes from accreditation by recognised foreign bodies. Table 5 compares the main options for a British-curriculum school.</p>
+      <table id="tbl-5" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 5: International accreditation routes</title>
+        <desc>Sources: Cambridge Assessment International Education; Cambridge Assessment English; COBIS; Council of International Schools; International Baccalaureate; US state and Canadian provincial education authorities, 2021.</desc>
+        <tgroup cols="5">
+          <colspec colname="c1" colwidth="96*"/>
+          <colspec colname="c2" colwidth="120*"/>
+          <colspec colname="c3" colwidth="54*"/>
+          <colspec colname="c4" colwidth="96*"/>
+          <colspec colname="c5" colwidth="85*"/>
+          <thead>
+            <row><entry>Route</entry><entry>What it provides</entry><entry>Typical time</entry><entry>Indicative cost</entry><entry>Fit</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Cambridge Assessment International Education</b></entry><entry>Cambridge Primary, Lower Secondary, IGCSE and A Level programmes and examinations</entry><entry>3 to 6 months</entry><entry>Registration and annual fees; examination fees paid by families</entry><entry>Essential: before opening</entry></row>
+            <row><entry><b>Cambridge English exam centre</b></entry><entry>Cambridge English examinations (such as KET, PET and FCE) on site</entry><entry>A few months</entry><entry>About US$5,000 to set up; recovered from exam fees</entry><entry>Recommended: first year</entry></row>
+            <row><entry><b>Council of British International Schools (COBIS)</b></entry><entry>Membership of the main association of British schools abroad</entry><entry>About 1 year</entry><entry>Annual membership fee</entry><entry>Recommended: second year</entry></row>
+            <row><entry><b>Council of International Schools (CIS)</b></entry><entry>Internationally recognised accreditation of the whole school</entry><entry>3 to 5 years</entry><entry>Annual membership of about US$500 to US$8,000, plus evaluation visits</entry><entry>Recommended: medium term</entry></row>
+            <row><entry><b>International Baccalaureate (IB)</b></entry><entry>IB Diploma Programme for the final two years</entry><entry>2 to 3 years</entry><entry>Candidacy and annual fees</entry><entry>Optional: later stage</entry></row>
+            <row><entry><b>US or Canadian accreditation</b></entry><entry>An American or Canadian diploma</entry><entry>12 to 24 months</entry><entry>About US$20,000 (US) or C$15,000 (Canada)</entry><entry>Not recommended</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Cambridge and the IB are separate organisations with different programmes. A school can offer both, but each requires its own approval.</p>
+    </body>
+  </topic>
+  <topic id="sec-4-4">
+    <title>4.4 Recommended Accreditation Pathway</title>
+    <body>
+      <p>This report recommends that the school opens as an approved Cambridge school with a Ukrainian licence, and then builds its international recognition step by step (Figure 5). By 2028, it should hold CIS accreditation, which would place it on an equal footing with the established schools.</p>
+      <fig id="fig-5">
+        <title>Figure 5: Recommended accreditation pathway, 2023 to 2028</title>
+        <desc>Source: author’s analysis based on the typical timescales in Table 5.</desc>
+        <image href="images/fig5_accred.png" placement="break" align="center" width="451pt">
+          <alt>Timeline of the recommended accreditation pathway from 2023 to 2028: Ukrainian licence and Cambridge registration before opening in September 2024, then a Cambridge English exam centre, COBIS membership, CIS accreditation by 2028 and an optional IB Diploma authorisation.</alt>
+        </image>
+      </fig>
+      <p>The Ukrainian licence and Cambridge registration must both be in place before the school opens. Without them, it cannot admit pupils or offer recognised qualifications. The IB Diploma is shown as an option: it would allow the school to compete more directly with Pechersk School International, but it is not needed for the school to succeed.</p>
+    </body>
+  </topic>
+  <topic id="sec-5">
+    <title>5 What Should Be Built?</title>
+    <shortdesc>This report recommends a premium British-curriculum school for 750 pupils aged 3 to 18, on a purpose-built campus. This section compares the three models that were assessed and describes the recommended school in detail.</shortdesc>
+  </topic>
+  <topic id="sec-5-1">
+    <title>5.1 Entry, Mid and High Models Compared</title>
+    <body>
+      <p>Three models were assessed, at different price levels (Table 6). The Entry and Mid models would operate in leased and converted buildings. The High model would operate on its own purpose-built campus.</p>
+      <table id="tbl-6" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 6: The three models compared</title>
+        <desc>Source: author’s financial models, 2021. Entry and Mid figures are indicative and assume leased premises; returns cover 20 years.</desc>
+        <tgroup cols="4">
+          <colspec colname="c1" colwidth="120*"/>
+          <colspec colname="c2" colwidth="105*"/>
+          <colspec colname="c3" colwidth="105*"/>
+          <colspec colname="c4" colwidth="121*"/>
+          <thead>
+            <row><entry></entry><entry>Entry</entry><entry>Mid</entry><entry>High (recommended)</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Position in the market</b></entry><entry>Upper end of Ukrainian private schools</entry><entry>Bilingual school between private and international schools</entry><entry>Premium international school</entry></row>
+            <row><entry><b>Curriculum</b></entry><entry>Ukrainian State Standard with extra English</entry><entry>Ukrainian State Standard plus Cambridge</entry><entry>British curriculum with Cambridge qualifications</entry></row>
+            <row><entry><b>Annual tuition</b></entry><entry>US$3,000 to US$6,500</entry><entry>US$6,000 to US$15,000</entry><entry>US$14,000 to US$27,000</entry></row>
+            <row><entry><b>Capacity</b></entry><entry>736 pupils</entry><entry>688 pupils</entry><entry>750 pupils</entry></row>
+            <row><entry><b>Premises</b></entry><entry>Leased, converted building</entry><entry>Leased, converted building</entry><entry>Owned, purpose-built campus</entry></row>
+            <row><entry><b>Total investment</b></entry><entry>about US$1.9 million</entry><entry>about US$3.4 million</entry><entry>about US$23.1 million</entry></row>
+            <row><entry><b>Annual operating profit at full operation</b></entry><entry>about US$1.2 million</entry><entry>about US$2.6 million</entry><entry>about US$5.3 million</entry></row>
+            <row><entry><b>Payback from opening</b></entry><entry>about 6 years</entry><entry>about 5 years</entry><entry>about 8 years</entry></row>
+            <row><entry><b>Annual return (IRR, after tax)</b></entry><entry>about 23%</entry><entry>about 27%</entry><entry>about 14%, including property value</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The Entry and Mid models earn a higher percentage return because they need much less capital. However, they cannot use the client’s capital at scale, they depend on landlords, and they create no property asset. The Entry model also competes in a crowded, price-sensitive market. The High model produces the largest profit, owns its campus and matches the client’s aim of competing with the market leaders.</p>
+    </body>
+  </topic>
+  <topic id="sec-5-2">
+    <title>5.2 Curriculum and Qualifications</title>
+    <body>
+      <p>The school would follow the British curriculum, taught in English, with Cambridge qualifications from primary to the end of secondary school:</p>
+      <ol>
+        <li><b>Early years (ages 3 to 5):</b> a play-based programme based on the English Early Years Foundation Stage.</li>
+        <li><b>Primary (Grades 1 to 5):</b> Cambridge Primary, with English, mathematics, science and a broad range of other subjects.</li>
+        <li><b>Middle (Grades 6 to 8):</b> Cambridge Lower Secondary.</li>
+        <li><b>Grades 9 and 10:</b> Cambridge IGCSE (International General Certificate of Secondary Education) in about eight subjects.</li>
+        <li><b>Grades 11 and 12:</b> Cambridge International AS and A Levels, the main qualification for entry to universities in the United Kingdom and widely accepted elsewhere.</li>
+      </ol>
+      <p>The grades follow Ukrainian numbering. Grade 12 corresponds to Year 13 in the British system, so pupils finish school at 18, at the same age as their international peers.</p>
+      <p>All pupils would study Ukrainian language and culture. Ukrainian families could also follow the Ukrainian State Standard in parallel, in order to receive a Ukrainian state certificate and keep access to Ukrainian universities through the External Independent Evaluation (ZNO). A second foreign language, such as French, German or Spanish, would be offered from Grade 3. The IB Diploma could be added later as an alternative to A Levels (Section 4.4).</p>
+    </body>
+  </topic>
+  <topic id="sec-5-3">
+    <title>5.3 Class Sizes and Staffing</title>
+    <body>
+      <p>Small classes are one of the main reasons that families choose premium schools. The school would have two classes in each early-years group and three classes in every other year group (Table 7).</p>
+      <table id="tbl-7" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 7: Class structure and capacity</title>
+        <tgroup cols="6">
+          <colspec colname="c1" colwidth="130*"/>
+          <colspec colname="c2" colwidth="55*"/>
+          <colspec colname="c3" colwidth="60*"/>
+          <colspec colname="c4" colwidth="80*"/>
+          <colspec colname="c5" colwidth="70*"/>
+          <colspec colname="c6" colwidth="56*"/>
+          <thead>
+            <row><entry>Stage</entry><entry>Ages</entry><entry>Year groups</entry><entry>Classes per year group</entry><entry>Maximum class size</entry><entry>Capacity</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Early years</b></entry><entry>3 to 5</entry><entry>3</entry><entry>2</entry><entry>16</entry><entry>96</entry></row>
+            <row><entry><b>Primary (Grades 1 to 5)</b></entry><entry>6 to 10</entry><entry>5</entry><entry>3</entry><entry>18</entry><entry>270</entry></row>
+            <row><entry><b>Middle (Grades 6 to 8)</b></entry><entry>11 to 13</entry><entry>3</entry><entry>3</entry><entry>18</entry><entry>162</entry></row>
+            <row><entry><b>IGCSE (Grades 9 and 10)</b></entry><entry>14 to 15</entry><entry>2</entry><entry>3</entry><entry>18</entry><entry>108</entry></row>
+            <row><entry><b>A Level (Grades 11 and 12)</b></entry><entry>16 to 17</entry><entry>2</entry><entry>3</entry><entry>19</entry><entry>114</entry></row>
+            <row><entry><b>Total</b></entry><entry></entry><entry><b>15</b></entry><entry></entry><entry></entry><entry><b>750</b></entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>At full operation, the school would employ about 176 staff (Table 8). About 80% of teachers would be international, mainly from the United Kingdom, to ensure native-level English and experience of the British curriculum. Ukrainian teachers would teach Ukrainian subjects and the Ukrainian programme.</p>
+      <table id="tbl-8" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 8: Staffing at full operation</title>
+        <desc>Source: author’s salary research, 2021 (Annex F). All salaries include an employer social contribution of 22%.</desc>
+        <tgroup cols="4">
+          <colspec colname="c1" colwidth="110*"/>
+          <colspec colname="c2" colwidth="45*"/>
+          <colspec colname="c3" colwidth="100*"/>
+          <colspec colname="c4" colwidth="196*"/>
+          <thead>
+            <row><entry>Role</entry><entry>Number</entry><entry>Monthly pay (US$)</entry><entry>Notes</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>International teachers</b></entry><entry>73</entry><entry>3,000, plus housing worth 1,000</entry><entry>Includes 6 learning-support and English-language teachers; plus about US$4,000 a year for visas, flights and insurance</entry></row>
+            <row><entry><b>Ukrainian teachers</b></entry><entry>16</entry><entry>1,200</entry><entry>Ukrainian language, literature, history and the Ukrainian programme</entry></row>
+            <row><entry><b>Classroom assistants</b></entry><entry>21</entry><entry>1,100</entry><entry>One for each early-years and primary class</entry></row>
+            <row><entry><b>Head of school</b></entry><entry>1</entry><entry>10,000, plus housing</entry><entry>Experienced head of a British international school</entry></row>
+            <row><entry><b>Senior leaders</b></entry><entry>6</entry><entry>4,500, plus housing</entry><entry>Deputy heads and heads of the early-years, primary and secondary sections</entry></row>
+            <row><entry><b>University guidance office</b></entry><entry>4</entry><entry>See Section 5.6</entry><entry>Head of guidance, two counsellors and a coordinator</entry></row>
+            <row><entry><b>Support staff</b></entry><entry>55</entry><entry>700 on average</entry><entry>Administration, admissions, finance, IT, medical, security, maintenance and cleaning</entry></row>
+            <row><entry><b>Total</b></entry><entry><b>176</b></entry><entry></entry><entry>15 teachers also receive an allowance of US$500 a month as heads of department</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>International pay of US$3,000 a month is above the highest rate found in Kyiv in 2021 (US$2,400). This premium is deliberate: the school must attract experienced teachers away from established schools in Kyiv and other countries.</p>
+    </body>
+  </topic>
+  <topic id="sec-5-4">
+    <title>5.4 Campus Requirements</title>
+    <body>
+      <p>The campus would have about 10,000 square metres of buildings on a site of 2.5 to 3 hectares. In the parent survey, facilities were the most common complaint about existing schools, so the campus is a key part of the school’s appeal (Table 9).</p>
+      <table id="tbl-9" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 9: Campus facilities</title>
+        <tgroup cols="2">
+          <colspec colname="c1" colwidth="110*"/>
+          <colspec colname="c2" colwidth="341*"/>
+          <thead>
+            <row><entry>Area</entry><entry>Main facilities</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Early years</b></entry><entry>Separate wing and entrance; classrooms with their own toilets; secure outdoor play area</entry></row>
+            <row><entry><b>Primary</b></entry><entry>15 classrooms; small-group rooms; reading areas</entry></row>
+            <row><entry><b>Secondary</b></entry><entry>Classrooms; 6 science laboratories; computer and design rooms; art and music studios</entry></row>
+            <row><entry><b>Shared facilities</b></entry><entry>Library and learning centre; auditorium for about 400 people; dining hall and kitchen; medical centre; university guidance office</entry></row>
+            <row><entry><b>Sports</b></entry><entry>Sports hall; fitness room; outdoor sports pitch and running track; playgrounds</entry></row>
+            <row><entry><b>Site and security</b></entry><entry>Safe drop-off area; bus bays; car parking; controlled entrance; security cameras</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>A swimming pool is not included in the cost estimates. It would add significant construction and running costs, but it could be considered as a second-phase project if parents request it.</p>
+    </body>
+  </topic>
+  <topic id="sec-5-5">
+    <title>5.5 Recommended Model</title>
+    <body>
+      <p>This report recommends the High model: a premium British-curriculum school for 750 pupils on a purpose-built campus in an underserved part of Kyiv. Its main features are:</p>
+      <ol>
+        <li>Cambridge qualifications from age 5 to 18, with an optional Ukrainian programme;</li>
+        <li>small classes and a teaching staff that is about 80% international;</li>
+        <li>the newest purpose-built campus in Kyiv, designed to international standards; and</li>
+        <li>a dedicated university guidance office (Section 5.6).</li>
+      </ol>
+      <p>Together, these features allow the school to compete directly with the three market leaders while offering families something that none of them currently provides in full: a new campus, a British curriculum and a location close to underserved residential areas.</p>
+    </body>
+  </topic>
+  <topic id="sec-5-6">
+    <title>5.6 University Guidance and International Programmes Office</title>
+    <body>
+      <p>Families who pay premium fees expect strong support for university entry abroad. The school would therefore have a dedicated office with its own staff. Its main services would be to:</p>
+      <ol>
+        <li>advise pupils from Grade 9 on their choice of universities, countries and subjects;</li>
+        <li>support applications through the main systems, such as UCAS in the United Kingdom and the Common Application in the United States, as well as applications to European universities;</li>
+        <li>prepare pupils for admission tests and interviews, and organise university visits and fairs; and</li>
+        <li>select and approve international summer camps and courses that meet the school’s standards of safety and quality, and coordinate places for pupils.</li>
+      </ol>
+      <table id="tbl-10" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 10: University guidance office costs</title>
+        <tgroup cols="2">
+          <colspec colname="c1" colwidth="321*"/>
+          <colspec colname="c2" colwidth="130*"/>
+          <thead>
+            <row><entry>Item</entry><entry>Annual cost (US$)</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>Head of University Guidance (international)</entry><entry>about 67,000</entry></row>
+            <row><entry>University counsellor (international)</entry><entry>about 60,000</entry></row>
+            <row><entry>University counsellor (Ukrainian)</entry><entry>about 19,000</entry></row>
+            <row><entry>Coordinator for applications and summer programmes</entry><entry>about 13,000</entry></row>
+            <row><entry>Guidance platforms, memberships, university fairs and visits</entry><entry>about 35,000</entry></row>
+            <row><entry><b>Total</b></entry><entry><b>about 195,000</b></entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The financial model assumes no income from summer programmes. Schools often receive a small commission from approved providers, but this has been excluded to keep the estimates conservative.</p>
+    </body>
+  </topic>
+  <topic id="sec-6">
+    <title>6 What Will It Cost and Earn?</title>
+    <shortdesc>The school would require an investment of about US$23.1 million. At full operation, it would earn revenue of about US$13.7 million and an operating profit of about US$5.3 million a year. It would repay the investment during the eighth year after opening.</shortdesc>
+    <body>
+      <p>All figures in this section are in US dollars at 2021 prices, for a single for-profit company. Section 6.7 compares this with other legal structures.</p>
+    </body>
+  </topic>
+  <topic id="sec-6-1">
+    <title>6.1 Set-up Costs: Land, Construction and Fit-out</title>
+    <body>
+      <table id="tbl-11" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 11: Set-up costs</title>
+        <desc>Source: author’s estimates, 2021. Land and construction costs should be confirmed by a property agent and a quantity surveyor.</desc>
+        <tgroup cols="3">
+          <colspec colname="c1" colwidth="140*"/>
+          <colspec colname="c2" colwidth="241*"/>
+          <colspec colname="c3" colwidth="70*"/>
+          <thead>
+            <row><entry>Item</entry><entry>Basis</entry><entry>US$ million</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Land</b></entry><entry>Site of 2.5 to 3 hectares, including acquisition costs</entry><entry>6.0</entry></row>
+            <row><entry><b>Construction</b></entry><entry>About 10,000 square metres at about US$1,000 per square metre</entry><entry>10.0</entry></row>
+            <row><entry><b>Sports facilities and grounds</b></entry><entry>Outdoor pitch, running track, playgrounds and landscaping</entry><entry>1.5</entry></row>
+            <row><entry><b>Furniture, equipment and IT</b></entry><entry>About US$2,000 per pupil place</entry><entry>1.5</entry></row>
+            <row><entry><b>Design and professional fees</b></entry><entry>10% of construction and sports facilities</entry><entry>1.2</entry></row>
+            <row><entry><b>Contingency</b></entry><entry>10% of construction, fit-out and fees</entry><entry>1.4</entry></row>
+            <row><entry><b>Pre-opening costs</b></entry><entry>Recruitment, accreditation, launch marketing and staff before opening</entry><entry>1.5</entry></row>
+            <row><entry><b>Total investment</b></entry><entry></entry><entry><b>23.1</b></entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Land is the most uncertain cost. Suitable sites in Kyiv are scarce, and acquisition costs include approvals, intermediary fees and partnership arrangements in addition to the purchase price. The estimate of US$6.0 million reflects these costs. The client should complete full legal due diligence on the title of any site before purchase.</p>
+    </body>
+  </topic>
+  <topic id="sec-6-2">
+    <title>6.2 Operating Costs: Staff, Premises and Operations</title>
+    <body>
+      <p>At full operation, annual operating costs would be about US$8.5 million (Table 12). Staff costs make up three quarters of the total, which is typical for schools.</p>
+      <table id="tbl-12" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 12: Annual operating costs at full operation (675 pupils)</title>
+        <desc>Source: author’s financial model, 2021. Staff costs include the 22% employer social contribution and, for international staff, housing, visas, flights and insurance.</desc>
+        <tgroup cols="3">
+          <colspec colname="c1" colwidth="281*"/>
+          <colspec colname="c2" colwidth="100*"/>
+          <colspec colname="c3" colwidth="70*"/>
+          <thead>
+            <row><entry>Cost</entry><entry>US$ thousand a year</entry><entry>Share</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>Teaching staff (teachers and classroom assistants)</entry><entry>4,993</entry><entry>59%</entry></row>
+            <row><entry>Leadership (head of school, senior leaders, heads of department)</entry><entry>763</entry><entry>9%</entry></row>
+            <row><entry>Support staff</entry><entry>564</entry><entry>7%</entry></row>
+            <row><entry>University guidance office</entry><entry>195</entry><entry>2%</entry></row>
+            <row><entry>Teaching materials and IT (US$800 per pupil)</entry><entry>540</entry><entry>6%</entry></row>
+            <row><entry>Marketing (4% of revenue)</entry><entry>549</entry><entry>6%</entry></row>
+            <row><entry>Utilities and maintenance</entry><entry>240</entry><entry>3%</entry></row>
+            <row><entry>Building maintenance reserve (1.5% of construction cost)</entry><entry>172</entry><entry>2%</entry></row>
+            <row><entry>Accreditation, insurance, audit and land tax</entry><entry>300</entry><entry>4%</entry></row>
+            <row><entry>Staff training (US$1,500 per teacher)</entry><entry>134</entry><entry>2%</entry></row>
+            <row><entry><b>Total operating costs</b></entry><entry><b>8,451</b></entry><entry><b>100%</b></entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Because the school owns its campus, it pays no rent. This is the main reason why its margin is higher than that of schools in leased buildings.</p>
+    </body>
+  </topic>
+  <topic id="sec-6-3">
+    <title>6.3 Fee Income and Enrolment Growth</title>
+    <body>
+      <p>Fees would be charged in US dollars (Table 13). The model deducts 10% for sibling discounts, staff children and scholarships, and a further 2% for unpaid fees. Pupils from Grade 1 also pay an annual development fee of US$1,500. New pupils pay an application fee of US$500 and an enrolment fee of US$1,500.</p>
+      <table id="tbl-13" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 13: Tuition fees</title>
+        <tgroup cols="4">
+          <colspec colname="c1" colwidth="150*"/>
+          <colspec colname="c2" colwidth="100*"/>
+          <colspec colname="c3" colwidth="90*"/>
+          <colspec colname="c4" colwidth="111*"/>
+          <thead>
+            <row><entry>Stage</entry><entry>Annual tuition (US$)</entry><entry>Pupils at capacity</entry><entry>Tuition at capacity (US$ million)</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Early years</b></entry><entry>14,000</entry><entry>96</entry><entry>1.3</entry></row>
+            <row><entry><b>Primary (Grades 1 to 5)</b></entry><entry>20,000</entry><entry>270</entry><entry>5.4</entry></row>
+            <row><entry><b>Middle (Grades 6 to 8)</b></entry><entry>22,000</entry><entry>162</entry><entry>3.6</entry></row>
+            <row><entry><b>IGCSE (Grades 9 and 10)</b></entry><entry>24,000</entry><entry>108</entry><entry>2.6</entry></row>
+            <row><entry><b>A Level (Grades 11 and 12)</b></entry><entry>27,000</entry><entry>114</entry><entry>3.1</entry></row>
+            <row><entry><b>Total, before discounts</b></entry><entry><b>21,300 on average</b></entry><entry><b>750</b></entry><entry><b>16.0</b></entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The model assumes that enrolment grows from 225 pupils in the first year to 675 pupils (90% of capacity) in the sixth year. This growth rate is typical for new premium schools, which build their reputation one year at a time. The school would remain at 90% of capacity from then on, to allow for pupils who leave during the year.</p>
+    </body>
+  </topic>
+  <topic id="sec-6-4">
+    <title>6.4 Profit and Loss, Years 1 to 7</title>
+    <body>
+      <p>The school would cover its operating costs from the first year (Figure 6). After depreciation, it would make a small loss in the first year and a profit from the second year onwards (Table 14).</p>
+      <fig id="fig-6">
+        <title>Figure 6: Revenue, operating costs and operating profit, years 1 to 7 (US$ million)</title>
+        <desc>Source: author’s financial model, 2021. The top of each bar shows total revenue.</desc>
+        <image href="images/fig6_pl.png" placement="break" align="center" width="451pt">
+          <alt>Stacked bar chart of revenue split into operating costs and operating profit for years 1 to 7. Revenue rises from US$5.1 million in year 1 to US$13.7 million in year 7; operating profit rises from US$0.4 million to US$5.3 million.</alt>
+        </image>
+      </fig>
+      <table id="tbl-14" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 14: Profit and loss, years 1 to 7</title>
+        <desc>Source: author’s financial model, 2021. Figures in brackets are losses. Tax in year 2 is reduced by the loss carried forward from year 1. Buildings are depreciated over 25 years and equipment over 5 years.</desc>
+        <tgroup cols="8">
+          <colspec colname="c1" colwidth="130*"/>
+          <colspec colname="c2" colwidth="46*"/>
+          <colspec colname="c3" colwidth="46*"/>
+          <colspec colname="c4" colwidth="46*"/>
+          <colspec colname="c5" colwidth="46*"/>
+          <colspec colname="c6" colwidth="46*"/>
+          <colspec colname="c7" colwidth="46*"/>
+          <colspec colname="c8" colwidth="46*"/>
+          <thead>
+            <row><entry>US$ million</entry><entry align="right">Year 1</entry><entry align="right">Year 2</entry><entry align="right">Year 3</entry><entry align="right">Year 4</entry><entry align="right">Year 5</entry><entry align="right">Year 6</entry><entry align="right">Year 7</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>Pupils</entry><entry align="right">225</entry><entry align="right">338</entry><entry align="right">450</entry><entry align="right">562</entry><entry align="right">638</entry><entry align="right">675</entry><entry align="right">675</entry></row>
+            <row><entry>Revenue</entry><entry align="right">5.08</entry><entry align="right">7.12</entry><entry align="right">9.41</entry><entry align="right">11.70</entry><entry align="right">13.14</entry><entry align="right">13.82</entry><entry align="right">13.73</entry></row>
+            <row><entry>Operating costs</entry><entry align="right">4.72</entry><entry align="right">5.13</entry><entry align="right">6.20</entry><entry align="right">7.33</entry><entry align="right">8.08</entry><entry align="right">8.45</entry><entry align="right">8.45</entry></row>
+            <row><entry><b>Operating profit (EBITDA)</b></entry><entry align="right"><b>0.37</b></entry><entry align="right"><b>1.99</b></entry><entry align="right"><b>3.21</b></entry><entry align="right"><b>4.36</b></entry><entry align="right"><b>5.06</b></entry><entry align="right"><b>5.36</b></entry><entry align="right"><b>5.28</b></entry></row>
+            <row><entry>Depreciation</entry><entry align="right">0.86</entry><entry align="right">0.86</entry><entry align="right">0.86</entry><entry align="right">0.86</entry><entry align="right">0.86</entry><entry align="right">0.56</entry><entry align="right">0.56</entry></row>
+            <row><entry>Profit before tax</entry><entry align="right">(0.50)</entry><entry align="right">1.13</entry><entry align="right">2.34</entry><entry align="right">3.50</entry><entry align="right">4.19</entry><entry align="right">4.80</entry><entry align="right">4.72</entry></row>
+            <row><entry>Corporate income tax (18%)</entry><entry align="right">0.00</entry><entry align="right">0.11</entry><entry align="right">0.42</entry><entry align="right">0.63</entry><entry align="right">0.75</entry><entry align="right">0.86</entry><entry align="right">0.85</entry></row>
+            <row><entry><b>Net profit</b></entry><entry align="right"><b>(0.50)</b></entry><entry align="right"><b>1.01</b></entry><entry align="right"><b>1.92</b></entry><entry align="right"><b>2.87</b></entry><entry align="right"><b>3.44</b></entry><entry align="right"><b>3.93</b></entry><entry align="right"><b>3.87</b></entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+    </body>
+  </topic>
+  <topic id="sec-6-5">
+    <title>6.5 Break-even and Payback</title>
+    <body>
+      <p>The school would cover its operating costs with about 230 pupils, which is close to the first-year enrolment of 225. After that, every additional pupil adds most of their fee to profit, because many costs are fixed.</p>
+      <p>The investor would recover the full investment of US$23.1 million during the eighth year after opening, after tax (Figure 1, Section 1.3). Over 20 years, including the value of the land and buildings at the end of the period, the investment would return about 14% a year after tax. By year 20, the investor would have received about US$56.5 million in cash and would still own the campus.</p>
+    </body>
+  </topic>
+  <topic id="sec-6-6">
+    <title>6.6 Sensitivity Analysis</title>
+    <body>
+      <p>Figure 7 shows how the return changes if the main assumptions are less favourable. In every case tested, the investment remains profitable.</p>
+      <fig id="fig-7">
+        <title>Figure 7: Effect of less favourable assumptions on the 20-year return</title>
+        <desc>Source: author’s financial model, 2021. Each case changes one assumption and keeps all others at the base case.</desc>
+        <image href="images/fig7_sens.png" placement="break" align="center" width="451pt">
+          <alt>Bar chart showing the 20-year return under less favourable assumptions against a base case of 14.0%: slower enrolment 9.3%, fees 10% lower 10.8%, construction costs 20% higher 11.8%, long-term enrolment 75% 11.8%, international salaries 20% higher 12.3%.</alt>
+        </image>
+      </fig>
+      <p>Enrolment and fees have the greatest effect on returns. If enrolment grows more slowly and stays at 75% of capacity, the return falls to about 9% and payback takes about eleven years. Higher construction costs or teacher salaries reduce the return, but less sharply. Early marketing, a strong head of school and a good location are therefore the most important ways to protect the investment.</p>
+    </body>
+  </topic>
+  <topic id="sec-6-7">
+    <title>6.7 Legal Structure and Tax Planning</title>
+    <body>
+      <p>The figures above assume a single for-profit company that owns the land, builds the campus and runs the school. Ukrainian investors often use other structures to reduce tax over a long period. The most common alternative for schools is to separate the property from the school:</p>
+      <ol>
+        <li>a <b>property company</b> owns the land and buildings and leases them to the school at a market rent;</li>
+        <li>a <b>non-profit school</b> runs the school and, if entered in the Register of Non-profit Institutions, pays no corporate income tax; and</li>
+        <li>a <b>management company</b> receives a fee for managing the school.</li>
+      </ol>
+      <table id="tbl-15" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 15: Two legal structures compared</title>
+        <desc>Source: author’s financial model, 2021. The non-profit case assumes a rent of 12% of the property cost a year (reduced in the first four years) and a management fee of 6% of revenue.</desc>
+        <tgroup cols="3">
+          <colspec colname="c1" colwidth="140*"/>
+          <colspec colname="c2" colwidth="156*"/>
+          <colspec colname="c3" colwidth="156*"/>
+          <thead>
+            <row><entry></entry><entry>Single for-profit company</entry><entry>Property company and non-profit school</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Corporate income tax on school profits</b></entry><entry>18%</entry><entry>None, if registered as non-profit</entry></row>
+            <row><entry><b>Cash available to the investor</b></entry><entry>All profits, after tax</entry><entry>Rent, management fees and loan interest only</entry></row>
+            <row><entry><b>Surplus kept in the school after 20 years</b></entry><entry>None</entry><entry>about US$32 million, for reinvestment only</entry></row>
+            <row><entry><b>Payback from opening</b></entry><entry>about 8 years</entry><entry>about 10 years</entry></row>
+            <row><entry><b>Annual return over 20 years (IRR)</b></entry><entry>about 14%</entry><entry>about 10%</entry></row>
+            <row><entry><b>Other advantages</b></entry><entry>Simple; all profits can be distributed</entry><entry>Same status as the three market leaders; steady property income; funds for expansion</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The non-profit structure saves tax, but it does not increase the investor’s return, because a non-profit school cannot distribute its surplus. The investor can only receive payments that can be justified at market rates. The structure is suitable for an investor who values reputation, steady property income and long-term growth more than direct profit.</p>
+      <p>Other legal tax-planning tools were available in 2021. These included depreciation of buildings and equipment, losses carried forward against future profits, the VAT exemption for licensed educational services, and the reinvestment of profits in expansion. Proposals under discussion in 2021 would limit the use of carried-forward losses by large taxpayers. International holding structures, for example through Cyprus or the Netherlands, were also common. However, in 2020 Ukraine adopted new anti-avoidance rules (Law No. 466-IX), including rules on controlled foreign companies that take effect in 2022, which make these structures less attractive.</p>
+      <p><b>Recommendation.</b> The client should take advice from a qualified Ukrainian tax specialist and a legal adviser before buying land, because the ownership structure is difficult to change later. This report does not provide tax or legal advice, and the options above should be confirmed by a specialist before the client relies on them.</p>
+    </body>
+  </topic>
+  <topic id="sec-7">
+    <title>7 What Could Go Wrong?</title>
+    <shortdesc>The investment faces one severe risk that the client cannot control: the conflict with Russia. Most other risks are moderate and can be reduced through careful planning, contracts and the structure of the investment.</shortdesc>
+  </topic>
+  <topic id="sec-7-1">
+    <title>7.1 Risk Assessment</title>
+    <body>
+      <p>Ten main risks were identified and assessed by their likelihood and their impact on the investment (Figure 8). The numbers in the figure refer to Table 16.</p>
+      <fig id="fig-8">
+        <title>Figure 8: Risk assessment by likelihood and impact</title>
+        <desc>Source: author’s analysis, 2021. Darker cells indicate more serious risks.</desc>
+        <image href="images/fig8_risk.png" placement="break" align="center" width="370pt">
+          <alt>Risk matrix plotting ten risks by likelihood and impact. Escalation of the conflict with Russia (risk 1) has medium likelihood and very high impact; land acquisition (risk 3) has high likelihood and high impact.</alt>
+        </image>
+      </fig>
+      <p>The most serious risk is an escalation of the conflict with Russia (risk 1). The conflict in eastern Ukraine has continued since 2014, and the build-up of Russian troops near the border in spring 2021 showed that it could escalate. A major escalation would cause many international families to leave Kyiv, reduce enrolment and could damage or close the campus. Unlike the other risks, it cannot be reduced significantly by the client.</p>
+      <p>Land acquisition (risk 3) is the most likely serious risk. Disputes over title, delays in permits and informal demands are common in Kyiv property transactions, and they could delay the project or increase its cost.</p>
+    </body>
+  </topic>
+  <topic id="sec-7-2">
+    <title>7.2 Risk Mitigation</title>
+    <body>
+      <p>Table 16 sets out each risk and the main actions to reduce it.</p>
+      <table id="tbl-16" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 16: Risks and mitigation</title>
+        <desc>Source: author’s analysis, 2021.</desc>
+        <tgroup cols="5">
+          <colspec colname="c1" colwidth="24*"/>
+          <colspec colname="c2" colwidth="120*"/>
+          <colspec colname="c3" colwidth="56*"/>
+          <colspec colname="c4" colwidth="52*"/>
+          <colspec colname="c5" colwidth="199*"/>
+          <thead>
+            <row><entry>No.</entry><entry>Risk</entry><entry>Likelihood</entry><entry>Impact</entry><entry>Main mitigation</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>1</entry><entry>Escalation of the conflict with Russia</entry><entry>Medium</entry><entry>Very high</entry><entry>Political-risk insurance (for example from MIGA or an export-credit agency); phased investment; plans for online teaching; reserves held outside Ukraine</entry></row>
+            <row><entry>2</entry><entry>Slower enrolment than planned</entry><entry>Medium</entry><entry>High</entry><entry>Strong launch marketing; experienced head appointed early; pre-enrolment before opening; competitive founding-family fees</entry></row>
+            <row><entry>3</entry><entry>Land acquisition and permits: disputed title, delays or informal demands</entry><entry>High</entry><entry>High</entry><entry>Full legal due diligence; reputable local partners; strict compliance with Ukrainian and international anti-corruption law; purchase only with clear title</entry></row>
+            <row><entry>4</entry><entry>Devaluation of the hryvnia</entry><entry>Medium</entry><entry>High</entry><entry>Fees set in US dollars; costs largely in US dollars; reserves held in hard currency</entry></row>
+            <row><entry>5</entry><entry>Construction cost overruns and delays</entry><entry>Medium</entry><entry>High</entry><entry>Fixed-price contract with an experienced contractor; 10% contingency; independent project manager</entry></row>
+            <row><entry>6</entry><entry>Recruitment and retention of international teachers</entry><entry>Medium</entry><entry>High</entry><entry>Pay above the Kyiv market; housing; recruitment through established agencies; two-year contracts with retention bonuses</entry></row>
+            <row><entry>7</entry><entry>Response from competitors, such as fee cuts or new campuses</entry><entry>Medium</entry><entry>Low to medium</entry><entry>Clear differences in campus, location and curriculum; strong university results</entry></row>
+            <row><entry>8</entry><entry>Pandemic disruption</entry><entry>High</entry><entry>Low to medium</entry><entry>Online teaching from day one; clear terms and conditions on remote learning and fees</entry></row>
+            <row><entry>9</entry><entry>Changes in education, tax or regulatory law</entry><entry>Medium</entry><entry>Low to medium</entry><entry>Specialist legal and tax advisers; membership of business associations such as the American Chamber of Commerce</entry></row>
+            <row><entry>10</entry><entry>Weak reputation in the early years, before results are proven</entry><entry>Medium</entry><entry>High</entry><entry>Experienced leadership; early Cambridge results; COBIS and CIS accreditation; university guidance office</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Several of these actions are already included in the recommended plan, such as fees in US dollars, the contingency in the construction budget and the deliberately high pay for international teachers. Others, such as political-risk insurance and a reserve fund, would add cost but would protect the investment against the most serious outcomes.</p>
+      <p>The client should proceed only if it can accept the risk of a severe loss in the event of a major escalation of the conflict. If this risk is not acceptable, the client could consider a smaller, leased model first (Section 5.1), and build a permanent campus once conditions are more stable.</p>
+    </body>
+  </topic>
+  <topic id="sec-8">
+    <title>8 What Happens Next?</title>
+    <shortdesc>If the client decides to proceed, the school could open in September 2024. The project would pass through four decision points, so that the largest sums are committed only when the main risks have been reduced.</shortdesc>
+  </topic>
+  <topic id="sec-8-1">
+    <title>8.1 Roadmap from Decision to Opening</title>
+    <body>
+      <p>The project would take about three years from the investment decision to opening day (Figure 9). Construction is the longest stage, but recruitment, admissions and accreditation must begin well before the building is finished.</p>
+      <fig id="fig-9">
+        <title>Figure 9: Project roadmap, November 2021 to September 2024</title>
+        <desc>Source: author’s analysis, 2021. Dark bars show the building programme; light bars show the school programme.</desc>
+        <image href="images/fig9_roadmap.png" placement="break" align="center" width="451pt">
+          <alt>Gantt chart of the project roadmap from November 2021 to September 2024, with four decision gates in May 2022, March 2023, March 2024 and September 2024.</alt>
+        </image>
+      </fig>
+      <p>The building programme and the school programme run in parallel from 2023. The founding head of school should be in post 18 months before opening, so that he or she can lead admissions, recruit teachers and prepare for accreditation.</p>
+    </body>
+  </topic>
+  <topic id="sec-8-2">
+    <title>8.2 Decision Points</title>
+    <body>
+      <p>The investment is divided into four stages. At each decision point, the client should confirm that the conditions in Table 17 are met before releasing the next stage of funding. The client should also review the political and security situation at each point.</p>
+      <table id="tbl-17" frame="topbot" colsep="0" rowsep="1">
+        <title>Table 17: Decision points</title>
+        <desc>Source: author’s analysis, 2021.</desc>
+        <tgroup cols="4">
+          <colspec colname="c1" colwidth="95*"/>
+          <colspec colname="c2" colwidth="62*"/>
+          <colspec colname="c3" colwidth="189*"/>
+          <colspec colname="c4" colwidth="105*"/>
+          <thead>
+            <row><entry>Decision point</entry><entry>Timing</entry><entry>Conditions to proceed</entry><entry>Funding released</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Gate 1: Buy the land</b></entry><entry>May 2022</entry><entry>Site with clear legal title; legal due diligence complete; legal structure agreed with tax advisers; planning conditions confirmed</entry><entry>About US$6.0 million (land)</entry></row>
+            <row><entry><b>Gate 2: Start construction</b></entry><entry>March 2023</entry><entry>Construction permits granted; fixed-price contract signed; costs confirmed by a quantity surveyor; founding head appointed</entry><entry>About US$15.6 million (construction, fit-out and fees)</entry></row>
+            <row><entry><b>Gate 3: Confirm the opening</b></entry><entry>March 2024</entry><entry>At least 150 pupils pre-enrolled (two thirds of the first-year target); key teachers under contract; licence application submitted</entry><entry>About US$1.5 million (pre-opening costs)</entry></row>
+            <row><entry><b>Gate 4: Open the school</b></entry><entry>September 2024</entry><entry>Ministry licence and Cambridge registration granted; building approved for use; staff in post</entry><entry>Operating budget</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>If pre-enrolment at Gate 3 is lower than expected, the school could still open with early years and primary classes only, and add the secondary years over the following two years. This would reduce staffing costs in the first years while the school builds its reputation.</p>
+    </body>
+  </topic>
+  <topic id="sec-8-3">
+    <title>8.3 Immediate Next Steps</title>
+    <body>
+      <p>This report recommends that the client takes the following steps in the next three months:</p>
+      <ol>
+        <li><b>Confirm the decision and the budget,</b> including a reserve for cost increases and slower enrolment.</li>
+        <li><b>Appoint specialist advisers:</b> a Ukrainian education lawyer, a tax specialist and an independent project manager.</li>
+        <li><b>Decide the legal structure</b> for owning the land and running the school (Section 6.7).</li>
+        <li><b>Start the site search</b> with property agents in the two suggested zones (Section 3.5).</li>
+        <li><b>Confirm the costs</b> of land and construction with a quantity surveyor.</li>
+        <li><b>Contact Cambridge Assessment International Education</b> to confirm the registration process and timeline.</li>
+        <li><b>Begin the search for a founding head of school</b> through specialist international recruitment agencies.</li>
+        <li><b>Assess political-risk insurance</b> and other ways to protect the investment against escalation of the conflict.</li>
+      </ol>
+      <p>Taken together, these steps would allow the client to make the first major commitment, the purchase of land, with a clear view of the costs, the legal position and the risks.</p>
+    </body>
+  </topic>
+  <topic id="part-2" outputclass="part">
+    <title>Part 2: Research Annex</title>
+    <body>
+      <p outputclass="part-intro"><i>The annexes that follow set out the research on which the client decision report is based. They are written for readers who wish to examine the evidence in greater depth, and they cite their sources in the text. Full references are listed in Annex G.</i></p>
+    </body>
+  </topic>
+  <topic id="annex-a">
+    <title>Annex A Ukraine’s Economy</title>
+  </topic>
+  <topic id="annex-a-1">
+    <title>A.1 Economic Overview</title>
+    <body>
+      <p>Since independence in 1991, Ukraine’s economic trajectory has been marked less by sustained convergence with its European neighbours than by a recurring cycle of expansion and abrupt contraction (Carnegie Endowment, 2012). The dissolution of Soviet supply chains, hyperinflation and delayed structural reform produced a collapse in output during the 1990s, from which recovery began only at the turn of the century. Between 2000 and 2008, growth averaged around 7% a year, driven principally by high world prices for steel and agricultural commodities and by rapid expansion of domestic credit.</p>
+      <p>This expansion proved fragile. The global financial crisis reduced real GDP by almost 15% in 2009, and the political upheaval of 2013 to 2014, the annexation of Crimea and the conflict in the Donbas caused a further cumulative contraction of approximately 16% in 2014 and 2015. Over the same period, the hryvnia depreciated from around UAH 8 per US dollar in 2013 to approximately UAH 24 by the end of 2015, sharply reducing GDP measured in dollars (Figure A1). A gradual recovery from 2016, with growth of between 2.4% and 3.4% a year, was interrupted by the COVID-19 pandemic, which reduced real output by 4% in 2020 (State Statistics Service of Ukraine, 2021) and prompted a new Stand-By Arrangement with the International Monetary Fund worth US$5 billion (IMF, 2020).</p>
+      <fig id="fig-a1">
+        <title>Figure A1: Gross domestic product, 1996 to 2026 (US$ billion, current prices)</title>
+        <desc>Source: International Monetary Fund, World Economic Outlook database, April 2021 (via Statista). Values from 2021 onwards are IMF projections.</desc>
+        <image href="images/figA1_gdp.png" placement="break" align="center" width="451pt">
+          <alt>Bar chart of Ukraine’s GDP in current US dollars from 1996 to 2026, with IMF projections from 2021. GDP peaks at US$181 billion in 2008 and US$180 billion in 2013, falls to US$90 billion in 2015 and reaches US$151.5 billion in 2020.</alt>
+        </image>
+      </fig>
+      <p>In 2020, nominal GDP amounted to approximately US$155.6 billion, or roughly US$3,700 per person, one of the lowest levels in Europe (State Statistics Service of Ukraine, 2021). The IMF’s April 2021 estimate, shown in Figure A1, was slightly lower at US$151.5 billion. Major index providers classify Ukraine as a frontier or standalone market rather than as an emerging market, reflecting limited capital-market depth and persistent concerns about governance, the rule of law and corruption. For the purposes of this report, the most important implication is that the pool of households able to afford premium school fees is small relative to the population, and highly concentrated in Kyiv.</p>
+      <p>Nonetheless, several reforms enacted after 2014 have improved the outlook. These include the stabilisation of the banking sector, the introduction of an inflation-targeting regime by the National Bank of Ukraine, the decentralisation of public finances to local communities and, from July 2021, the opening of the agricultural land market. The IMF projected nominal GDP growth to around US$260 billion by 2026, although such projections have historically been vulnerable to political and external shocks.</p>
+    </body>
+  </topic>
+  <topic id="annex-a-2">
+    <title>A.2 Key Industries: Metallurgy, Agriculture, IT and Green Energy</title>
+    <body>
+      <p><b>Agriculture</b> is Ukraine’s most important export sector. It contributes around 9 to 10% of GDP and accounted for approximately 45% of merchandise exports in 2020, worth about US$22 billion (Ukrainian Agribusiness Club, 2021). Ukraine is the world’s largest exporter of sunflower oil and among the leading exporters of maize, wheat and barley (DLF, 2021). Large agricultural holdings have attracted significant foreign investment, and the liberalisation of the land market is expected to increase both productivity and land values. The sector generates substantial foreign-currency income but employs a declining share of the workforce.</p>
+      <p><b>Mining and metallurgy</b> remain central to the industrial economy. Ukraine holds some of the world’s largest iron-ore reserves and produced 20.6 million tonnes of steel in 2020, which placed it eleventh among the world’s steel producers (World Steel Association, 2021). GMK Center (2021) estimates the total contribution of mining and metallurgy at 10.6% of GDP in 2019, of which 5.2% was generated directly by the sector and the remainder by related industries and the spending of its employees. The sector remains one of the country’s largest sources of export earnings. The sector is, however, exposed to volatile world prices, ageing capital stock and the loss of production capacity in the occupied areas of the Donbas.</p>
+      <p><b>Information technology</b> has been the most dynamic sector of the past decade. Exports of IT services exceeded US$5 billion for the first time in 2020, an increase of around 20% on 2019, and represented approximately 8.3% of total exports (BRDO, 2021). The number of IT specialists rose from about 91,000 in 2015 to an estimated 200,000 in 2019 (N-iX, 2019). Salaries in the sector are several times the national average and are typically paid in US dollars, which makes IT professionals, many of whom live in Kyiv, a core market for premium education.</p>
+      <p><b>Green energy</b> expanded rapidly after 2015 under a generous feed-in tariff, and the Energy Strategy of Ukraine envisages that renewable sources will provide around a quarter of primary energy supply by 2035. Payment arrears to producers and retroactive cuts to the feed-in tariff in 2020 have, however, undermined investor confidence. The sector is of indirect relevance to this report, principally as a source of foreign investment and of international professionals living in Kyiv.</p>
+    </body>
+  </topic>
+  <topic id="annex-a-3">
+    <title>A.3 Remittances and Emigration</title>
+    <body>
+      <p>Labour migration has become one of the defining features of the Ukrainian economy. Official estimates put the number of Ukrainians working abroad at between 2.7 and 3.2 million in 2018 and 2019, equivalent to roughly one in seven wage earners (Ministry of Social Policy of Ukraine, 2019; National Bank of Ukraine, 2020). Poland has become the principal destination, with almost one million Ukrainian workers in 2019, followed by Russia, Italy and the Czech Republic (PISM, 2020). The resulting flow of remittances has grown substantially since 2014. According to the National Bank of Ukraine, personal remittances reached approximately US$11 to 12 billion a year between 2018 and 2020, equivalent to about 8.5% of GDP in 2018 (Figure A2).</p>
+      <fig id="fig-a2">
+        <title>Figure A2: Inflow of personal remittances to Ukraine, 2011 to 2020</title>
+        <desc>Source: National Bank of Ukraine, 2021. Values are rounded. * 2020 is an estimate. The World Bank uses a broader definition, which produces higher figures.</desc>
+        <image href="images/figA2_remit.png" placement="break" align="center" width="451pt">
+          <alt>Combined chart of personal remittances to Ukraine from 2011 to 2020, rising from about US$7 billion to about US$12 billion, and as a share of GDP from about 4% to about 8%.</alt>
+        </image>
+      </fig>
+      <p>Research on household behaviour indicates that, once basic consumption needs are met, remittance income is increasingly directed towards long-term investments, most notably housing and education (Khomutenko, 2016). Remittances therefore contribute both to the growth of the middle class and to demand for private schooling and English-language tuition.</p>
+      <p>Emigration also carries costs. The departure of skilled workers, particularly in medicine, engineering and IT, has created shortages in several professions, and the teaching profession is no exception. For a school that intends to employ Ukrainian teachers of high quality, this reinforces the need for competitive salaries and professional development.</p>
+    </body>
+  </topic>
+  <topic id="annex-a-4">
+    <title>A.4 Demographic Trends</title>
+    <body>
+      <p>Ukraine’s population has declined from around 52 million in the early 1990s to approximately 41.6 million in January 2021, excluding Crimea and the temporarily occupied areas (State Statistics Service of Ukraine, 2021). The last national census was conducted in December 2001, so current estimates rely on registration data and are subject to considerable uncertainty, particularly with regard to emigration.</p>
+      <p>Two processes drive the decline. First, deaths have exceeded births in every year since the early 1990s, and the gap widened markedly after 2015 as the number of births fell from approximately 520,000 in 2012 to under 300,000 in 2020 (Figure A3). The total fertility rate fell to around 1.2 children per woman, among the lowest in Europe. Second, net emigration has continued, although its scale is difficult to measure.</p>
+      <fig id="fig-a3">
+        <title>Figure A3: Live births and deaths in Ukraine, 2012 to 2020 (thousands)</title>
+        <desc>Source: State Statistics Service of Ukraine, 2021. Figures from 2014 exclude Crimea and the temporarily occupied areas.</desc>
+        <image href="images/figA3_demog.png" placement="break" align="center" width="451pt">
+          <alt>Line chart of live births and deaths in Ukraine from 2012 to 2020. Births fall from about 521,000 to about 294,000, while deaths remain between about 574,000 and 663,000.</alt>
+        </image>
+      </fig>
+      <p>The demographic outlook has been the subject of considerable public debate. Some commentators have argued that return migration, pro-natal policies and economic recovery could reverse the decline within a decade. Official and international projections, however, including the medium variant of the United Nations World Population Prospects (2019), anticipate continued contraction over the coming decades. This report therefore adopts the more cautious view.</p>
+      <p>For the proposed school, the national trend matters less than the position of Kyiv. The capital continues to attract internal migrants, particularly young professionals and families from other regions, and its registered population of almost three million is widely considered to understate the number of residents. The cohorts that will enter the school between 2024 and 2030 have already been born, and in Kyiv they are likely to remain broadly stable even as they contract nationally.</p>
+    </body>
+  </topic>
+  <topic id="annex-b">
+    <title>Annex B The Ukrainian Education System</title>
+  </topic>
+  <topic id="annex-b-1">
+    <title>B.1 Structure: the Transition from 11 to 12 Years</title>
+    <body>
+      <p>The structure of Ukrainian schooling is in the midst of its most significant reform since independence. Under the Law on Education (2017) and the Law on Complete General Secondary Education (2020), complete general secondary education is being extended from 11 to 12 years and reorganised into three cycles (Table B1). The extension applies to pupils who entered Grade 1 in September 2018, the first cohort of the New Ukrainian School, who will complete their schooling around 2030. Until then, school leavers continue to finish after 11 years, typically at the age of 17.</p>
+      <table id="tbl-b1" frame="topbot" colsep="0" rowsep="1">
+        <title>Table B1: Structure of education in Ukraine</title>
+        <desc>Source: Law of Ukraine on Education (2017); Law of Ukraine on Complete General Secondary Education (2020); WENR (2019).</desc>
+        <tgroup cols="4">
+          <colspec colname="c1" colwidth="130*"/>
+          <colspec colname="c2" colwidth="95*"/>
+          <colspec colname="c3" colwidth="70*"/>
+          <colspec colname="c4" colwidth="156*"/>
+          <thead>
+            <row><entry>Cycle</entry><entry>Grades</entry><entry>Typical ages</entry><entry>Notes</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Pre-school education</b></entry><entry>Not applicable</entry><entry>3 to 6</entry><entry>Optional, except for a final preparatory year</entry></row>
+            <row><entry><b>Primary education</b></entry><entry>1 to 4</entry><entry>6 to 10</entry><entry>First cycle of the New Ukrainian School since 2018</entry></row>
+            <row><entry><b>Basic secondary education</b></entry><entry>5 to 9</entry><entry>10 to 15</entry><entry>Compulsory; ends with state final attestation</entry></row>
+            <row><entry><b>Specialised (profile) secondary education</b></entry><entry>10 to 12</entry><entry>15 to 18</entry><entry>Academic or vocational pathways; currently Grades 10 and 11 only</entry></row>
+            <row><entry><b>Higher education</b></entry><entry>Bachelor’s, master’s and doctoral levels</entry><entry>17 or 18 onwards</entry><entry>Admission by the External Independent Evaluation (ZNO)</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The transition has a direct bearing on international comparability. Ukrainian school leavers have historically been a year younger than their peers in most European systems and have often been required to complete a foundation year before entering universities in the United Kingdom and elsewhere. International programmes, by contrast, are designed to run to the age of 18. This disparity constitutes a practical advantage for international schools, whose graduates can apply directly to foreign universities.</p>
+      <p>Admission to Ukrainian universities is determined by the External Independent Evaluation (ZNO), a set of standardised national tests administered by the Ukrainian Centre for Educational Quality Assessment since 2008. The ZNO is widely regarded as one of the most successful anti-corruption reforms in Ukrainian education, having replaced admission procedures conducted by individual universities.</p>
+    </body>
+  </topic>
+  <topic id="annex-b-2">
+    <title>B.2 Government Funding</title>
+    <body>
+      <p>Public expenditure on education in Ukraine has consistently been high by international standards, at approximately 6% of GDP compared with an OECD average of around 5% (OECD, 2019; World Bank, 2019). In absolute terms, this amounted to roughly US$9 to 10 billion in 2019. Responsibility for funding has been progressively decentralised: the state budget finances teachers’ salaries through an educational subvention, while local communities are responsible for buildings, utilities and other operating costs.</p>
+      <p>High expenditure has not, however, translated into commensurate outcomes. A substantial share of the budget is absorbed by an extensive network of small schools, many of them in rural areas with declining enrolment. As a result, the national ratio of pupils to teachers is approximately nine to one, considerably more favourable than the OECD average, while urban schools, particularly in Kyiv, frequently operate with classes of 30 pupils or more. The World Bank (2019) has accordingly identified the optimisation of the school network, rather than an increase in funding, as the principal lever for improving quality.</p>
+      <p>Private expenditure on education, including tuition at private schools and universities, private tutoring and language courses, is estimated at around 1% of GDP. Much of it is spent informally and is therefore difficult to measure with precision.</p>
+    </body>
+  </topic>
+  <topic id="annex-b-3">
+    <title>B.3 The New Ukrainian School Reform</title>
+    <body>
+      <p>The New Ukrainian School (NUS) is the central element of the government’s education reform. Launched as a concept in 2016, piloted in 100 schools from September 2017 and introduced in every Grade 1 class in September 2018, it seeks to move Ukrainian schooling from the memorisation of knowledge towards the development of competences, in line with the European framework of Key Competences for Lifelong Learning (European Parliament and Council, 2006). The reform comprises nine key components:</p>
+      <ol>
+        <li>new educational content based on the competences needed for success in life;</li>
+        <li>motivated teachers who have the freedom to work creatively and to develop professionally;</li>
+        <li>an integrated approach to learning that also develops values;</li>
+        <li>decentralisation and effective management that give schools real autonomy;</li>
+        <li>teaching based on partnership between pupils, teachers and parents;</li>
+        <li>a focus on the needs of each pupil, that is, child-centred education;</li>
+        <li>a new school structure that allows pupils to master the new content;</li>
+        <li>fair distribution of public funds to ensure equal access to quality education; and</li>
+        <li>a modern learning environment, both within and beyond the school building.</li>
+      </ol>
+      <p outputclass="source">Source: Ministry of Education and Science of Ukraine (2016).</p>
+      <p>The reform has been broadly welcomed by teachers and parents, but its implementation has been uneven. Its success depends heavily on the retraining of teachers, the provision of new learning materials and the renovation of school buildings, all of which require sustained investment. Its effects on outcomes will not be measurable for several years. For private and international schools, the reform is significant because its child-centred philosophy is broadly consistent with international curricula, which facilitates the combination of the two.</p>
+    </body>
+  </topic>
+  <topic id="annex-b-4">
+    <title>B.4 PISA Results and English Proficiency</title>
+    <body>
+      <p>Ukraine participated in the OECD Programme for International Student Assessment (PISA) for the first time in 2018. Its results were below the OECD average in all three domains, but by a smaller margin than might be expected given its level of income (Table B2).</p>
+      <table id="tbl-b2" frame="topbot" colsep="0" rowsep="1">
+        <title>Table B2: PISA 2018 results for Ukraine</title>
+        <desc>Source: OECD (2019), PISA 2018 Results. Level 2 is regarded as the baseline level of proficiency.</desc>
+        <tgroup cols="3">
+          <colspec colname="c1" colwidth="271*"/>
+          <colspec colname="c2" colwidth="90*"/>
+          <colspec colname="c3" colwidth="90*"/>
+          <thead>
+            <row><entry>PISA 2018</entry><entry>Ukraine</entry><entry>OECD average</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>Reading: mean score</entry><entry>466</entry><entry>487</entry></row>
+            <row><entry>Reading: share of pupils at Level 2 or above</entry><entry>74%</entry><entry>77%</entry></row>
+            <row><entry>Mathematics: mean score</entry><entry>453</entry><entry>489</entry></row>
+            <row><entry>Mathematics: share of pupils at Level 2 or above</entry><entry>64%</entry><entry>76%</entry></row>
+            <row><entry>Science: mean score</entry><entry>469</entry><entry>489</entry></row>
+            <row><entry>Science: share of pupils at Level 2 or above</entry><entry>74%</entry><entry>78%</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Two features of the results are particularly relevant. First, the gap between pupils in large cities and those in villages was substantial (Ukrainian Centre for Educational Quality Assessment, 2019), which suggests that Kyiv’s pupils perform considerably above the national average. Second, socio-economic background was a strong predictor of performance: advantaged pupils outperformed disadvantaged pupils in reading by 90 score points (OECD, 2019), reinforcing the importance that affluent families attach to the quality of their children’s schooling.</p>
+      <p>English proficiency remains a notable weakness. In the 2020 EF English Proficiency Index, Ukraine ranked 44th of 100 countries, well behind Poland (16th) and most member states of the European Union (EF Education First, 2020). The government has responded by setting a target that school leavers should reach level B1 of the Common European Framework of Reference in a foreign language, and English is a core subject of the ZNO. This combination of a recognised weakness and a rising requirement underpins the large private market for English tuition described in Annex C and constitutes the main reason why Ukrainian families seek English-medium schooling.</p>
+    </body>
+  </topic>
+  <topic id="annex-c">
+    <title>Annex C The Private Education Market</title>
+  </topic>
+  <topic id="annex-c-1">
+    <title>C.1 Private Schools: Numbers and Enrolment</title>
+    <body>
+      <p>Private schooling in Ukraine remains a small segment of the system, but one that has expanded rapidly since 2014. In October 2021, 320 private schools held an active licence, representing approximately 2% of the 16,525 schools in the country (Opendatabot, 2021). The number of pupils attending private schools increased by 174.5% between 2014/15 and 2020/21, and the number of their teachers by 89.6% (Shevchenko, 2021).</p>
+      <p>According to the same registry data, licensed private schools can accommodate 119,512 pupils, compared with 4.64 million in community and state schools. Private schools therefore account for no more than about 2.5% of capacity, and a smaller share of actual enrolment. This share is modest by international standards, but the market is heavily concentrated: Kyiv alone had 108 licensed private schools in 2021, approximately one in five of all schools in the capital, compared with roughly one in fifty nationally.</p>
+      <table id="tbl-c1" frame="topbot" colsep="0" rowsep="1">
+        <title>Table C1: Private schools in Ukraine</title>
+        <tgroup cols="3">
+          <colspec colname="c1" colwidth="190*"/>
+          <colspec colname="c2" colwidth="120*"/>
+          <colspec colname="c3" colwidth="141*"/>
+          <thead>
+            <row><entry>Indicator</entry><entry>Value</entry><entry>Source</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>Licensed private schools, October 2021</entry><entry>320 (about 2% of all schools)</entry><entry>Opendatabot (2021)</entry></row>
+            <row><entry>Licensed capacity of private schools</entry><entry>119,512 pupils (about 2.5% of total capacity)</entry><entry>Opendatabot (2021)</entry></row>
+            <row><entry>Growth in private-school pupils, 2014/15 to 2020/21</entry><entry>+174.5%</entry><entry>Shevchenko (2021)</entry></row>
+            <row><entry>Growth in private-school teachers, 2014/15 to 2020/21</entry><entry>+89.6%</entry><entry>Shevchenko (2021)</entry></row>
+            <row><entry>Licensed private schools in Kyiv, October 2021</entry><entry>108 (19.4% of Kyiv schools)</entry><entry>Opendatabot (2021)</entry></row>
+            <row><entry>Registered private schools in Kyiv city and region, 2018</entry><entry>134</entry><entry>Ministry of Education and Science (2018)</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The growth of private schooling reflects two complementary forces. On the demand side, dissatisfaction with large classes, outdated buildings and informal payments in state schools has encouraged families with sufficient means to seek alternatives. On the supply side, the Law on Education (2017) clarified the legal status of private institutions and simplified their access to licensing. Most private schools are small, with between 70 and 700 pupils, and follow the State Standard with additional instruction in English or German.</p>
+    </body>
+  </topic>
+  <topic id="annex-c-2">
+    <title>C.2 International Schools</title>
+    <body>
+      <p>In 2021, seven schools in Ukraine described themselves as international. Only three of these, all located in Kyiv, offered programmes of the International Baccalaureate, among them Kyiv International School and Pechersk School International. Together with the British International School Ukraine, these schools form the established premium segment, and each enrolled more than 500 pupils in 2021 (Section 2.2). The remaining schools comprise national schools serving particular expatriate communities, faith-based or community schools, and private schools that use the term “international” without holding recognised international accreditation.</p>
+      <p>The term “international school” has no legal definition in Ukraine. Its use is therefore unregulated, and the accreditation claimed by some schools can be difficult to verify. Recognised international accreditation, from bodies such as the Council of International Schools, the International Baccalaureate Organization or Cambridge Assessment International Education, is accordingly the most reliable indicator of quality available to parents (Annex E).</p>
+    </body>
+  </topic>
+  <topic id="annex-c-3">
+    <title>C.3 English Language Schools</title>
+    <body>
+      <p>The market for English tuition is considerably larger and more fragmented than the market for private schooling. It encompasses national and international language-school chains, small local providers, online platforms and a very large number of individual tutors, many of whom are registered as sole traders. Its size is difficult to estimate with confidence, because much of the activity is informal. Demand is driven by the requirements of the ZNO, the government’s B1 target for school leavers, the needs of employers in the IT and service sectors, and preparation for study abroad.</p>
+      <p>The market has also become more professional: a growing number of teachers hold internationally recognised qualifications, such as the Cambridge CELTA, and several schools operate as authorised Cambridge English examination centres. For the proposed school, the language market is significant in two respects: it demonstrates the willingness of Ukrainian families to pay for English, and it offers a source of qualified English teachers and assistants.</p>
+    </body>
+  </topic>
+  <topic id="annex-c-4">
+    <title>C.4 Fees in Ukraine and Abroad</title>
+    <body>
+      <p>Few private schools in Ukraine publish their fees, which are commonly negotiated and increase with each grade. The figures in Table C2 are therefore based on enquiries made for this report and on published school information. They exclude additional charges, which at private schools may reach US$2,000 a year and at international schools approximately US$4,000.</p>
+      <table id="tbl-c2" frame="topbot" colsep="0" rowsep="1">
+        <title>Table C2: Annual tuition fees in Ukraine and abroad, 2021</title>
+        <desc>Source: author’s fee enquiries and school websites, 2021. Fees abroad exclude travel and living costs, which typically add US$10,000 or more a year.</desc>
+        <tgroup cols="3">
+          <colspec colname="c1" colwidth="221*"/>
+          <colspec colname="c2" colwidth="115*"/>
+          <colspec colname="c3" colwidth="115*"/>
+          <thead>
+            <row><entry>Market</entry><entry>Average annual tuition (US$)</entry><entry>Range (US$)</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>Private schools, Kyiv</entry><entry>4,200</entry><entry>3,300 to 8,000</entry></row>
+            <row><entry>Private schools, Kharkiv</entry><entry>3,800</entry><entry>2,200 to 5,160</entry></row>
+            <row><entry>Private schools, Odesa</entry><entry>3,750</entry><entry>3,100 to 5,400</entry></row>
+            <row><entry>Private schools, Lviv</entry><entry>3,490</entry><entry>3,100 to 5,600</entry></row>
+            <row><entry>International schools, Kyiv</entry><entry>Not available</entry><entry>11,000 to 30,000 or more</entry></row>
+            <row><entry>Schools abroad for international pupils: United States</entry><entry>32,000</entry><entry>26,000 to 61,000</entry></row>
+            <row><entry>Schools abroad for international pupils: Canada</entry><entry>31,000</entry><entry>26,100 to 57,000</entry></row>
+            <row><entry>Schools abroad for international pupils: United Kingdom</entry><entry>45,000</entry><entry>34,000 to 67,000</entry></row>
+            <row><entry>Schools abroad for international pupils: Switzerland</entry><entry>46,000</entry><entry>34,000 to 74,000</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Two observations follow from these data. First, the difference between regional cities is modest, whereas Kyiv commands both the highest average and by far the widest range. Second, there is a pronounced gap between the most expensive private schools and the least expensive international schools, and an even wider gap between international schools in Kyiv and schools abroad. Both gaps are discussed in Section 3.4.</p>
+    </body>
+  </topic>
+  <topic id="annex-c-5">
+    <title>C.5 Ukrainian Students Studying Abroad</title>
+    <body>
+      <p>The number of Ukrainians studying at foreign universities has grown substantially over the past decade. According to CEDOS (2019), 77,424 Ukrainian students were enrolled at foreign universities in 2016/17, more than three times the figure of nine years earlier, and the number was projected to exceed 83,000 in 2017/18. Poland alone hosted 37,829 Ukrainian students in 2017/18, almost half of the total (Perspektywy Education Foundation, 2018). The growth has been concentrated in Central and Eastern Europe, where tuition is low, admission requirements are accessible and the labour market is open to graduates. Enrolment in Western Europe and in English-speaking countries has grown more slowly, reflecting higher costs and more demanding admission requirements, including proficiency in English (Figure C1).</p>
+      <fig id="fig-c1">
+        <title>Figure C1: Ukrainian students at foreign universities by destination region, selected years</title>
+        <desc>Source: CEDOS (2019), based on UNESCO and national statistics. Values are rounded; data for 2013/14 and 2014/15 are not shown.</desc>
+        <image href="images/figC1_abroad.png" placement="break" align="center" width="451pt">
+          <alt>Grouped bar chart of Ukrainian students at foreign universities by destination region for selected years from 2008/09 to 2015/16. Eastern Europe rises from about 8,100 to about 23,200; Western Europe and English-speaking countries grow more slowly.</alt>
+        </image>
+      </fig>
+      <p>Smaller numbers of Ukrainian pupils attend boarding schools in the United Kingdom, Switzerland and North America, but reliable data on school-level study abroad are not available. The pattern of tertiary mobility is nonetheless instructive. Families who aspire to universities in Western Europe and English-speaking countries require precisely the combination of English-medium instruction and internationally recognised qualifications that the proposed school would offer. A school in Kyiv that enables pupils to apply directly to such universities would address a demand that is currently met largely by sending children abroad.</p>
+    </body>
+  </topic>
+  <topic id="annex-d">
+    <title>Annex D Parent Survey</title>
+  </topic>
+  <topic id="annex-d-1">
+    <title>D.1 Method and Sample</title>
+    <body>
+      <p>The survey was designed to obtain broad but simple information on the preferences of Kyiv parents when choosing a school, and in particular on the balance they strike between the education provided and its cost. It was administered online in 2021 as a bilingual questionnaire in English and Ukrainian, comprising ten multiple-choice questions, five of which included an “other” option. A final optional section invited respondents to comment in their own words. Responses were anonymous, and all metadata and identifying information were removed.</p>
+      <p>Eligibility was restricted to parents of at least one school-age child attending school in Kyiv, or attending school abroad after previously attending school in Kyiv. The access link was distributed to 160 parents through personal and professional networks, and the survey remained open for three weeks. Twenty-three parents completed the questionnaire, a response rate of approximately 14%.</p>
+      <p>The results should be interpreted with caution. The sample is small and was obtained by convenience rather than by random selection; it is therefore likely to over-represent families already engaged with fee-paying education, and it cannot be used to estimate market shares or the prevalence of particular views in the wider population. Its value lies in identifying the priorities and concerns of the families most relevant to the proposed school. Where respondents could select more than one answer, percentages may total more than 100%.</p>
+    </body>
+  </topic>
+  <topic id="annex-d-2">
+    <title>D.2 Questionnaire</title>
+    <body>
+      <p>The questionnaire asked respondents about the number of their school-age children, the annual fees they pay per child and the type of school their children attend. It then asked the following questions, shown here with their original numbering and wording. Each question was presented in both English and Ukrainian.</p>
+      <ol>
+        <li>Why did you choose this school? Choose one or more answers.</li>
+        <li>What do you dislike about this school? Choose one or more answers.</li>
+        <li>What do you like about this school? Choose one or more answers.</li>
+        <li>What is your opinion of the teaching at this school? Choose one or more answers.</li>
+      </ol>
+      <p>The remaining questions concerned background information and are not reported separately.</p>
+    </body>
+  </topic>
+  <topic id="annex-d-3">
+    <title>D.3 Full Results</title>
+    <body>
+      <p><b>Family size.</b> Of the 23 respondents, 13 (56%) had one child of school age, 9 (39%) had two, and 1 (4%) had three or more. Respondents with one child tended to report higher fees per child, whereas those with two children often spent a larger total budget divided between them.</p>
+      <table id="tbl-d1" frame="topbot" colsep="0" rowsep="1">
+        <title>Table D1: Annual fees paid per child</title>
+        <desc>Source: author’s survey of Kyiv parents, 2021. Shares are rounded.</desc>
+        <tgroup cols="4">
+          <colspec colname="c1" colwidth="110*"/>
+          <colspec colname="c2" colwidth="65*"/>
+          <colspec colname="c3" colwidth="45*"/>
+          <colspec colname="c4" colwidth="231*"/>
+          <thead>
+            <row><entry>Annual fees per child</entry><entry>Respondents</entry><entry>Share</entry><entry>Type of school attended</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>About US$2,000</entry><entry>7</entry><entry>30%</entry><entry>State school (additional charges)</entry></row>
+            <row><entry>US$2,000 to US$7,000</entry><entry>8</entry><entry>35%</entry><entry>Private school following the national curriculum</entry></row>
+            <row><entry>US$10,000 to US$20,000</entry><entry>7</entry><entry>30%</entry><entry>Private school with international elements, such as a language focus, international examinations or routes to study abroad</entry></row>
+            <row><entry>US$30,000 or more</entry><entry>1</entry><entry>4%</entry><entry>International school with international staff and examinations</entry></row>
+            <row><entry><b>Total</b></entry><entry><b>23</b></entry><entry><b>100%</b></entry><entry></entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p><b>Fees.</b> Families whose children attended state schools reported paying around US$2,000 a year in additional charges, although the precise purposes of these payments could not be determined from the question. Families paying between US$10,000 and US$20,000 described schools that offered international elements and were explicitly seeking routes to education abroad (Table D1).</p>
+      <p><b>Reasons for choosing a school.</b> Proximity and reputation were the dominant considerations, cited by 52% and 48% of respondents respectively (Figure D1). Recommendations from other parents were also important, whereas information obtained online and agencies played almost no role, which underlines the importance of word of mouth in this market.</p>
+      <fig id="fig-d1">
+        <title>Figure D1: Reasons for choosing the current school (% of respondents)</title>
+        <desc>Source: author’s survey of Kyiv parents, 2021. n = 23; more than one answer allowed.</desc>
+        <image href="images/figD1_reasons.png" placement="break" align="center" width="451pt">
+          <alt>Bar chart of reasons for choosing the current school among 23 parents: convenient location 52%, reputation 48%, recommendation from another parent 30%, quality of teachers 26%, other 22%, buildings and facilities 13%, information found online 4%, recommendation from an agency 0%.</alt>
+        </image>
+      </fig>
+      <p><b>Likes and dislikes.</b> The quality of teaching was the most frequently cited strength of current schools (52%), followed by buildings and facilities (30%). Buildings and classroom facilities were, however, also the most frequently cited weakness (48%), followed by the quality of teaching (30%) and the grading of tests and examinations (26%). The full distribution is shown in Figure 2 (Section 2.4).</p>
+      <p><b>Opinion of teaching.</b> Just over half of respondents considered their child’s teachers well qualified, and around a third rated the teaching as acceptable (Figure D2). A minority reported that teachers did not give their child sufficient help (17%) or that teaching was poor overall (13%).</p>
+      <fig id="fig-d2">
+        <title>Figure D2: Opinion of the teaching at the current school (% of respondents)</title>
+        <desc>Source: author’s survey of Kyiv parents, 2021. n = 23; more than one answer allowed.</desc>
+        <image href="images/figD2_teaching.png" placement="break" align="center" width="451pt">
+          <alt>Bar chart of parents’ opinions of teaching: teachers have good qualifications 52%, teaching acceptable 35%, modern techniques 22%, not enough help 17%, teaching poor 13%, teachers unfriendly 9%, other 9%, not strict enough 0%.</alt>
+        </image>
+      </fig>
+      <p>Taken together, the results suggest that families in this segment value qualified teachers and a convenient location above all, and that dissatisfaction with school buildings is widespread even among those paying substantial fees. Both findings inform the recommendations in Part 1.</p>
+    </body>
+  </topic>
+  <topic id="annex-e">
+    <title>Annex E Accreditation Bodies</title>
+    <body>
+      <p>Internationally recognised accreditation is the principal means by which a school in Ukraine can demonstrate its international standing, since the term “international school” has no legal definition. The bodies described below differ considerably in their requirements, timescales and costs, both for obtaining recognition and for maintaining it. Their processes typically involve detailed examination of governance, curriculum, staffing and facilities, followed by periodic re-evaluation.</p>
+    </body>
+  </topic>
+  <topic id="annex-e-1">
+    <title>E.1 Cambridge Assessment International Education and Cambridge English</title>
+    <body>
+      <p>Cambridge Assessment International Education, part of the University of Cambridge, provides a complete curriculum and assessment pathway for pupils aged 5 to 19: Cambridge Primary, Cambridge Lower Secondary, Cambridge IGCSE (International General Certificate of Secondary Education) and Cambridge International AS and A Levels. IGCSE and A Level qualifications are widely accepted for university admission, particularly in the United Kingdom and the Commonwealth, and increasingly across continental Europe and North America.</p>
+      <p>Registration as a Cambridge school typically takes between three and six months from application to approval (Cambridge Assessment International Education, 2017). The process examines the school’s curriculum planning, staffing, facilities and capacity to administer examinations securely. Costs vary with the scope of programmes offered and comprise registration and annual fees, together with examination entry fees that are normally passed on to families. These costs can be readily incorporated into the school’s operating budget and fee structure.</p>
+      <p>Cambridge English, a separate part of the same organisation, offers a suite of English-language examinations for all ages, from the Young Learners Starters level for children of around six years of age to the advanced qualifications taken by older pupils. Schools may either enter candidates through an external centre or register as an examination centre themselves. Registration as a centre is relatively straightforward, takes a few months and costs approximately US$5,000, a sum that is recovered through candidates’ examination fees; in 2021, entry fees in Ukraine started from approximately UAH 1,200 (Cambridge Assessment English, 2021). Becoming an authorised preparation centre involves little more than administrative effort. Either form of association provides external validation of the quality of English teaching and has considerable marketing value.</p>
+    </body>
+  </topic>
+  <topic id="annex-e-2">
+    <title>E.2 International Baccalaureate</title>
+    <body>
+      <p>The International Baccalaureate Organization (IBO) is an independent foundation, based in Geneva, which is entirely separate from Cambridge. It offers four programmes: the Primary Years Programme (ages 3 to 12), the Middle Years Programme (ages 11 to 16), the Diploma Programme (ages 16 to 19) and the Career-related Programme. The Diploma Programme is widely regarded as one of the most rigorous pre-university qualifications and is recognised by universities worldwide.</p>
+      <p>Authorisation is considerably more demanding than Cambridge registration. A school must first become a candidate school, implement the programme under the guidance of the IBO, train its teachers in IB methods and undergo an authorisation visit. The process typically takes two to three years for each programme, and both candidacy and authorised schools pay annual fees. In 2021, three schools in Kyiv offered IB programmes, of which Pechersk School International was the only one to offer the full sequence from the Primary Years Programme to the Diploma.</p>
+    </body>
+  </topic>
+  <topic id="annex-e-3">
+    <title>E.3 Council of International Schools and European Associations</title>
+    <body>
+      <p>Europe has a wide range of associations serving international schools, their leaders and their teachers. The most significant for accreditation purposes is the Council of International Schools (CIS), whose accreditation evaluates the school as a whole against international standards and is widely recognised by parents, universities and other schools. CIS accreditation is a multi-year process involving a self-study and evaluation visits, and typically takes three to five years. Other associations include the International Schools Association (ISA), the Association of International Schools in Europe and, for British-curriculum schools, the Council of British International Schools (COBIS). Annual membership fees for the main associations ranged from approximately US$500 to more than US$8,000 in 2021, and most require prior recognition by a national or international awarding body.</p>
+      <p>Several European countries, notably France, Germany, the Netherlands and Turkey, also support schools in Ukraine that follow their national curricula. These schools commonly operate a dual model, in which pupils take both Ukrainian and foreign examinations, and they often receive funding from the government of the relevant country. They are not considered further in this report.</p>
+    </body>
+  </topic>
+  <topic id="annex-e-4">
+    <title>E.4 US and Canadian Accreditation</title>
+    <body>
+      <p>In the United States, education is a responsibility of the individual states, each of which licenses and regulates private providers according to its own rules; requirements and costs therefore vary widely (US Department of Education, 2021). The states of New York and Washington were examined as examples. American schooling follows a K–12 structure, culminating in a high-school diploma awarded on the basis of the Grade Point Average (GPA), accumulated through continuous assessment, together with standardised tests such as the PSAT/NMSQT, the SAT and the ACT for university admission. Registration fees for overseas schools seeking state approval were approximately US$20,000, excluding legal and agency costs and the annual costs of licence maintenance, inspection and examinations.</p>
+      <p>Canada is a federation of ten provinces and three territories, each of which is responsible for education. Several provinces, such as Manitoba, accredit “affiliate” or offshore schools that teach the provincial curriculum and award the provincial diploma. Most require prior national accreditation before the process can begin, which typically takes between 12 and 24 months. Costs are not published, but available indications suggest approximately C$15,000, excluding annual costs. According to research for this report, only one school in Ukraine had obtained accreditation from a Canadian provincial ministry by 2021.</p>
+    </body>
+  </topic>
+  <topic id="annex-e-5">
+    <title>E.5 ISO 21001</title>
+    <body>
+      <p>ISO 21001:2018 is the international standard for management systems in educational organisations (International Organization for Standardization, 2018). Certification by an accredited certification body assesses all aspects of the school’s management system, from administration to teaching and curriculum, and follows a three-year cycle with annual surveillance audits. Costs vary by country and by the size of the organisation, but averaged approximately US$15,000 in 2021. According to research for this report, only two schools in Ukraine held ISO 21001 certification at that time. The standard is not a substitute for curriculum accreditation, but it is valued by corporate clients and can support applications to other accrediting bodies.</p>
+      <table id="tbl-e1" frame="topbot" colsep="0" rowsep="1">
+        <title>Table E1: Summary of accreditation bodies</title>
+        <desc>Sources: Cambridge Assessment International Education (2017); Cambridge Assessment English (2021); Council of International Schools (2021); ISO (2018); Washington State Board of Education (2021); New York State Education Department (2021); Manitoba Education (2021); author’s research, 2021.</desc>
+        <tgroup cols="4">
+          <colspec colname="c1" colwidth="120*"/>
+          <colspec colname="c2" colwidth="130*"/>
+          <colspec colname="c3" colwidth="75*"/>
+          <colspec colname="c4" colwidth="126*"/>
+          <thead>
+            <row><entry>Body</entry><entry>What it provides</entry><entry>Typical time</entry><entry>Indicative cost (2021)</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Cambridge Assessment International Education</b></entry><entry>Curriculum and qualifications from age 5 to 19</entry><entry>3 to 6 months</entry><entry>Registration and annual fees; examination fees paid by families</entry></row>
+            <row><entry><b>Cambridge English</b></entry><entry>English-language examinations; examination-centre status</entry><entry>A few months</entry><entry>About US$5,000 to become a centre</entry></row>
+            <row><entry><b>International Baccalaureate Organization</b></entry><entry>PYP, MYP, Diploma and Career-related programmes</entry><entry>2 to 3 years per programme</entry><entry>Candidacy and annual fees</entry></row>
+            <row><entry><b>Council of International Schools</b></entry><entry>Whole-school international accreditation</entry><entry>3 to 5 years</entry><entry>Membership US$500 to US$8,000+ a year, plus evaluation visits</entry></row>
+            <row><entry><b>US state authorities</b></entry><entry>State approval and US high-school diploma</entry><entry>Varies by state</entry><entry>About US$20,000, plus annual costs</entry></row>
+            <row><entry><b>Canadian provincial ministries</b></entry><entry>Provincial curriculum and diploma</entry><entry>12 to 24 months</entry><entry>About C$15,000, plus annual costs</entry></row>
+            <row><entry><b>ISO certification bodies</b></entry><entry>ISO 21001 management-system certification</entry><entry>Under 1 year</entry><entry>About US$15,000; three-year cycle</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+    </body>
+  </topic>
+  <topic id="annex-f">
+    <title>Annex F Staffing, Visa and Property Data</title>
+    <body>
+      <p>The data in this annex were collected for this report in 2021 through enquiries with schools, recruitment agencies, property agents and official sources. They provide the inputs for the staffing and cost assumptions in Sections 5 and 6.</p>
+    </body>
+  </topic>
+  <topic id="annex-f-1">
+    <title>F.1 Teacher and Leadership Salaries</title>
+    <body>
+      <p>For the purposes of this report, teaching staff are defined as holders of a bachelor’s degree or higher from a recognised institution in Ukraine or abroad. Salaries of Ukrainian teachers with domestic qualifications vary widely according to length of service, responsibilities and contact hours. International schools generally require foreign teachers to hold degrees from universities in English-speaking countries, duly attested.</p>
+      <table id="tbl-f1" frame="topbot" colsep="0" rowsep="1">
+        <title>Table F1: Teacher and leadership salaries in Kyiv, 2021</title>
+        <desc>Source: author’s enquiries with schools and recruitment agencies in Kyiv, 2021.</desc>
+        <tgroup cols="3">
+          <colspec colname="c1" colwidth="140*"/>
+          <colspec colname="c2" colwidth="120*"/>
+          <colspec colname="c3" colwidth="191*"/>
+          <thead>
+            <row><entry>Category</entry><entry>Monthly salary (US$)</entry><entry>Notes</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Ukrainian teacher, private school</b></entry><entry>500 to 1,300</entry><entry>Teachers who also teach a foreign language earn about 10% more; no significant premium for age or gender</entry></row>
+            <row><entry><b>Ukrainian department head, private school</b></entry><entry>about 12% above teacher pay</entry><entry>Most senior staff earn 2 to 2.5 times the institutional average</entry></row>
+            <row><entry><b>Ukrainian teacher, international school</b></entry><entry>750 to 1,450</entry><entry>Higher end for holders of degrees from English-speaking universities</entry></row>
+            <row><entry><b>Foreign teacher, private school</b></entry><entry>1,600 on average</entry><entry>Plus visa, residence permit, housing and medical costs</entry></row>
+            <row><entry><b>Foreign teacher, international school</b></entry><entry>2,100 on average; 2,400 highest observed in Kyiv</entry><entry>As above</entry></row>
+            <row><entry><b>Foreign department head, international school</b></entry><entry>about 25% above teacher pay</entry><entry>Lower contact hours; a master’s degree is usually required</entry></row>
+            <row><entry><b>Head of school, international school</b></entry><entry>about three times base teacher pay, plus performance bonuses</entry><entry>Often holds a doctorate and a record of leadership in similar schools</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The financial model in Section 6 assumes an international teacher salary of US$3,000 a month, above the highest rate observed in 2021, in order to attract experienced staff away from established schools (Section 5.3).</p>
+    </body>
+  </topic>
+  <topic id="annex-f-2">
+    <title>F.2 Visa, Work Permit and Relocation Costs</title>
+    <body>
+      <p>Foreign teachers require a type D visa, a work permit and a temporary residence permit. Visa fees vary considerably by nationality because they are set on a reciprocal basis.</p>
+      <table id="tbl-f2" frame="topbot" colsep="0" rowsep="1">
+        <title>Table F2: Visa and relocation costs for foreign teachers, 2021</title>
+        <desc>Source: author’s research, 2021. Costs are approximate and subject to change.</desc>
+        <tgroup cols="3">
+          <colspec colname="c1" colwidth="200*"/>
+          <colspec colname="c2" colwidth="80*"/>
+          <colspec colname="c3" colwidth="171*"/>
+          <thead>
+            <row><entry>Item</entry><entry>Cost (US$)</entry><entry>Notes</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>Type D visa, US citizens</entry><entry>about 190</entry><entry>When the application is made before departure</entry></row>
+            <row><entry>Type D visa, UK citizens</entry><entry>over 800</entry><entry>Fees for other nationalities vary</entry></row>
+            <row><entry>Work permit</entry><entry>about 460</entry><entry>For one year</entry></row>
+            <row><entry>Pension fund payments</entry><entry>about 500</entry><entry>As reported in 2021</entry></row>
+            <row><entry>Administration (applications, notary, translation, photographs, transport)</entry><entry>about 300</entry><entry>One-off</entry></row>
+            <row><entry>Health insurance</entry><entry>about 100</entry><entry>Annual</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>In total, these costs amount to between approximately US$1,500 and US$2,200 per teacher, depending on nationality. Together with flights and recruitment costs, they underpin the allowance of about US$4,000 a year per international teacher used in the financial model.</p>
+    </body>
+  </topic>
+  <topic id="annex-f-3">
+    <title>F.3 Teacher Housing</title>
+    <body>
+      <p>Housing, or a housing allowance with administrative support, is a standard condition of employment for international teachers and was provided by all international schools in Kyiv in 2021. The cost averaged approximately US$1,000 a month per teacher, ranging from about US$600 to US$1,200 depending on location. Rental prices fell during the COVID-19 pandemic but had resumed an upward trend by the second quarter of 2021.</p>
+    </body>
+  </topic>
+  <topic id="annex-f-4">
+    <title>F.4 Commercial Lease Rates and Construction Costs</title>
+    <body>
+      <p>Commercial rents in Kyiv vary according to the class of building: modern new-builds (class A), buildings constructed or renovated within the last 15 to 20 years (class B+), and older buildings, including those built before independence (class B and below). Rents fell sharply after the financial crisis of 2008 and remained broadly stable in the years before 2020 (Table F3).</p>
+      <table id="tbl-f3" frame="topbot" colsep="0" rowsep="1">
+        <title>Table F3: Commercial lease rates in Kyiv, fourth quarter of 2019</title>
+        <desc>Source: Kyiv commercial property market data, Q4 2019, compiled for this report. Rates should be confirmed with property agents before use.</desc>
+        <tgroup cols="3">
+          <colspec colname="c1" colwidth="90*"/>
+          <colspec colname="c2" colwidth="170*"/>
+          <colspec colname="c3" colwidth="191*"/>
+          <thead>
+            <row><entry>Building class</entry><entry>Lease rate (US$ per square metre a month)</entry><entry>Notes</entry></row>
+          </thead>
+          <tbody>
+            <row><entry><b>Class A</b></entry><entry>20 to 40; about 30 on average</entry><entry>Discounts available for long leases</entry></row>
+            <row><entry><b>Class B+</b></entry><entry>18 to 29; about 24 on average</entry><entry>Marginally higher refurbishment costs</entry></row>
+            <row><entry><b>Class B</b></entry><entry>8 to 25; about 15 on average</entry><entry>Refurbishment costs about 18% higher than for class A</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>These rates apply to commercial (office) premises and were used to assess the Entry and Mid models, which assume leased buildings. Converting older buildings to meet sanitary standards for schools is particularly costly, as is the conversion of buildings designed for residential use (Section 4.2).</p>
+      <p>The recommended High model assumes a purpose-built campus. Its construction cost is estimated at approximately US$1,000 per square metre, including building services, for about 10,000 square metres, and the land cost at approximately US$6 million for a site of 2.5 to 3 hectares, including acquisition costs (Section 6.1). These figures are the author’s estimates for 2021 and should be confirmed by a quantity surveyor and property agents once a site has been identified.</p>
+    </body>
+  </topic>
+  <topic id="annex-g">
+    <title>Annex G Sources</title>
+    <body>
+      <p>All sources were published, or their data relate to periods, no later than October 2021. Web addresses are given where available.</p>
+      <section>
+        <title>Economy, labour market and demography</title>
+        <ul outputclass="references">
+          <li>BRDO (2021). <i>Ukraine’s export of IT services exceeded US$5 billion for the first time</i>. Better Regulation Delivery Office, February 2021. brdo.com.ua</li>
+          <li>Cabinet of Ministers of Ukraine (2017). <i>Energy Strategy of Ukraine until 2035: Security, Energy Efficiency, Competitiveness</i>.</li>
+          <li>Carnegie Endowment for International Peace (2012). <i>Underachiever: Ukraine’s Economy Since 1991</i>. carnegieendowment.org/2012/03/09/underachiever-ukraine-s-economy-since-1991-pub-47451</li>
+          <li>DLF (2021). <i>Exports of agricultural products from Ukraine</i>. DLF attorneys-at-law. dlf.ua</li>
+          <li>GMK Center (2021). <i>Contribution of the mining and metals sector to Ukraine’s economy in 2019–2020</i>. April 2021. gmk.center</li>
+          <li>International Monetary Fund (2020). <i>IMF Executive Board approves 18-month US$5 billion Stand-By Arrangement for Ukraine</i>. Press Release No. 20/239, 9 June 2020. imf.org</li>
+          <li>International Monetary Fund (2021). <i>World Economic Outlook Database</i>, April 2021, via Statista (2021).</li>
+          <li>Khomutenko, Y. (2016). <i>Remittances and Households’ Investment</i>.</li>
+          <li>Ministry of Social Policy of Ukraine (2019). Estimate of Ukrainians employed abroad, reported in the Ministry of Finance macroeconomic review, July 2019.</li>
+          <li>N-iX (2019). <i>Ukrainian IT market: number of specialists and industry revenue</i>. n-ix.com</li>
+          <li>National Bank of Ukraine (2020). <i>Inflation Report</i>, January 2020.</li>
+          <li>National Bank of Ukraine (2021). Balance of payments statistics: private remittances to Ukraine. bank.gov.ua</li>
+          <li>Opendatabot (2021). <i>Depopulation: births and deaths in Ukraine, 2010–2020</i>, 9 March 2021, based on State Statistics Service data. opendatabot.ua/en/analytics/depopulation</li>
+          <li>PISM (2020). <i>Ukrainian Labour Migration to the EU during the COVID-19 Pandemic</i>. Polish Institute of International Affairs, Bulletin No. 156, 23 July 2020. pism.pl</li>
+          <li>State Statistics Service of Ukraine (2021). Gross domestic product in 2020; population as at 1 January 2021; natural population movement. ukrstat.gov.ua</li>
+          <li>Statista (2021). <i>Ukraine: gross domestic product from 1996 to 2026</i>, based on IMF data. statista.com</li>
+          <li>Ukrainian Agribusiness Club (2021). Agricultural exports of Ukraine in 2020, February 2021.</li>
+          <li>United Nations, Department of Economic and Social Affairs (2019). <i>World Population Prospects 2019</i>.</li>
+          <li>World Bank (2020). <i>Personal remittances, received (% of GDP): Ukraine</i>. data.worldbank.org</li>
+          <li>World Steel Association (2021). Crude steel production by country, 2020, as reported by GMK Center, 2021.</li>
+        </ul>
+      </section>
+      <section>
+        <title>Education system and private education</title>
+        <ul outputclass="references">
+          <li>CEDOS (2019). <i>Ukrainian Students Abroad: Data up to the 2017/18 Academic Year</i>. cedos.org.ua</li>
+          <li>EF Education First (2020). <i>EF English Proficiency Index 2020</i>. ef.com/epi</li>
+          <li>European Parliament and Council (2006). <i>Recommendation on Key Competences for Lifelong Learning</i> (2006/962/EC).</li>
+          <li>Law of Ukraine No. 2145-VIII <i>On Education</i>, 5 September 2017.</li>
+          <li>Law of Ukraine No. 463-IX <i>On Complete General Secondary Education</i>, 16 January 2020.</li>
+          <li>Ministry of Education and Science of Ukraine (2016). <i>The New Ukrainian School: Conceptual Principles of Secondary School Reform</i>. mon.gov.ua</li>
+          <li>Ministry of Education and Science of Ukraine (2018). Register of private general secondary education institutions, Kyiv city and region.</li>
+          <li>OECD (2019). <i>Education at a Glance 2019</i>; GPS Education country profile: Ukraine. gpseducation.oecd.org</li>
+          <li>OECD (2019). <i>PISA 2018 Results</i>, Volumes I–III, and <i>Ukraine: Country Note</i>. oecd.org/pisa</li>
+          <li>Opendatabot (2021). <i>One in Five Schools in Kyiv Is Private</i>, 13 October 2021. opendatabot.ua/en/analytics/private-schools</li>
+          <li>Perspektywy Education Foundation (2018). <i>Study in Poland: Foreign Students in Poland 2018</i>.</li>
+          <li>Shevchenko, S. (2021). Changes in the Ukrainian educational field in the conditions of social uncertainty. <i>Ukrainian Sociological Journal</i>, 25, 17–36. doi:10.26565/2077-5105-2021-25-02</li>
+          <li>Ukrainian Centre for Educational Quality Assessment (2019). <i>National Report on the Results of PISA-2018</i>. testportal.gov.ua</li>
+          <li>WENR (2019). <i>Education in Ukraine</i>. World Education News and Reviews, June 2019. wenr.wes.org/2019/06/education-in-ukraine</li>
+          <li>World Bank (2019). <i>Review of the Education Sector in Ukraine: Moving toward Effectiveness, Equity and Efficiency</i>.</li>
+        </ul>
+      </section>
+      <section>
+        <title>Regulation, accreditation and tax</title>
+        <ul outputclass="references">
+          <li>Cabinet of Ministers of Ukraine (2015). Resolution No. 1187 of 30 December 2015, <i>Licensing Conditions for Educational Activity</i>.</li>
+          <li>Cambridge Assessment English (2021). <i>How to become a Cambridge English exam centre</i>. cambridgeenglish.org</li>
+          <li>Cambridge Assessment International Education (2017). <i>Becoming a Cambridge School: Registration Process</i>. cambridgeinternational.org</li>
+          <li>Council of International Schools (2021). <i>School membership and accreditation</i>. cois.org</li>
+          <li>Draft Law of Ukraine No. 5600 on amendments to the Tax Code (registered 2021).</li>
+          <li>International Organization for Standardization (2018). <i>ISO 21001:2018 Educational organizations: Management systems for educational organizations</i>. iso.org/standard/66266.html</li>
+          <li>International Schools Association (2021). isaschools.org; Association of International Schools in Europe (2021). aiseurope.org</li>
+          <li>Law of Ukraine No. 466-IX on amendments to the Tax Code (anti-BEPS law), 16 January 2020.</li>
+          <li>Manitoba Education (2021). <i>Affiliate schools</i>. edu.gov.mb.ca/k12/iep/aff_schools.html</li>
+          <li>Ministry of Health of Ukraine (2020). Order No. 2205 of 25 September 2020, <i>Sanitary Regulations for General Secondary Education Institutions</i>, in force from 1 January 2021.</li>
+          <li>New York State Education Department (2021). <i>Non-degree-granting school licensing process</i>. acces.nysed.gov</li>
+          <li>US Department of Education (2021). <i>State regulation of private schools</i>. ed.gov</li>
+          <li>Washington State Board of Education (2021). <i>Private school approval</i>. sbe.wa.gov</li>
+        </ul>
+      </section>
+      <section>
+        <title>Schools and primary research</title>
+        <ul outputclass="references">
+          <li>Author’s enquiries with schools, recruitment agencies and property agents on fees, salaries, visa costs and lease rates, 2021.</li>
+          <li>Author’s survey of Kyiv parents, 2021 (Annex D).</li>
+          <li>British International School Ukraine (2021). britishschool.ua</li>
+          <li>Kyiv International School (2021). kyiv.qsi.org</li>
+          <li>Pechersk School International (2021). School website and published school information.</li>
+          <li>US Department of State (2021). School fact sheets: Kyiv International School and Pechersk School International. 2017-2021.state.gov</li>
+        </ul>
+      </section>
+    </body>
+  </topic>
+  <topic id="contact" outputclass="contact">
+    <title>Contact</title>
+    <body>
+      <p outputclass="contact-name"><b>Scott Harmer</b></p>
+      <p outputclass="contact-email"><xref href="mailto:scottcharmer@gmail.com" format="email" scope="external">scottcharmer@gmail.com</xref></p>
+      <p outputclass="notice"><b>Important notice.</b> This report was prepared in October 2021 for a private client. It reflects information available, and market conditions prevailing, at that date. The financial projections are estimates based on stated assumptions and are not guarantees of future performance. This report does not constitute legal, tax or investment advice; the client should obtain independent professional advice before making any investment decision.</p>
+    </body>
+  </topic>
+</dita>
