@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This project converts my original 45-page 2021 report, *Ukraine: The Education Industry: Strategic Analysis and Market Outlook*, into two structured documentation formats: DITA/XML and DocBook 5.0. The original report remains available in the [parent project folder](../).
+This project converts my original 45-page 2021 report, *Ukraine: The Education Industry: Strategic Analysis and Market Outlook*, into two structured documentation formats: DITA/XML and DocBook 5.0. The original report remains available as the [45-page PDF](ukraine-education-report-2021.pdf) in this folder.
 
 The source files preserve the report's historical context. This is a documentation engineering demonstration, not an updated assessment of the Ukrainian education market.
 
@@ -11,7 +11,7 @@ The source files preserve the report's historical context. This is a documentati
 - [`ukraine_education_report.ditamap`](ukraine_education_report.ditamap): DITA bookmap defining the publication structure.
 - [`ukraine_education_report_topics.dita`](ukraine_education_report_topics.dita): DITA topic content.
 - [`ukraine_education_report_docbook.xml`](ukraine_education_report_docbook.xml): DocBook 5.0 version of the report.
-- [`images/`](images/): Cover image and 15 figures referenced by the XML source.
+- [`images/`](images/): Cover image and supporting figures referenced by the XML source.
 
 ## Validation and publishing
 
@@ -29,7 +29,7 @@ dita --input ukraine_education_report.ditamap --format html5 --output html5 --va
 
 ### Reproduce DocBook 5.0 validation
 
-Download the official schema from `https://cdn.docbook.org/schema/5.0/rng/docbook.rng`, then run:
+Download the official schema from `https://cdn.docbook.org/schema/5.0/rng/docbook.rng` and save it as `docbook.rng` in this directory, then run:
 
 ```bash
 xmllint --noout --relaxng docbook.rng ukraine_education_report_docbook.xml
