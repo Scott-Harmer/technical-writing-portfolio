@@ -38,6 +38,14 @@ An illustrated, seven-page guide to microphone and camera problems on Windows 11
 
 [Project overview](microsoft-teams-troubleshooting/) · [Troubleshooting guide](microsoft-teams-troubleshooting/teams-troubleshooting-guide.pdf) · [Case study](microsoft-teams-troubleshooting/teams-project-case-study.pdf)
 
+### Industrial Pump Maintenance Documentation
+
+Two complementary 14-page documentation samples for a fictional centrifugal pump: a working maintenance manual and an EU-focused editorial reconstruction. The project demonstrates procedural writing, safety communication, document control, technical information gaps and validation planning. Both documents are unapproved portfolio exercises.
+
+**Skills:** Technical writing, technical editing, procedural documentation, safety communication, document control, editorial QA.
+
+[Project overview](industrial-pump-maintenance/)
+
 ### AirSense 10 CPAP Equipment SOP
 
 A four-page procedural document for hospital technicians handling returned CPAP equipment, accompanied by a technical writing case study. It demonstrates safety-focused procedural structure, component-routing decisions, stop-work instructions and document control.
