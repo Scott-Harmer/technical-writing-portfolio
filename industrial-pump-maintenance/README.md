@@ -14,6 +14,8 @@ Both samples are presented as working documents to illustrate the technical docu
 
 ### 1. Industrial Pump Maintenance Manual — Technical Editing & Documentation
 
+[View maintenance manual PDF](Industrial_Pump_Maintenance_Manual_Technical_Editing_Portfolio.pdf)
+
 A 14-page maintenance manual demonstrating the organisation and presentation of technical information for industrial equipment.
 
 **Key features:**
@@ -26,6 +28,8 @@ A 14-page maintenance manual demonstrating the organisation and presentation of 
 **Document status:** Working draft. Further layout refinement, editorial quality assurance, and technical validation are required.
 
 ### 2. Industrial Pump Maintenance Manual — EU Technical Editorial Reconstruction
+
+[View EU editorial reconstruction PDF](Industrial_Pump_Maintenance_Manual_EU_Editorial_Reconstruction.pdf)
 
 A 14-page editorial reconstruction demonstrating a more controlled approach to technical documentation intended for an EU publication context.
 
