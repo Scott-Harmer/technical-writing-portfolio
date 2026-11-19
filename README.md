@@ -1,20 +1,32 @@
-# Technical Writing, Content Design & Learning Portfolio
+# Technical Writing & Learning Development Portfolio
 
-I develop clear, structured and audience-focused content across technical documentation, digital products, learning and professional communication. This portfolio brings together practical documentation, structured authoring, editorial work, instructional design and research-based reporting.
+I enjoy solving communication problems: understanding complex information, identifying what people need to know, and finding the clearest way to explain it.
 
-The projects demonstrate how I analyse complex information, make content decisions, organise material for different audiences and apply quality checks to improve clarity and usability.
+My approach combines analytical thinking, structured communication, problem-solving and an understanding of how people learn. I've developed these skills through professional technical documentation review, commercial editing, B2B client engagement and more than 25 years in education and training.
 
-## Core capabilities
+My experience includes working directly with business clients to identify requirements, develop tailored solutions and coordinate their delivery. I've also designed and standardized learning programmes, managed multi-site operations and collaborated with specialists to improve information quality.
 
-- **Technical writing and documentation:** Procedures, troubleshooting guides, API references, structured content and docs-as-code workflows.
-- **Content design and information architecture:** Content organisation, taxonomy, metadata, user-focused messaging and UX writing.
-- **Learning and customer education:** Learning needs analysis, programme design, instructional frameworks, e-learning and assessment.
-- **Editing and quality assurance:** Substantive editing, consistency, citation checks, validation and constructive author feedback.
-- **Research and analytical communication:** Evidence synthesis, strategic reporting, risk communication and decision-support content.
+Formal qualifications in technical communication, structured authoring and instructional practice complement this experience.
+
+I bring a systematic, practical and audience-focused approach to my work. Whether I'm reviewing technical documentation, developing instructions or designing learning materials, my aim is to produce information that meets user needs while supporting business objectives.
+
+**This portfolio demonstrates that approach through professional case studies and independent projects in technical writing and learning development.**
+
+## Explore my work
+
+### [Technical Writing & Documentation](#1-technical-documentation--digital-content)
+Information quality and review, API documentation, DITA/XML, procedures, troubleshooting, and content design.
+
+### [Learning & Development](#3-learning--customer-education)
+Learning programme design, assessment, instructional design, Articulate Rise 360, and customer education.
+
+**Other professional work:** [Academic & editorial work](#2-academic--editorial-work) · [Research & strategic communication](#4-research--strategic-communication)
+
+*Project pages distinguish professional/client work from independent demonstrations. Independent samples show methods and capabilities; they are not presented as commissioned or approved production documentation.*
 
 ## 1. Technical Documentation & Digital Content
 
-### API Documentation Case Study
+### API Documentation Case Study (Independent demonstration)
 
 A docs-as-code demonstration using OpenAPI 3.1, JSON, GitHub and Redocly CLI. The project connects machine-readable API specifications, validation and rendered developer documentation, showing how technical accuracy and documentation workflows work together.
 
@@ -22,7 +34,7 @@ A docs-as-code demonstration using OpenAPI 3.1, JSON, GitHub and Redocly CLI. Th
 
 [Project overview](api-documentation/) · [Case study PDF](api-documentation/api-documentation-case-study.pdf) · [OpenAPI source](api-documentation/openapi/openapi.yaml) · [View the interactive API reference](https://scott-harmer.github.io/technical-writing-portfolio/api-documentation/api-reference.html)
 
-### Information Product Review and DITA/XML
+### Information Product Review and DITA/XML (Professional case study and structured-authoring demonstration)
 
 A case study examining the review and restructuring of an audio-visual annotation information product within an AI data workflow. It brings together information architecture, taxonomy and classification decisions, metadata, editorial quality assurance and structured DITA/XML authoring. The DITA version was tested with DITA Open Toolkit 4.4.1 and generated successfully as HTML5.
 
@@ -30,7 +42,7 @@ A case study examining the review and restructuring of an audio-visual annotatio
 
 [Project overview](information-product-case-study/) · [Case study PDF](information-product-case-study/information-product-case-study.pdf) · [DITA map](information-product-case-study/case-study.ditamap) · [DITA/XML source](information-product-case-study/case-study.dita)
 
-### Microsoft Teams Troubleshooting Guide
+### Microsoft Teams Troubleshooting Guide (Independent demonstration)
 
 An illustrated, seven-page guide to microphone and camera problems on Windows 11 and macOS. It demonstrates the challenge of turning multiple potential causes into a clear troubleshooting sequence, supported by visual guidance and concise procedural instructions. The writing draws on ASD-STE100 principles without claiming formal compliance.
 
@@ -38,7 +50,7 @@ An illustrated, seven-page guide to microphone and camera problems on Windows 11
 
 [Project overview](microsoft-teams-troubleshooting/) · [Troubleshooting guide](microsoft-teams-troubleshooting/teams-troubleshooting-guide.pdf) · [Case study](microsoft-teams-troubleshooting/teams-project-case-study.pdf)
 
-### Industrial Pump Maintenance Documentation
+### Industrial Pump Maintenance Documentation (Independent demonstration)
 
 Two complementary 14-page documentation samples for a fictional centrifugal pump: a working maintenance manual and an EU-focused editorial reconstruction. The project demonstrates procedural writing, safety communication, document control, technical information gaps and validation planning. Both documents are unapproved portfolio exercises.
 
@@ -46,7 +58,7 @@ Two complementary 14-page documentation samples for a fictional centrifugal pump
 
 [Project overview](industrial-pump-maintenance/)
 
-### AirSense 10 CPAP Equipment SOP
+### AirSense 10 CPAP Equipment SOP (Independent demonstration)
 
 A four-page procedural document for hospital technicians handling returned CPAP equipment, accompanied by a technical writing case study. It demonstrates safety-focused procedural structure, component-routing decisions, stop-work instructions and document control.
 
@@ -56,7 +68,7 @@ A four-page procedural document for hospital technicians handling returned CPAP 
 
 *Portfolio demonstration only. Draft, not approved for clinical use.*
 
-### UX & UI Writing Samples
+### UX & UI Writing Samples (Independent demonstration)
 
 Product-content examples focused on clear messaging, information hierarchy and user-centred communication. The Relay landing page demonstrates value-proposition writing, benefit-led feature copy, calls to action, reassurance copy and FAQs for a fictional B2B workflow platform.
 
@@ -66,7 +78,7 @@ Product-content examples focused on clear messaging, information hierarchy and u
 
 ## 2. Academic & Editorial Work
 
-### Academic Editing: Doctoral Thesis
+### Academic Editing: Doctoral Thesis (Professional collaboration; adapted sample)
 
 An anonymised sample from an ongoing four-year collaboration on a three-paper doctoral thesis. The work involves substantive editing of academic English, argument clarity, cohesion, terminology, APA 7 citation checks and constructive queries to the researcher. It requires balancing linguistic improvement with preservation of the author's meaning and academic ownership.
 
@@ -96,7 +108,7 @@ Interactive learning samples covering AI-related judgement, effective one-to-one
 
 ## 4. Research & Strategic Communication
 
-### Ukraine Education Industry Report (2021)
+### Ukraine Education Industry Report (2021) (Commissioned report)
 
 A 45-page strategic report prepared for a private client evaluating investment opportunities in international education in Kyiv. The work integrates market and regulatory research, competitor comparisons, financial projections, risk analysis and an exploratory survey of 23 parents into a decision-focused report with a supporting research annex.
 
