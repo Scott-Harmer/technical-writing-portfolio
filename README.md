@@ -90,6 +90,14 @@ The three-paragraph sample was developed collaboratively for portfolio demonstra
 
 ## 3. Learning & Customer Education
 
+### York English School (YES) — Executive Training and B2B Learning Solutions
+
+Professional experience co-founding and academically directing a premium English-language training business serving senior executives of major Ukrainian organisations, their families and leading business owners. I led consultation, language and needs assessment, and bespoke programme design aligned with clients' business objectives and professional goals.
+
+**Skills:** B2B training needs analysis, executive stakeholder engagement, bespoke learning programme design, solution presentation, educational leadership.
+
+[Explore the York English School project](learning-development/york-english-school/)
+
 ### O'Key English Schools — Academic Leadership, Learning Design and Quality Assurance
 
 Professional experience co-founding and academically directing a six-location English-language school network in the Kyiv region. I designed integrated learner pathways, established placement and progression assessments, and introduced a structured teacher observation and professional-development programme.
