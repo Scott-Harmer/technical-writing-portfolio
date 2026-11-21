@@ -90,6 +90,15 @@ The three-paragraph sample was developed collaboratively for portfolio demonstra
 
 ## 3. Learning & Customer Education
 
+### O'Key English Schools — Academic Leadership, Learning Design and Quality Assurance
+
+Professional experience co-founding and academically directing a six-location English-language school network in the Kyiv region. I designed integrated learner pathways, established placement and progression assessments, and introduced a structured teacher observation and professional-development programme.
+
+**Skills:** Curriculum architecture, assessment design, training needs analysis, teacher development, academic quality assurance, multi-site leadership.
+
+[Explore the O'Key English Schools project](learning-development/okey-english-schools/)
+
+
 ### Learning Programme Design and Instructional Design
 
 A needs-led, ten-week learning programme developed from diagnostic evidence, accompanied by retrospective analyses using ADDIE and Action Mapping. These samples demonstrate how learning needs, instructional decisions, performance goals and programme structure can be examined from different perspectives.
