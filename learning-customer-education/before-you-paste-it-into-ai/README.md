@@ -16,7 +16,7 @@ Follow the five deliverables in sequence to see how the learning experience deve
 2. **[Narration script](narration-script.md)** — Shows the written instructional explanation prepared for the voiceover.
 3. **[Audio narration](narration-original.mp3)** — The standalone ElevenLabs recording in the selected British-English female voice, before the unintended opening sound was trimmed for the video.
 4. **[Narrated workplace video](narrated-video-prototype.mp4)** — The initial video prototype, combining workplace imagery, narration, on-screen teaching points and laptop demonstrations.
-5. **[Final speaking-avatar video](speaking-avatar-final.mp4)** — The selected integrated version, combining the speaking presenter with the laptop demonstrations and animated three-step emphasis.
+5. **[Final speaking-avatar video — watch on YouTube](https://youtu.be/4hN1BBDsKQ)** — The selected integrated version, combining the speaking presenter with the laptop demonstrations and animated three-step emphasis.
 
 ## Development and editing process
 
