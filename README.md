@@ -115,6 +115,14 @@ A needs-led, ten-week learning programme developed from diagnostic evidence, acc
 
 [Learning project overview](learning-customer-education/) · [Programme design PDF](learning-customer-education/learning-programme-design.pdf) · [ADDIE analysis](learning-customer-education/addie-in-practice.pdf) · [Action Mapping analysis](learning-customer-education/action-mapping-lens.pdf)
 
+### Before You Paste It Into AI — Workplace Microlearning (Independent demonstration)
+
+A workplace AI safety microlearning project built around **Pause → Check → Decide**. The five-stage production sequence documents the visual storyboard, narration script, standalone audio, narrated video prototype and final speaking-avatar video, alongside the instructional and multimedia editing decisions.
+
+**Skills:** Instructional design, microlearning, scenario-based learning, scriptwriting, AI-assisted audio and video production, multimedia editing and quality assurance.
+
+[Explore the project and production materials](learning-customer-education/before-you-paste-it-into-ai/) · [Watch the final speaking-avatar video](https://youtu.be/4hN1lBBDsKQ)
+
 ### Articulate Rise 360 and Supporting Evidence
 
 Interactive learning samples covering AI-related judgement, effective one-to-one meetings and DISC, supported by examples of assessment design, accessibility considerations and LMS-oriented publishing. The learning portfolio also includes selected original Cambridge DELTA programme-design evidence.
