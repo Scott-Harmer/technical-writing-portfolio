@@ -2,9 +2,9 @@
 
 ## Project overview
 
-Product-content portfolio examples demonstrating how clear language, information hierarchy and user-focused messaging support digital experiences.
+**UX writing, product messaging and content design**
 
-The featured sample is a landing page for Relay, a **fictional** B2B workflow automation platform for growing teams. It is a portfolio demonstration, not a live commercial product.
+The featured sample is a landing page for Relay, a B2B workflow automation product concept for growing teams. It demonstrates how clear language, benefit-led messaging, information hierarchy and user-focused calls to action help visitors understand a product and decide what to do next.
 
 ## The content design challenge
 
