@@ -1,14 +1,12 @@
 # Industrial Pump Maintenance Documentation
 
-**Technical Writing & Editing Portfolio Project | Work in Progress**
+**Technical writing, maintenance procedures and editorial reconstruction**
 
 ## Project Overview
 
-This project presents two technical documentation samples developed around the fictional SIP 80-200 close-coupled centrifugal water pump.
+Two industrial pump maintenance manuals demonstrate my approach to technical writing, structured procedures, safety communication and document control. The project covers a SIP 80-200 close-coupled centrifugal water pump and shows how technical information can be organised for maintenance tasks and prepared for engineering review.
 
-The documents demonstrate approaches to technical writing, editorial restructuring, maintenance procedure development, safety communication, and document quality control.
-
-Both samples are presented as working documents to illustrate the technical documentation development process rather than as final, approved maintenance instructions.
+The paired documents highlight both practical maintenance instructions and a controlled editorial reconstruction, including safety classifications, revision controls and technical validation tracking.
 
 ## Portfolio Documents
 
