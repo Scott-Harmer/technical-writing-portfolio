@@ -1,10 +1,14 @@
-# Structured documentation: DITA and DocBook 5
+# Ukraine Education Industry Report: Research and Structured Publishing
+
+**Strategic industry research | Long-form report writing | DITA/XML and DocBook 5.0**
 
 ## Project overview
 
-This project converts my original 45-page 2021 report, *Ukraine: The Education Industry: Strategic Analysis and Market Outlook*, into two structured documentation formats: DITA/XML and DocBook 5.0. The original report remains available as the [45-page PDF](ukraine-education-report-2021.pdf) in this folder.
+My original 45-page report, *Ukraine: The Education Industry: Strategic Analysis and Market Outlook* (2021), demonstrates long-form research, strategic analysis and the organisation of complex industry information into a structured, readable publication.
 
-The source files preserve the report's historical context. This is a documentation engineering demonstration, not an updated assessment of the Ukrainian education market.
+I subsequently converted the report into DITA/XML and DocBook 5.0, demonstrating structured authoring, XML validation and HTML5 publishing. Recruiters can review both the [original 45-page report (PDF)](ukraine-education-report-2021.pdf) and the published web version.
+
+The research reflects the Ukrainian education industry in 2021; its findings and projections are historical rather than current.
 
 **[Read the published HTML5 report](https://scott-harmer.github.io/technical-writing-portfolio/ukraine-education-industry-report/ukraine-report-html5/index.html)**
 
