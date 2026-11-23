@@ -14,17 +14,17 @@ I bring a systematic, practical and audience-focused approach to my work. Whethe
 
 ## Explore My Work
 
-### [Part 1 — Technical Writing & Documentation](#part-1--technical-writing--documentation)
+### [Part 1: Technical Writing and Documentation](#part-1-technical-writing-and-documentation)
 
 Information architecture, DITA/XML, API documentation, UX writing, troubleshooting, technical procedures and safety-focused documentation.
 
-### [Part 2 — Learning & Development](#part-2--learning--development)
+### [Part 2: Learning and Development](#part-2-learning-and-development)
 
-Academic leadership, B2B training, curriculum design, instructional design, Articulate Rise 360, video production, microlearning, academic editing and research.
+Academic leadership, B2B training, curriculum design, instructional design, Articulate Rise 360, video production, microlearning and academic editing.
 
 ---
 
-## Part 1 — Technical Writing & Documentation
+## Part 1: Technical Writing and Documentation
 
 ### 1. Information Product Review & DITA/XML
 
@@ -88,9 +88,27 @@ The documentation demonstrates safety-focused procedural structure, component-ro
 
 [Project overview and documents](airsense-10-sop/)
 
+### 7. Ukraine Education Industry Report — Research & Strategic Communication
+
+A 45-page strategic report prepared for a private client evaluating investment opportunities in international education in Kyiv.
+
+The work integrates market and regulatory research, competitor comparisons, financial projections, risk analysis and an exploratory survey of 23 parents into a decision-focused report with a supporting research annex.
+
+The project demonstrates the synthesis of complex evidence, communication of uncertainty and presentation of findings to support strategic decision-making.
+
+The report was also converted into structured DITA/XML and DocBook 5.0 documentation, demonstrating XML authoring, publication structure, schema validation and HTML5 publishing.
+
+The DITA documentation was built using DITA Open Toolkit 4.4.1 with validation enabled, and the DocBook XML passed formal RELAX NG schema validation using `xmllint`.
+
+**Skills:** Research synthesis, strategic reporting, financial information design, risk communication, evidence-based recommendations, DITA/XML, DocBook 5, structured authoring, schema validation, HTML5 publishing.
+
+[Read the HTML5 report](https://scott-harmer.github.io/technical-writing-portfolio/ukraine-education-industry-report/ukraine-report-html5/index.html) · [Project overview](ukraine-education-industry-report/) · [Full report PDF](ukraine-education-industry-report/ukraine-education-report-2021.pdf) · [DITA bookmap](ukraine-education-industry-report/ukraine_education_report.ditamap) · [DITA topics](ukraine-education-industry-report/ukraine_education_report_topics.dita) · [DocBook 5 XML](ukraine-education-industry-report/ukraine_education_report_docbook.xml)
+
+*Research completed in October 2021. Findings reflect the market conditions at that time.*
+
 ---
 
-## Part 2 — Learning & Development
+## Part 2: Learning and Development
 
 ### 1. York English School (YES) — Executive Training & B2B Learning Solutions
 
@@ -160,20 +178,3 @@ The portfolio includes an annotated editing sample, an explanatory document and 
 
 [Project overview](academic-editing/) · [Annotated sample PDF](academic-editing/academic-editing-annotated-sample.pdf) · [Editing explainer](academic-editing/academic-editing-explainer.pdf) · [Tracked changes DOCX](academic-editing/academic-editing-tracked-changes.docx)
 
-### 6. Ukraine Education Industry Report — Research & Strategic Communication
-
-A 45-page strategic report prepared for a private client evaluating investment opportunities in international education in Kyiv.
-
-The work integrates market and regulatory research, competitor comparisons, financial projections, risk analysis and an exploratory survey of 23 parents into a decision-focused report with a supporting research annex.
-
-The project demonstrates the synthesis of complex evidence, communication of uncertainty and presentation of findings to support strategic decision-making.
-
-The report was also converted into structured DITA/XML and DocBook 5.0 documentation, demonstrating XML authoring, publication structure, schema validation and HTML5 publishing.
-
-The DITA documentation was built using DITA Open Toolkit 4.4.1 with validation enabled, and the DocBook XML passed formal RELAX NG schema validation using `xmllint`.
-
-**Skills:** Research synthesis, strategic reporting, financial information design, risk communication, evidence-based recommendations, DITA/XML, DocBook 5, structured authoring, schema validation, HTML5 publishing.
-
-[Read the HTML5 report](https://scott-harmer.github.io/technical-writing-portfolio/ukraine-education-industry-report/ukraine-report-html5/index.html) · [Project overview](ukraine-education-industry-report/) · [Full report PDF](ukraine-education-industry-report/ukraine-education-report-2021.pdf) · [DITA bookmap](ukraine-education-industry-report/ukraine_education_report.ditamap) · [DITA topics](ukraine-education-industry-report/ukraine_education_report_topics.dita) · [DocBook 5 XML](ukraine-education-industry-report/ukraine_education_report_docbook.xml)
-
-*Research completed in October 2021. Findings reflect the market conditions at that time.*
