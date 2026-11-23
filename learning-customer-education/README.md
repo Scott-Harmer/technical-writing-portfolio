@@ -44,14 +44,14 @@ The Rise 360 samples were tested as SCORM packages in TalentLMS. The linked PDFs
 - [Running Effective 1:1 Meetings (PDF)](articulate-rise/running-effective-1-1-meetings.pdf)
 - [Decoding DISC (PDF)](articulate-rise/decoding-disc.pdf)
 
-## Before You Paste It Into AI — workplace microlearning
+## Before You Paste It Into AI — AI-assisted video production & microlearning
 
-A workplace AI safety microlearning demonstration teaching the **Pause → Check → Decide** approach. The project page presents five deliverables in production order, from storyboard and script through standalone audio, narrated video prototype and final speaking-avatar video, with the development process and editing rationale.
+An AI-assisted video production project built around the workplace AI safety framework **Pause → Check → Decide**. The work progresses from visual storyboard and narration script through standalone audio and a narrated video prototype to the final speaking-avatar video. The project page explains the production process and key editing decisions.
 
-**Skills demonstrated:** Instructional design, scenario-based microlearning, narration scripting, AI-assisted multimedia production, video editing and quality assurance.
+**Skills demonstrated:** Video production, instructional design, scenario-based microlearning, narration scripting, AI-generated voiceover, speaking-avatar production, video editing and multimedia quality assurance.
 
-- [Explore the project and its five production materials](before-you-paste-it-into-ai/)
 - [Watch the final speaking-avatar video](https://youtu.be/4hN1lBBDsKQ)
+- [Explore the five-stage production process and materials](before-you-paste-it-into-ai/)
 
 ## Original source evidence
 
