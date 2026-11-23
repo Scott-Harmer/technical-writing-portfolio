@@ -115,13 +115,13 @@ A needs-led, ten-week learning programme developed from diagnostic evidence, acc
 
 [Learning project overview](learning-customer-education/) · [Programme design PDF](learning-customer-education/learning-programme-design.pdf) · [ADDIE analysis](learning-customer-education/addie-in-practice.pdf) · [Action Mapping analysis](learning-customer-education/action-mapping-lens.pdf)
 
-### Before You Paste It Into AI — Workplace Microlearning (Independent demonstration)
+### Before You Paste It Into AI — AI-Assisted Video Production & Microlearning (Independent demonstration)
 
-A workplace AI safety microlearning project built around **Pause → Check → Decide**. The five-stage production sequence documents the visual storyboard, narration script, standalone audio, narrated video prototype and final speaking-avatar video, alongside the instructional and multimedia editing decisions.
+An AI-assisted video production project demonstrating the development of a workplace microlearning experience, from visual storyboard and narration script to a narrated video prototype and final speaking-avatar video. The project combines instructional design, AI-generated voiceover, avatar production, video editing and multimedia quality assurance.
 
-**Skills:** Instructional design, microlearning, scenario-based learning, scriptwriting, AI-assisted audio and video production, multimedia editing and quality assurance.
+**Skills:** Video production, instructional design, microlearning, scriptwriting, AI-generated narration, speaking-avatar production, multimedia editing and quality assurance.
 
-[Explore the project and production materials](learning-customer-education/before-you-paste-it-into-ai/) · [Watch the final speaking-avatar video](https://youtu.be/4hN1lBBDsKQ)
+[Watch the final speaking-avatar video](https://youtu.be/4hN1lBBDsKQ) · [Explore the production process and materials](learning-customer-education/before-you-paste-it-into-ai/)
 
 ### Articulate Rise 360 and Supporting Evidence
 
