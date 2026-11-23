@@ -14,15 +14,17 @@ I bring a systematic, practical and audience-focused approach to my work. Whethe
 
 ## Explore My Work
 
-### [Part 1: Technical Writing and Documentation](#part-1-technical-writing-and-documentation)
+### [Part 1: Technical Writing and Documentation](#portfolio-technical-writing)
 
 Information architecture, DITA/XML, API documentation, UX writing, troubleshooting, technical procedures and safety-focused documentation.
 
-### [Part 2: Learning and Development](#part-2-learning-and-development)
+### [Part 2: Learning and Development](#portfolio-learning-development)
 
 Academic leadership, B2B training, curriculum design, instructional design, Articulate Rise 360, video production, microlearning and academic editing.
 
 ---
+
+<a id="portfolio-technical-writing"></a>
 
 ## Part 1: Technical Writing and Documentation
 
@@ -107,6 +109,8 @@ The DITA documentation was built using DITA Open Toolkit 4.4.1 with validation e
 *Research completed in October 2021. Findings reflect the market conditions at that time.*
 
 ---
+
+<a id="portfolio-learning-development"></a>
 
 ## Part 2: Learning and Development
 
